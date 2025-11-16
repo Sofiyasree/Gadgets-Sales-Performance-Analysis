@@ -1,0 +1,1201 @@
+OrderID,Week,Order_Date,Customer_Name,Customer_Age,Country,City,Product,Units_Sold,Price_INR,Marketing_Spend_INR,Discount_Percentage,Payment_Method,Shipping_Status,Delivery_Time_Days,Revenue_INR,Discount_Amount_INR,Final_Amount_INR
+1,7,2023-01-01 00:00:00,Aditi Verma,33,Japan,Chennai,DSLR Camera,21,32819,29798,13,Cash on Delivery,Shipped,14,689199,89596.0,599603.0
+2,20,2023-01-01 01:00:00,Yuki Nakamura,59,UAE,Dubai,Wireless Mouse,16,48779,28466,21,UPI,Returned,4,780464,163897.0,616567.0
+3,15,2023-01-01 02:00:00,Suresh Kumar,47,UK,Hyderabad,Drone,44,66584,28516,10,Net Banking,Returned,13,2929696,292970.0,2636726.0
+4,11,2023-01-01 03:00:00,Arjun Reddy,33,Germany,Dubai,Earbuds,40,20950,26705,9,Cash on Delivery,Shipped,12,838000,75420.0,762580.0
+5,8,2023-01-01 04:00:00,Yuki Nakamura,29,UK,Chennai,Power Bank,26,16173,26070,26,Net Banking,Pending,9,420498,109329.0,311169.0
+6,7,2023-01-01 05:00:00,Haruto Tanaka,34,Italy,Chennai,Tablet,16,59032,21682,29,Debit Card,Delivered,10,944512,273908.0,670604.0
+7,19,2023-01-01 06:00:00,Haruto Tanaka,33,USA,Kolkata,Smartwatch,28,29036,7105,16,Credit Card,Shipped,2,813008,130081.0,682927.0
+8,11,2023-01-01 07:00:00,Rahul Sharma,29,UK,Dubai,Fitness Band,1,72356,10751,3,UPI,Shipped,5,72356,2171.0,70185.0
+9,11,2023-01-01 08:00:00,Aarav Patel,25,UAE,Berlin,Tablet,36,15292,16543,23,Debit Card,Shipped,14,550512,126618.0,423894.0
+10,4,2023-01-01 09:00:00,Rahul Sharma,37,Japan,Dubai,Smartphone,10,4052,13264,14,Debit Card,Pending,4,40520,5673.0,34847.0
+11,8,2023-01-01 10:00:00,Emma Brown,20,USA,Paris,Router,43,45377,3486,25,Cash on Delivery,Returned,9,1951211,487803.0,1463408.0
+12,3,2023-01-01 11:00:00,Liam Walker,33,Germany,Kolkata,Power Bank,17,68838,900,15,Net Banking,Pending,4,1170246,175537.0,994709.0
+13,2,2023-01-01 12:00:00,James Smith,47,India,Tokyo,Bluetooth Speaker,23,68819,19739,20,UPI,Shipped,8,1582837,316567.0,1266270.0
+14,12,2023-01-01 13:00:00,Rahul Sharma,40,China,Tokyo,Router,7,16620,10916,12,Debit Card,Pending,8,116340,13961.0,102379.0
+15,6,2023-01-01 14:00:00,Chen Wei,45,USA,Paris,Smartphone,44,31461,3912,8,Cash on Delivery,Pending,6,1384284,110743.0,1273541.0
+16,2,2023-01-01 15:00:00,Yuki Nakamura,57,Singapore,London,Smartphone,7,21750,16940,10,UPI,Shipped,6,152250,15225.0,137025.0
+17,1,2023-01-01 16:00:00,Diya Iyer,22,Italy,Tokyo,Laptop,44,10472,24906,10,Net Banking,Pending,11,460768,46077.0,414691.0
+18,12,2023-01-01 17:00:00,Sophia Davis,37,Japan,Paris,Drone,15,70263,2375,5,Debit Card,Delivered,8,1053945,52697.0,1001248.0
+19,12,2023-01-01 18:00:00,Suresh Kumar,57,Italy,Delhi,Smartwatch,34,58602,21427,0,Debit Card,Pending,12,1992468,0.0,1992468.0
+20,17,2023-01-01 19:00:00,Sophia Davis,18,USA,Berlin,Earbuds,46,26523,4798,21,Debit Card,Pending,13,1220058,256212.0,963846.0
+21,10,2023-01-01 20:00:00,Chen Wei,47,USA,Dubai,DSLR Camera,45,31766,4268,5,UPI,Returned,12,1429470,71474.0,1357996.0
+22,16,2023-01-01 21:00:00,Arjun Reddy,38,Singapore,Berlin,Drone,4,67060,6252,12,UPI,Returned,10,268240,32189.0,236051.0
+23,15,2023-01-01 22:00:00,Rahul Sharma,37,Germany,Paris,Tablet,14,10079,21717,21,UPI,Shipped,9,141106,29632.0,111474.0
+24,15,2023-01-01 23:00:00,James Smith,23,Italy,Mumbai,Smartphone,14,9399,12989,23,UPI,Shipped,5,131586,30265.0,101321.0
+25,19,2023-01-02 00:00:00,Arjun Reddy,39,USA,Dubai,Tablet,16,61726,1853,21,Cash on Delivery,Returned,11,987616,207399.0,780217.0
+26,12,2023-01-02 01:00:00,Emily Johnson,35,China,Delhi,Keyboard,7,17532,27486,4,Credit Card,Delivered,1,122724,4909.0,117815.0
+27,20,2023-01-02 02:00:00,Emily Johnson,25,UK,Delhi,Tablet,32,44162,21871,14,Cash on Delivery,Pending,1,1413184,197846.0,1215338.0
+28,3,2023-01-02 03:00:00,Sophia Davis,56,Germany,Berlin,Bluetooth Speaker,19,4749,7097,26,Debit Card,Delivered,2,90231,23460.0,66771.0
+29,5,2023-01-02 04:00:00,Liam Walker,49,China,Bangalore,Wireless Mouse,2,12353,15191,17,Cash on Delivery,Delivered,10,24706,4200.0,20506.0
+30,19,2023-01-02 05:00:00,Aditi Verma,50,Germany,Dubai,Keyboard,10,29477,4811,19,Net Banking,Returned,10,294770,56006.0,238764.0
+31,7,2023-01-02 06:00:00,Liam Walker,33,China,New York,Keyboard,17,25570,15807,13,UPI,Shipped,5,434690,56510.0,378180.0
+32,9,2023-01-02 07:00:00,Yuki Nakamura,29,UAE,Delhi,Smartwatch,37,12437,11294,14,Net Banking,Pending,4,460169,64424.0,395745.0
+33,7,2023-01-02 08:00:00,Chen Wei,55,Japan,Mumbai,Drone,12,39104,3434,25,Net Banking,Shipped,1,469248,117312.0,351936.0
+34,18,2023-01-02 09:00:00,Haruto Tanaka,51,China,Kolkata,Smartwatch,6,64370,16906,4,Debit Card,Delivered,4,386220,15449.0,370771.0
+35,4,2023-01-02 10:00:00,Emma Brown,31,Australia,London,Smart TV,22,5551,10894,25,UPI,Delivered,4,122122,30530.0,91592.0
+36,14,2023-01-02 11:00:00,Liam Walker,53,China,Bangalore,Gaming Console,32,69359,18093,3,Net Banking,Shipped,10,2219488,66585.0,2152903.0
+37,18,2023-01-02 12:00:00,Aarav Patel,50,India,Kolkata,Smartwatch,41,55880,27372,1,Debit Card,Shipped,4,2291080,22911.0,2268169.0
+38,9,2023-01-02 13:00:00,Emma Brown,40,India,Bangalore,Tablet,20,13916,9440,6,UPI,Returned,1,278320,16699.0,261621.0
+39,2,2023-01-02 14:00:00,Chen Wei,19,France,Mumbai,Earbuds,1,42445,17688,9,Credit Card,Shipped,9,42445,3820.0,38625.0
+40,20,2023-01-02 15:00:00,Emma Brown,58,Australia,Berlin,Tablet,47,48636,8825,15,Debit Card,Shipped,14,2285892,342884.0,1943008.0
+41,15,2023-01-02 16:00:00,James Smith,38,Australia,Chennai,Earbuds,6,74927,21300,9,Cash on Delivery,Returned,3,449562,40461.0,409101.0
+42,7,2023-01-02 17:00:00,Rahul Sharma,19,UK,Dubai,Wireless Mouse,19,79194,11129,17,UPI,Shipped,13,1504686,255797.0,1248889.0
+43,12,2023-01-02 18:00:00,James Smith,44,Australia,Paris,Drone,18,30685,25509,16,Net Banking,Delivered,4,552330,88373.0,463957.0
+44,8,2023-01-02 19:00:00,Emma Brown,26,UK,Hyderabad,Wireless Mouse,6,52134,5641,29,Net Banking,Shipped,5,312804,90713.0,222091.0
+45,15,2023-01-02 20:00:00,Arjun Reddy,18,France,New York,Drone,45,68847,21852,20,Cash on Delivery,Pending,13,3098115,619623.0,2478492.0
+46,3,2023-01-02 21:00:00,Emily Johnson,28,France,Kolkata,Drone,33,40993,4171,27,Cash on Delivery,Delivered,13,1352769,365248.0,987521.0
+47,14,2023-01-02 22:00:00,Emma Brown,20,Japan,Dubai,Keyboard,23,45333,28812,12,Net Banking,Returned,7,1042659,125119.0,917540.0
+48,17,2023-01-02 23:00:00,James Smith,40,India,New York,Smart TV,23,59865,7792,0,UPI,Delivered,6,1376895,0.0,1376895.0
+49,4,2023-01-03 00:00:00,Diya Iyer,43,China,Chennai,Earbuds,26,50756,15938,0,Debit Card,Returned,5,1319656,0.0,1319656.0
+50,18,2023-01-03 01:00:00,Chen Wei,21,China,Hyderabad,Keyboard,13,62192,23885,14,Cash on Delivery,Pending,8,808496,113189.0,695307.0
+51,8,2023-01-03 02:00:00,Arjun Reddy,35,Singapore,New York,Smartwatch,7,61686,12731,0,Cash on Delivery,Pending,14,431802,0.0,431802.0
+52,4,2023-01-03 03:00:00,James Smith,23,Singapore,New York,Router,15,49733,18982,5,Cash on Delivery,Delivered,1,745995,37300.0,708695.0
+53,2,2023-01-03 04:00:00,Liam Walker,52,Canada,Kolkata,Bluetooth Speaker,44,26993,15011,24,Credit Card,Shipped,7,1187692,285046.0,902646.0
+54,6,2023-01-03 05:00:00,Suresh Kumar,39,Germany,Tokyo,Drone,27,31492,11609,25,UPI,Delivered,12,850284,212571.0,637713.0
+55,10,2023-01-03 06:00:00,Sophia Davis,32,Japan,Hyderabad,Earbuds,26,21981,8944,12,UPI,Delivered,6,571506,68581.0,502925.0
+56,4,2023-01-03 07:00:00,Aditi Verma,39,Canada,Dubai,Wireless Mouse,33,25143,21945,26,UPI,Pending,11,829719,215727.0,613992.0
+57,18,2023-01-03 08:00:00,Haruto Tanaka,54,Canada,Chennai,Tablet,15,78603,16105,27,UPI,Returned,5,1179045,318342.0,860703.0
+58,12,2023-01-03 09:00:00,James Smith,59,USA,Hyderabad,DSLR Camera,36,61277,13526,0,UPI,Delivered,7,2205972,0.0,2205972.0
+59,2,2023-01-03 10:00:00,Aarav Patel,29,USA,Berlin,Smartwatch,45,50990,9821,4,Net Banking,Shipped,3,2294550,91782.0,2202768.0
+60,10,2023-01-03 11:00:00,Aditi Verma,59,Italy,Mumbai,DSLR Camera,27,63888,20148,8,Cash on Delivery,Pending,1,1724976,137998.0,1586978.0
+61,4,2023-01-03 12:00:00,Chen Wei,55,Canada,Berlin,Power Bank,5,70351,5935,29,Net Banking,Delivered,9,351755,102009.0,249746.0
+62,14,2023-01-03 13:00:00,Diya Iyer,35,Australia,Tokyo,Power Bank,2,50999,8993,24,Credit Card,Delivered,2,101998,24480.0,77518.0
+63,16,2023-01-03 14:00:00,Fatima Khan,52,Germany,Mumbai,Tablet,33,71309,7191,16,Debit Card,Shipped,13,2353197,376512.0,1976685.0
+64,15,2023-01-03 15:00:00,James Smith,47,Japan,Chennai,Power Bank,16,13446,27053,15,Cash on Delivery,Delivered,10,215136,32270.0,182866.0
+65,8,2023-01-03 16:00:00,Suresh Kumar,41,Canada,Kolkata,Gaming Console,23,31733,3263,7,Credit Card,Delivered,3,729859,51090.0,678769.0
+66,14,2023-01-03 17:00:00,Aditi Verma,59,UAE,Kolkata,Wireless Mouse,38,77000,20889,16,Net Banking,Delivered,8,2926000,468160.0,2457840.0
+67,8,2023-01-03 18:00:00,Haruto Tanaka,47,China,Chennai,Drone,16,49632,3741,14,Debit Card,Delivered,12,794112,111176.0,682936.0
+68,16,2023-01-03 19:00:00,Emma Brown,31,Germany,Bangalore,Keyboard,14,22576,3557,23,Credit Card,Shipped,10,316064,72695.0,243369.0
+69,13,2023-01-03 20:00:00,James Smith,23,USA,Chennai,Smart TV,29,4320,17434,0,Debit Card,Delivered,9,125280,0.0,125280.0
+70,18,2023-01-03 21:00:00,Rahul Sharma,20,Italy,Berlin,Smartwatch,26,11750,6074,11,Credit Card,Delivered,13,305500,33605.0,271895.0
+71,15,2023-01-03 22:00:00,Diya Iyer,33,China,Tokyo,DSLR Camera,35,54463,5911,4,Net Banking,Delivered,3,1906205,76248.0,1829957.0
+72,13,2023-01-03 23:00:00,Chen Wei,24,USA,Delhi,Tablet,15,27572,2087,23,Debit Card,Pending,6,413580,95123.0,318457.0
+73,9,2023-01-04 00:00:00,Sophia Davis,31,USA,Kolkata,Gaming Console,3,18948,10514,5,Credit Card,Shipped,7,56844,2842.0,54002.0
+74,15,2023-01-04 01:00:00,Suresh Kumar,26,Germany,London,Tablet,23,39826,6420,24,Net Banking,Pending,1,915998,219840.0,696158.0
+75,13,2023-01-04 02:00:00,Yuki Nakamura,32,USA,Tokyo,Keyboard,29,28867,22144,0,Cash on Delivery,Pending,14,837143,0.0,837143.0
+76,1,2023-01-04 03:00:00,Yuki Nakamura,38,UAE,Paris,Router,34,61231,28293,24,Net Banking,Shipped,7,2081854,499645.0,1582209.0
+77,7,2023-01-04 04:00:00,Aarav Patel,52,France,Tokyo,Router,33,67262,12188,0,Net Banking,Pending,4,2219646,0.0,2219646.0
+78,9,2023-01-04 05:00:00,Aditi Verma,19,Italy,Tokyo,Gaming Console,41,73233,4909,9,Cash on Delivery,Pending,5,3002553,270230.0,2732323.0
+79,1,2023-01-04 06:00:00,Suresh Kumar,44,India,New York,Fitness Band,41,45678,29355,9,Net Banking,Pending,8,1872798,168552.0,1704246.0
+80,12,2023-01-04 07:00:00,Arjun Reddy,19,France,Tokyo,Wireless Mouse,23,13963,6283,2,Cash on Delivery,Shipped,4,321149,6423.0,314726.0
+81,8,2023-01-04 08:00:00,Haruto Tanaka,52,India,Kolkata,Power Bank,7,65360,1212,16,Cash on Delivery,Delivered,4,457520,73203.0,384317.0
+82,11,2023-01-04 09:00:00,Sophia Davis,35,Singapore,Delhi,Power Bank,3,50434,27251,18,Cash on Delivery,Returned,8,151302,27234.0,124068.0
+83,19,2023-01-04 10:00:00,Emma Brown,31,Singapore,Delhi,Wireless Mouse,32,67617,5906,27,Credit Card,Returned,5,2163744,584211.0,1579533.0
+84,17,2023-01-04 11:00:00,James Smith,37,USA,Tokyo,Wireless Mouse,31,21269,24874,10,Debit Card,Shipped,13,659339,65934.0,593405.0
+85,8,2023-01-04 12:00:00,James Smith,35,Japan,Paris,Earbuds,18,77312,24304,28,Credit Card,Returned,6,1391616,389652.0,1001964.0
+86,3,2023-01-04 13:00:00,Yuki Nakamura,27,Japan,Mumbai,Laptop,43,78225,29148,17,Cash on Delivery,Shipped,12,3363675,571825.0,2791850.0
+87,3,2023-01-04 14:00:00,James Smith,42,India,Kolkata,Wireless Mouse,7,38528,12541,1,Debit Card,Shipped,11,269696,2697.0,266999.0
+88,1,2023-01-04 15:00:00,Chen Wei,19,China,Kolkata,Tablet,41,79972,23727,8,Debit Card,Returned,14,3278852,262308.0,3016544.0
+89,5,2023-01-04 16:00:00,Sophia Davis,42,Germany,Paris,Earbuds,1,66602,2933,23,Cash on Delivery,Pending,5,66602,15318.0,51284.0
+90,10,2023-01-04 17:00:00,Rahul Sharma,50,USA,Hyderabad,Fitness Band,14,34332,3801,16,Debit Card,Delivered,1,480648,76904.0,403744.0
+91,7,2023-01-04 18:00:00,Fatima Khan,53,Germany,Berlin,Smartwatch,32,79929,17154,27,Debit Card,Returned,7,2557728,690587.0,1867141.0
+92,9,2023-01-04 19:00:00,Aarav Patel,48,France,Paris,Earbuds,6,70206,26870,13,Credit Card,Returned,6,421236,54761.0,366475.0
+93,7,2023-01-04 20:00:00,Emily Johnson,31,Japan,Paris,Smartphone,39,3251,29982,3,Debit Card,Returned,2,126789,3804.0,122985.0
+94,9,2023-01-04 21:00:00,Liam Walker,18,Australia,Dubai,Power Bank,10,46717,27538,28,Cash on Delivery,Returned,11,467170,130808.0,336362.0
+95,8,2023-01-04 22:00:00,Aarav Patel,33,Italy,Bangalore,Keyboard,7,28027,29369,16,UPI,Shipped,7,196189,31390.0,164799.0
+96,12,2023-01-04 23:00:00,Aditi Verma,20,France,Paris,Smartphone,26,10583,12086,16,UPI,Shipped,6,275158,44025.0,231133.0
+97,2,2023-01-05 00:00:00,Rahul Sharma,52,Italy,Bangalore,Tablet,34,51387,17963,11,UPI,Delivered,5,1747158,192187.0,1554971.0
+98,1,2023-01-05 01:00:00,Aarav Patel,58,UAE,Mumbai,DSLR Camera,30,24104,27954,27,Cash on Delivery,Delivered,8,723120,195242.0,527878.0
+99,16,2023-01-05 02:00:00,Emma Brown,23,France,Bangalore,DSLR Camera,36,13224,5822,19,UPI,Returned,5,476064,90452.0,385612.0
+100,5,2023-01-05 03:00:00,Yuki Nakamura,42,India,Hyderabad,Wireless Mouse,21,61624,14432,17,Credit Card,Returned,11,1294104,219998.0,1074106.0
+101,3,2023-01-05 04:00:00,Diya Iyer,30,UAE,Paris,Smartwatch,17,57058,29799,2,Cash on Delivery,Returned,2,969986,19400.0,950586.0
+102,12,2023-01-05 05:00:00,Aditi Verma,51,UK,Paris,Earbuds,33,30299,25679,10,Cash on Delivery,Delivered,6,999867,99987.0,899880.0
+103,8,2023-01-05 06:00:00,James Smith,25,France,Chennai,Router,10,79572,5757,24,Cash on Delivery,Returned,14,795720,190973.0,604747.0
+104,3,2023-01-05 07:00:00,Suresh Kumar,38,UAE,Bangalore,DSLR Camera,47,78928,14233,17,Debit Card,Pending,12,3709616,630635.0,3078981.0
+105,1,2023-01-05 08:00:00,Emma Brown,51,USA,Kolkata,Gaming Console,42,74474,24866,3,Debit Card,Delivered,1,3127908,93837.0,3034071.0
+106,3,2023-01-05 09:00:00,Aditi Verma,21,Italy,Paris,Wireless Mouse,12,5141,13868,16,Debit Card,Pending,5,61692,9871.0,51821.0
+107,5,2023-01-05 10:00:00,Diya Iyer,42,Canada,Berlin,Gaming Console,16,24350,10277,17,Net Banking,Returned,14,389600,66232.0,323368.0
+108,15,2023-01-05 11:00:00,Haruto Tanaka,32,Canada,Chennai,Drone,41,76082,11749,4,Credit Card,Shipped,6,3119362,124774.0,2994588.0
+109,14,2023-01-05 12:00:00,James Smith,21,USA,Bangalore,Smartwatch,32,71871,23098,13,Cash on Delivery,Pending,7,2299872,298983.0,2000889.0
+110,3,2023-01-05 13:00:00,Aarav Patel,29,UK,Kolkata,Smart TV,15,6077,21890,9,Cash on Delivery,Delivered,14,91155,8204.0,82951.0
+111,1,2023-01-05 14:00:00,Aarav Patel,49,UK,Kolkata,Keyboard,27,47015,20869,14,Debit Card,Pending,2,1269405,177717.0,1091688.0
+112,5,2023-01-05 15:00:00,Aditi Verma,49,India,Tokyo,Power Bank,28,72147,13381,0,Cash on Delivery,Delivered,1,2020116,0.0,2020116.0
+113,14,2023-01-05 16:00:00,Suresh Kumar,45,Japan,Delhi,Earbuds,17,60180,10087,15,Cash on Delivery,Returned,6,1023060,153459.0,869601.0
+114,7,2023-01-05 17:00:00,Haruto Tanaka,30,Germany,Mumbai,Fitness Band,46,41857,28764,10,UPI,Pending,3,1925422,192542.0,1732880.0
+115,9,2023-01-05 18:00:00,James Smith,48,Italy,Hyderabad,Keyboard,2,60840,9291,22,Cash on Delivery,Shipped,5,121680,26770.0,94910.0
+116,15,2023-01-05 19:00:00,Diya Iyer,31,UK,New York,Wireless Mouse,36,60902,9205,19,Net Banking,Pending,12,2192472,416570.0,1775902.0
+117,15,2023-01-05 20:00:00,Fatima Khan,37,Australia,Paris,Tablet,7,6577,22875,5,Debit Card,Shipped,11,46039,2302.0,43737.0
+118,10,2023-01-05 21:00:00,Aarav Patel,35,India,Dubai,Bluetooth Speaker,13,21002,23111,23,Credit Card,Delivered,13,273026,62796.0,210230.0
+119,13,2023-01-05 22:00:00,Diya Iyer,46,Singapore,Bangalore,Bluetooth Speaker,15,51711,9758,28,Credit Card,Returned,2,775665,217186.0,558479.0
+120,19,2023-01-05 23:00:00,Rahul Sharma,23,China,Bangalore,Fitness Band,25,40451,8333,21,UPI,Returned,1,1011275,212368.0,798907.0
+121,7,2023-01-06 00:00:00,Aarav Patel,49,Singapore,Chennai,Bluetooth Speaker,23,50103,19770,15,Credit Card,Shipped,1,1152369,172855.0,979514.0
+122,17,2023-01-06 01:00:00,Diya Iyer,46,India,Chennai,DSLR Camera,22,29647,14745,29,Credit Card,Delivered,13,652234,189148.0,463086.0
+123,20,2023-01-06 02:00:00,Arjun Reddy,19,Italy,Dubai,Smart TV,26,35831,19537,1,Debit Card,Returned,11,931606,9316.0,922290.0
+124,4,2023-01-06 03:00:00,Yuki Nakamura,40,UAE,Bangalore,Drone,33,67830,29981,0,Debit Card,Delivered,4,2238390,0.0,2238390.0
+125,5,2023-01-06 04:00:00,Liam Walker,36,France,London,Smart TV,11,37833,16254,23,Net Banking,Shipped,10,416163,95717.0,320446.0
+126,7,2023-01-06 05:00:00,Sophia Davis,48,Germany,Hyderabad,Drone,10,25398,9780,23,UPI,Shipped,13,253980,58415.0,195565.0
+127,13,2023-01-06 06:00:00,Yuki Nakamura,22,China,Bangalore,Earbuds,25,62554,13077,8,Credit Card,Pending,2,1563850,125108.0,1438742.0
+128,15,2023-01-06 07:00:00,Chen Wei,36,Singapore,Paris,Earbuds,37,51755,21748,21,Net Banking,Returned,1,1914935,402136.0,1512799.0
+129,11,2023-01-06 08:00:00,Liam Walker,51,China,Delhi,Smart TV,48,18706,3014,11,UPI,Returned,6,897888,98768.0,799120.0
+130,4,2023-01-06 09:00:00,Emma Brown,27,Australia,Dubai,Smartwatch,43,23340,4469,16,Credit Card,Pending,14,1003620,160579.0,843041.0
+131,13,2023-01-06 10:00:00,Diya Iyer,42,Australia,Paris,Earbuds,38,65994,20168,29,Credit Card,Shipped,4,2507772,727254.0,1780518.0
+132,7,2023-01-06 11:00:00,Liam Walker,19,UAE,London,Smartwatch,41,64884,24624,24,Debit Card,Shipped,10,2660244,638459.0,2021785.0
+133,19,2023-01-06 12:00:00,Chen Wei,28,Australia,Hyderabad,Wireless Mouse,45,18482,5066,27,Cash on Delivery,Shipped,13,831690,224556.0,607134.0
+134,2,2023-01-06 13:00:00,James Smith,48,India,Bangalore,Smartphone,24,55225,2696,28,UPI,Shipped,12,1325400,371112.0,954288.0
+135,10,2023-01-06 14:00:00,Fatima Khan,32,Germany,New York,Gaming Console,40,59849,29259,14,Credit Card,Delivered,7,2393960,335154.0,2058806.0
+136,13,2023-01-06 15:00:00,Arjun Reddy,26,Italy,Tokyo,Fitness Band,46,75854,17673,29,UPI,Returned,11,3489284,1011892.0,2477392.0
+137,6,2023-01-06 16:00:00,Rahul Sharma,40,UAE,Paris,Power Bank,33,42256,20359,18,Net Banking,Returned,6,1394448,251001.0,1143447.0
+138,12,2023-01-06 17:00:00,Diya Iyer,36,India,Delhi,Wireless Mouse,17,15650,11845,26,Net Banking,Shipped,5,266050,69173.0,196877.0
+139,12,2023-01-06 18:00:00,Rahul Sharma,26,Canada,New York,Keyboard,24,47118,26740,21,Cash on Delivery,Shipped,10,1130832,237475.0,893357.0
+140,20,2023-01-06 19:00:00,Suresh Kumar,52,France,Berlin,Earbuds,37,29930,1809,9,Credit Card,Shipped,12,1107410,99667.0,1007743.0
+141,11,2023-01-06 20:00:00,Aarav Patel,38,France,Chennai,Smart TV,2,12801,1364,28,Debit Card,Returned,13,25602,7169.0,18433.0
+142,7,2023-01-06 21:00:00,Diya Iyer,26,Australia,Paris,Gaming Console,32,52360,12555,25,Credit Card,Returned,12,1675520,418880.0,1256640.0
+143,1,2023-01-06 22:00:00,Sophia Davis,45,Canada,Chennai,Drone,24,17559,5889,26,UPI,Shipped,12,421416,109568.0,311848.0
+144,1,2023-01-06 23:00:00,Diya Iyer,24,UK,Bangalore,Gaming Console,9,33334,20247,11,Net Banking,Delivered,12,300006,33001.0,267005.0
+145,20,2023-01-07 00:00:00,Aditi Verma,33,UK,Chennai,Laptop,4,14288,12216,13,UPI,Pending,2,57152,7430.0,49722.0
+146,13,2023-01-07 01:00:00,Fatima Khan,33,Italy,Berlin,Keyboard,17,23398,12478,8,Cash on Delivery,Pending,5,397766,31821.0,365945.0
+147,9,2023-01-07 02:00:00,Aditi Verma,50,Australia,Delhi,Wireless Mouse,17,77230,25099,26,Net Banking,Pending,9,1312910,341357.0,971553.0
+148,3,2023-01-07 03:00:00,Diya Iyer,21,Singapore,Hyderabad,Router,48,13191,3503,12,Debit Card,Returned,9,633168,75980.0,557188.0
+149,7,2023-01-07 04:00:00,Arjun Reddy,21,India,Kolkata,Smart TV,30,19051,14674,2,Net Banking,Returned,2,571530,11431.0,560099.0
+150,6,2023-01-07 05:00:00,Liam Walker,56,Australia,Mumbai,Power Bank,40,62715,25386,20,Credit Card,Pending,7,2508600,501720.0,2006880.0
+151,8,2023-01-07 06:00:00,Rahul Sharma,57,Japan,Dubai,Smart TV,11,11737,14272,28,Credit Card,Pending,10,129107,36150.0,92957.0
+152,9,2023-01-07 07:00:00,Arjun Reddy,34,China,Hyderabad,Earbuds,21,66140,18115,13,Net Banking,Delivered,14,1388940,180562.0,1208378.0
+153,5,2023-01-07 08:00:00,Diya Iyer,54,Italy,Kolkata,Drone,21,26251,8459,20,Cash on Delivery,Returned,4,551271,110254.0,441017.0
+154,1,2023-01-07 09:00:00,Chen Wei,56,France,London,Tablet,18,51975,12480,9,Credit Card,Returned,13,935550,84200.0,851350.0
+155,19,2023-01-07 10:00:00,Liam Walker,46,UK,Paris,Smartphone,29,6147,19595,15,Credit Card,Pending,13,178263,26739.0,151524.0
+156,10,2023-01-07 11:00:00,Chen Wei,53,USA,Paris,Smartwatch,24,51508,7081,6,Debit Card,Delivered,3,1236192,74172.0,1162020.0
+157,12,2023-01-07 12:00:00,Rahul Sharma,55,UK,Delhi,Fitness Band,10,53224,24589,3,Net Banking,Delivered,11,532240,15967.0,516273.0
+158,15,2023-01-07 13:00:00,Liam Walker,56,Italy,Paris,Fitness Band,45,20643,29877,26,Credit Card,Pending,1,928935,241523.0,687412.0
+159,9,2023-01-07 14:00:00,Sophia Davis,54,France,New York,Tablet,17,39967,17305,19,Cash on Delivery,Pending,3,679439,129093.0,550346.0
+160,20,2023-01-07 15:00:00,Fatima Khan,52,Italy,Kolkata,Fitness Band,18,41733,10465,22,UPI,Returned,11,751194,165263.0,585931.0
+161,17,2023-01-07 16:00:00,Yuki Nakamura,24,China,Delhi,Keyboard,42,35808,12260,24,Net Banking,Pending,9,1503936,360945.0,1142991.0
+162,17,2023-01-07 17:00:00,Haruto Tanaka,44,France,Tokyo,Smartphone,48,68288,15422,10,Debit Card,Shipped,14,3277824,327782.0,2950042.0
+163,20,2023-01-07 18:00:00,Emma Brown,45,USA,New York,Tablet,20,59959,1446,15,Credit Card,Delivered,9,1199180,179877.0,1019303.0
+164,12,2023-01-07 19:00:00,Arjun Reddy,39,Australia,Paris,Fitness Band,37,2849,26262,19,Cash on Delivery,Pending,7,105413,20028.0,85385.0
+165,7,2023-01-07 20:00:00,Aarav Patel,31,Canada,Chennai,Fitness Band,45,69178,18718,3,Net Banking,Shipped,3,3113010,93390.0,3019620.0
+166,2,2023-01-07 21:00:00,Arjun Reddy,24,USA,Berlin,Smartwatch,18,68136,2064,21,Cash on Delivery,Delivered,13,1226448,257554.0,968894.0
+167,3,2023-01-07 22:00:00,Haruto Tanaka,54,France,Chennai,Drone,17,61740,7832,21,Cash on Delivery,Shipped,3,1049580,220412.0,829168.0
+168,17,2023-01-07 23:00:00,Yuki Nakamura,39,France,New York,Drone,9,45565,5444,22,Debit Card,Shipped,4,410085,90219.0,319866.0
+169,5,2023-01-08 00:00:00,Emily Johnson,22,Japan,London,Router,14,21183,16557,16,Net Banking,Pending,7,296562,47450.0,249112.0
+170,17,2023-01-08 01:00:00,James Smith,19,UAE,Paris,Fitness Band,49,2132,14377,12,Credit Card,Delivered,7,104468,12536.0,91932.0
+171,17,2023-01-08 02:00:00,Sophia Davis,44,Japan,London,DSLR Camera,29,39259,10639,10,Debit Card,Shipped,12,1138511,113851.0,1024660.0
+172,17,2023-01-08 03:00:00,Chen Wei,38,Germany,London,Smart TV,31,64668,1808,29,Credit Card,Returned,12,2004708,581365.0,1423343.0
+173,2,2023-01-08 04:00:00,Diya Iyer,55,Japan,Kolkata,Tablet,4,39563,19870,2,UPI,Delivered,14,158252,3165.0,155087.0
+174,2,2023-01-08 05:00:00,Sophia Davis,32,India,Dubai,Earbuds,18,11931,17270,8,Cash on Delivery,Returned,2,214758,17181.0,197577.0
+175,5,2023-01-08 06:00:00,Haruto Tanaka,38,Canada,Kolkata,Power Bank,20,74169,23015,5,UPI,Pending,12,1483380,74169.0,1409211.0
+176,1,2023-01-08 07:00:00,Diya Iyer,27,China,Bangalore,Wireless Mouse,47,51639,26237,21,Cash on Delivery,Returned,5,2427033,509677.0,1917356.0
+177,1,2023-01-08 08:00:00,Aarav Patel,40,USA,Mumbai,Router,43,59901,3758,20,Debit Card,Delivered,7,2575743,515149.0,2060594.0
+178,19,2023-01-08 09:00:00,Aditi Verma,56,France,New York,Bluetooth Speaker,44,2044,23005,10,Credit Card,Shipped,7,89936,8994.0,80942.0
+179,2,2023-01-08 10:00:00,Liam Walker,22,Germany,Hyderabad,Earbuds,9,47691,5311,15,Credit Card,Shipped,6,429219,64383.0,364836.0
+180,12,2023-01-08 11:00:00,James Smith,18,Germany,Mumbai,Smartwatch,13,25363,23458,18,Debit Card,Delivered,10,329719,59349.0,270370.0
+181,6,2023-01-08 12:00:00,Fatima Khan,30,China,Tokyo,Power Bank,15,47694,7197,26,Net Banking,Shipped,10,715410,186007.0,529403.0
+182,4,2023-01-08 13:00:00,Fatima Khan,38,Canada,Berlin,Earbuds,27,2582,20817,4,UPI,Returned,12,69714,2789.0,66925.0
+183,11,2023-01-08 14:00:00,Haruto Tanaka,43,USA,Kolkata,Gaming Console,15,67844,16275,13,UPI,Shipped,8,1017660,132296.0,885364.0
+184,17,2023-01-08 15:00:00,Sophia Davis,38,UK,Kolkata,Smart TV,28,22301,11539,16,Credit Card,Shipped,3,624428,99908.0,524520.0
+185,6,2023-01-08 16:00:00,Fatima Khan,35,Italy,Delhi,Power Bank,37,75329,29597,2,Credit Card,Returned,1,2787173,55743.0,2731430.0
+186,5,2023-01-08 17:00:00,Aarav Patel,54,Japan,Mumbai,Gaming Console,19,2620,1939,3,Credit Card,Returned,3,49780,1493.0,48287.0
+187,20,2023-01-08 18:00:00,Chen Wei,49,Italy,Delhi,Earbuds,26,63224,23053,15,Debit Card,Returned,11,1643824,246574.0,1397250.0
+188,2,2023-01-08 19:00:00,Emily Johnson,53,Italy,Hyderabad,Smartphone,26,57655,12134,15,Net Banking,Pending,2,1499030,224854.0,1274176.0
+189,6,2023-01-08 20:00:00,Arjun Reddy,34,Australia,Delhi,Laptop,25,38534,21364,20,UPI,Returned,2,963350,192670.0,770680.0
+190,11,2023-01-08 21:00:00,Suresh Kumar,52,Italy,Mumbai,Smartphone,26,40390,555,25,Cash on Delivery,Returned,14,1050140,262535.0,787605.0
+191,16,2023-01-08 22:00:00,Aarav Patel,28,Germany,New York,Smart TV,26,72629,20208,24,Debit Card,Pending,14,1888354,453205.0,1435149.0
+192,16,2023-01-08 23:00:00,Diya Iyer,38,Japan,Paris,Power Bank,46,56856,23661,3,UPI,Shipped,2,2615376,78461.0,2536915.0
+193,1,2023-01-09 00:00:00,Emma Brown,43,Japan,Paris,Power Bank,28,50252,605,18,Net Banking,Returned,5,1407056,253270.0,1153786.0
+194,9,2023-01-09 01:00:00,Haruto Tanaka,21,India,Berlin,Smart TV,49,56809,3701,25,Debit Card,Delivered,13,2783641,695910.0,2087731.0
+195,6,2023-01-09 02:00:00,Aditi Verma,51,Canada,Tokyo,Gaming Console,18,23259,15684,16,UPI,Returned,1,418662,66986.0,351676.0
+196,16,2023-01-09 03:00:00,Liam Walker,35,Australia,Kolkata,Drone,32,21655,1169,12,Debit Card,Returned,10,692960,83155.0,609805.0
+197,3,2023-01-09 04:00:00,Emma Brown,57,Italy,Hyderabad,Laptop,3,34005,13163,25,UPI,Pending,4,102015,25504.0,76511.0
+198,20,2023-01-09 05:00:00,Liam Walker,52,UAE,Kolkata,Earbuds,2,32629,25818,21,UPI,Delivered,14,65258,13704.0,51554.0
+199,4,2023-01-09 06:00:00,Rahul Sharma,58,UK,Bangalore,Wireless Mouse,33,24610,1466,22,Net Banking,Shipped,10,812130,178669.0,633461.0
+200,19,2023-01-09 07:00:00,Emma Brown,46,France,Berlin,Smartwatch,42,58184,17191,25,Cash on Delivery,Shipped,5,2443728,610932.0,1832796.0
+201,3,2023-01-09 08:00:00,Suresh Kumar,46,India,Tokyo,Smartphone,19,22602,19022,23,Net Banking,Delivered,2,429438,98771.0,330667.0
+202,19,2023-01-09 09:00:00,Sophia Davis,55,Japan,Dubai,Smartphone,17,12110,12156,27,UPI,Returned,5,205870,55585.0,150285.0
+203,20,2023-01-09 10:00:00,Emily Johnson,59,Japan,Delhi,Keyboard,44,7073,16393,0,Debit Card,Pending,10,311212,0.0,311212.0
+204,7,2023-01-09 11:00:00,Arjun Reddy,38,Singapore,Chennai,Bluetooth Speaker,33,11195,13589,11,Net Banking,Delivered,4,369435,40638.0,328797.0
+205,20,2023-01-09 12:00:00,Arjun Reddy,59,Australia,Mumbai,Keyboard,12,2537,16993,3,Cash on Delivery,Delivered,8,30444,913.0,29531.0
+206,9,2023-01-09 13:00:00,Emily Johnson,30,Italy,Kolkata,Laptop,49,18138,4132,10,UPI,Shipped,1,888762,88876.0,799886.0
+207,1,2023-01-09 14:00:00,Chen Wei,58,Australia,Delhi,Smartwatch,3,45328,23612,4,Net Banking,Pending,12,135984,5439.0,130545.0
+208,8,2023-01-09 15:00:00,James Smith,34,Singapore,Hyderabad,Smartphone,43,47202,29511,1,Net Banking,Delivered,5,2029686,20297.0,2009389.0
+209,7,2023-01-09 16:00:00,Rahul Sharma,26,Australia,Kolkata,Smartwatch,49,41164,6184,16,Net Banking,Pending,14,2017036,322726.0,1694310.0
+210,18,2023-01-09 17:00:00,Liam Walker,58,Japan,Dubai,Wireless Mouse,26,55659,13766,7,Net Banking,Returned,14,1447134,101299.0,1345835.0
+211,8,2023-01-09 18:00:00,Suresh Kumar,18,Germany,Paris,Earbuds,35,50692,23383,5,Debit Card,Shipped,11,1774220,88711.0,1685509.0
+212,1,2023-01-09 19:00:00,Fatima Khan,19,USA,Tokyo,Power Bank,8,25845,18799,20,Cash on Delivery,Returned,12,206760,41352.0,165408.0
+213,11,2023-01-09 20:00:00,Emma Brown,46,Japan,Berlin,Smartwatch,36,31562,29339,28,Cash on Delivery,Pending,10,1136232,318145.0,818087.0
+214,18,2023-01-09 21:00:00,Rahul Sharma,50,India,Tokyo,Smartphone,7,29036,17440,8,UPI,Returned,1,203252,16260.0,186992.0
+215,10,2023-01-09 22:00:00,Aarav Patel,27,Canada,Paris,Gaming Console,46,61752,24503,12,Credit Card,Shipped,10,2840592,340871.0,2499721.0
+216,3,2023-01-09 23:00:00,Haruto Tanaka,57,Singapore,Kolkata,Fitness Band,46,75233,604,10,Debit Card,Pending,10,3460718,346072.0,3114646.0
+217,7,2023-01-10 00:00:00,Emma Brown,38,UK,Hyderabad,Laptop,36,69681,2547,28,UPI,Delivered,4,2508516,702384.0,1806132.0
+218,16,2023-01-10 01:00:00,Suresh Kumar,45,France,Tokyo,Smart TV,16,28818,17029,15,UPI,Returned,8,461088,69163.0,391925.0
+219,16,2023-01-10 02:00:00,Aditi Verma,28,UK,Tokyo,Drone,24,31544,27839,15,Net Banking,Shipped,1,757056,113558.0,643498.0
+220,20,2023-01-10 03:00:00,Aditi Verma,51,Japan,Dubai,Tablet,1,63532,17757,26,Credit Card,Delivered,11,63532,16518.0,47014.0
+221,17,2023-01-10 04:00:00,Diya Iyer,25,India,Mumbai,DSLR Camera,49,79636,17182,1,Credit Card,Shipped,2,3902164,39022.0,3863142.0
+222,2,2023-01-10 05:00:00,Rahul Sharma,39,Italy,Hyderabad,Drone,25,58705,20122,9,Debit Card,Pending,1,1467625,132086.0,1335539.0
+223,1,2023-01-10 06:00:00,Sophia Davis,25,Japan,Hyderabad,DSLR Camera,10,21104,9337,11,Credit Card,Pending,11,211040,23214.0,187826.0
+224,16,2023-01-10 07:00:00,Suresh Kumar,32,Canada,New York,Tablet,16,70603,15907,7,UPI,Returned,7,1129648,79075.0,1050573.0
+225,12,2023-01-10 08:00:00,Suresh Kumar,34,Germany,Paris,Smartwatch,16,60025,29809,10,Credit Card,Shipped,2,960400,96040.0,864360.0
+226,5,2023-01-10 09:00:00,Emily Johnson,40,UAE,New York,Laptop,8,33317,6882,29,Credit Card,Shipped,1,266536,77295.0,189241.0
+227,5,2023-01-10 10:00:00,Aarav Patel,41,France,Paris,Smartwatch,29,32416,28154,9,Cash on Delivery,Shipped,12,940064,84606.0,855458.0
+228,9,2023-01-10 11:00:00,Sophia Davis,36,Canada,Tokyo,Wireless Mouse,39,43012,19395,12,UPI,Pending,6,1677468,201296.0,1476172.0
+229,9,2023-01-10 12:00:00,Aarav Patel,22,Singapore,Paris,Wireless Mouse,28,69045,23480,24,Credit Card,Returned,6,1933260,463982.0,1469278.0
+230,3,2023-01-10 13:00:00,Chen Wei,49,Italy,Chennai,Wireless Mouse,6,22400,1283,16,Credit Card,Shipped,10,134400,21504.0,112896.0
+231,19,2023-01-10 14:00:00,Liam Walker,18,Singapore,New York,Fitness Band,16,49270,21876,6,Net Banking,Shipped,2,788320,47299.0,741021.0
+232,16,2023-01-10 15:00:00,Liam Walker,40,Japan,Tokyo,Smart TV,20,73069,870,23,Credit Card,Delivered,1,1461380,336117.0,1125263.0
+233,16,2023-01-10 16:00:00,Fatima Khan,54,India,London,Laptop,16,50833,16408,2,Credit Card,Shipped,14,813328,16267.0,797061.0
+234,3,2023-01-10 17:00:00,Diya Iyer,25,Canada,Bangalore,Keyboard,7,64644,986,29,Cash on Delivery,Returned,10,452508,131227.0,321281.0
+235,20,2023-01-10 18:00:00,Arjun Reddy,30,China,Bangalore,Keyboard,41,70468,24262,19,UPI,Delivered,3,2889188,548946.0,2340242.0
+236,1,2023-01-10 19:00:00,Aditi Verma,25,Italy,Hyderabad,Drone,14,60473,27113,12,Debit Card,Delivered,10,846622,101595.0,745027.0
+237,20,2023-01-10 20:00:00,Haruto Tanaka,40,India,Chennai,Tablet,43,46809,15000,18,UPI,Delivered,14,2012787,362302.0,1650485.0
+238,11,2023-01-10 21:00:00,Liam Walker,18,Germany,Dubai,Router,26,39328,3696,6,Net Banking,Pending,5,1022528,61352.0,961176.0
+239,17,2023-01-10 22:00:00,Sophia Davis,41,Italy,Mumbai,Wireless Mouse,26,37784,10052,8,UPI,Delivered,6,982384,78591.0,903793.0
+240,8,2023-01-10 23:00:00,Suresh Kumar,52,Singapore,New York,Wireless Mouse,14,24723,21171,18,Credit Card,Shipped,3,346122,62302.0,283820.0
+241,4,2023-01-11 00:00:00,Haruto Tanaka,41,Italy,London,Router,7,61646,29901,12,Net Banking,Pending,9,431522,51783.0,379739.0
+242,6,2023-01-11 01:00:00,Yuki Nakamura,34,UAE,Tokyo,Smartwatch,33,67255,2761,21,UPI,Pending,11,2219415,466077.0,1753338.0
+243,8,2023-01-11 02:00:00,Aarav Patel,22,Japan,Chennai,Bluetooth Speaker,26,1074,11313,7,Net Banking,Pending,5,27924,1955.0,25969.0
+244,20,2023-01-11 03:00:00,Liam Walker,37,Australia,Hyderabad,Smartphone,45,27498,9648,21,Debit Card,Pending,13,1237410,259856.0,977554.0
+245,3,2023-01-11 04:00:00,Suresh Kumar,38,Singapore,Berlin,Gaming Console,20,66522,9072,17,UPI,Pending,2,1330440,226175.0,1104265.0
+246,16,2023-01-11 05:00:00,Liam Walker,57,UAE,New York,Fitness Band,3,21541,15508,28,Credit Card,Pending,10,64623,18094.0,46529.0
+247,3,2023-01-11 06:00:00,Aditi Verma,48,France,Chennai,Power Bank,4,46929,28725,22,Net Banking,Pending,6,187716,41298.0,146418.0
+248,18,2023-01-11 07:00:00,Yuki Nakamura,53,USA,New York,Gaming Console,26,27028,13585,1,Cash on Delivery,Delivered,12,702728,7027.0,695701.0
+249,14,2023-01-11 08:00:00,Emma Brown,28,Australia,Berlin,Smart TV,11,30545,17122,17,Net Banking,Returned,8,335995,57119.0,278876.0
+250,18,2023-01-11 09:00:00,Liam Walker,32,Japan,Mumbai,Smartwatch,2,32673,7343,17,Cash on Delivery,Shipped,11,65346,11109.0,54237.0
+251,2,2023-01-11 10:00:00,Chen Wei,36,China,Mumbai,Fitness Band,14,31974,1605,10,Credit Card,Shipped,6,447636,44764.0,402872.0
+252,3,2023-01-11 11:00:00,Sophia Davis,24,Australia,Dubai,Fitness Band,44,59899,18270,0,Debit Card,Delivered,4,2635556,0.0,2635556.0
+253,16,2023-01-11 12:00:00,Liam Walker,45,France,Bangalore,Earbuds,30,24097,27628,13,Cash on Delivery,Delivered,6,722910,93978.0,628932.0
+254,9,2023-01-11 13:00:00,Arjun Reddy,22,India,Paris,Wireless Mouse,49,65824,10941,15,Debit Card,Pending,8,3225376,483806.0,2741570.0
+255,4,2023-01-11 14:00:00,Haruto Tanaka,22,China,Delhi,Laptop,12,24525,10219,10,Net Banking,Returned,8,294300,29430.0,264870.0
+256,1,2023-01-11 15:00:00,Haruto Tanaka,47,Singapore,Delhi,Keyboard,26,58804,18551,0,Credit Card,Pending,13,1528904,0.0,1528904.0
+257,4,2023-01-11 16:00:00,Aditi Verma,49,China,New York,Keyboard,44,16043,29208,29,Cash on Delivery,Delivered,10,705892,204709.0,501183.0
+258,1,2023-01-11 17:00:00,Sophia Davis,25,Canada,Berlin,Fitness Band,33,42846,3191,6,Net Banking,Pending,2,1413918,84835.0,1329083.0
+259,14,2023-01-11 18:00:00,Yuki Nakamura,27,France,Dubai,Smartwatch,13,78261,24640,28,UPI,Shipped,8,1017393,284870.0,732523.0
+260,16,2023-01-11 19:00:00,Chen Wei,55,Italy,Delhi,Laptop,14,51227,12364,15,Net Banking,Shipped,6,717178,107577.0,609601.0
+261,20,2023-01-11 20:00:00,Emily Johnson,49,UAE,Paris,Power Bank,24,54028,2496,29,Debit Card,Pending,2,1296672,376035.0,920637.0
+262,8,2023-01-11 21:00:00,Sophia Davis,45,Australia,Hyderabad,Bluetooth Speaker,34,38383,1925,13,Credit Card,Returned,1,1305022,169653.0,1135369.0
+263,7,2023-01-11 22:00:00,Haruto Tanaka,34,Canada,Delhi,Router,44,30483,27888,14,Credit Card,Pending,6,1341252,187775.0,1153477.0
+264,3,2023-01-11 23:00:00,Arjun Reddy,48,China,Kolkata,Gaming Console,26,8265,16878,13,Net Banking,Pending,13,214890,27936.0,186954.0
+265,17,2023-01-12 00:00:00,Emma Brown,25,Canada,Tokyo,Drone,21,23763,24907,27,UPI,Returned,7,499023,134736.0,364287.0
+266,1,2023-01-12 01:00:00,Aditi Verma,57,UK,Dubai,Smartphone,28,76652,7349,20,Debit Card,Returned,14,2146256,429251.0,1717005.0
+267,16,2023-01-12 02:00:00,Emily Johnson,42,France,Hyderabad,Router,48,16733,3747,10,Net Banking,Returned,14,803184,80318.0,722866.0
+268,12,2023-01-12 03:00:00,Arjun Reddy,26,UAE,Chennai,Power Bank,36,38420,19476,15,Net Banking,Shipped,10,1383120,207468.0,1175652.0
+269,19,2023-01-12 04:00:00,Yuki Nakamura,19,Germany,Hyderabad,Power Bank,40,10247,1990,18,Credit Card,Pending,5,409880,73778.0,336102.0
+270,14,2023-01-12 05:00:00,Aarav Patel,32,India,Bangalore,Gaming Console,2,24840,18108,16,Debit Card,Delivered,14,49680,7949.0,41731.0
+271,6,2023-01-12 06:00:00,Yuki Nakamura,20,China,Chennai,Power Bank,42,66149,19471,26,UPI,Returned,10,2778258,722347.0,2055911.0
+272,6,2023-01-12 07:00:00,Arjun Reddy,53,France,London,Drone,9,22058,24598,25,Credit Card,Returned,8,198522,49630.0,148892.0
+273,13,2023-01-12 08:00:00,Aarav Patel,21,Germany,Tokyo,Earbuds,23,35929,19948,5,Net Banking,Pending,11,826367,41318.0,785049.0
+274,19,2023-01-12 09:00:00,Rahul Sharma,31,Germany,Tokyo,Earbuds,15,32362,14810,10,Credit Card,Delivered,13,485430,48543.0,436887.0
+275,8,2023-01-12 10:00:00,Aditi Verma,58,Japan,Tokyo,Keyboard,13,48356,24688,16,Credit Card,Pending,12,628628,100580.0,528048.0
+276,2,2023-01-12 11:00:00,Sophia Davis,58,UAE,Berlin,DSLR Camera,23,78597,17716,8,Cash on Delivery,Pending,9,1807731,144618.0,1663113.0
+277,1,2023-01-12 12:00:00,Aarav Patel,42,Canada,Tokyo,DSLR Camera,17,7041,15901,17,Credit Card,Returned,4,119697,20348.0,99349.0
+278,15,2023-01-12 13:00:00,Diya Iyer,27,Germany,New York,Earbuds,48,79209,13384,16,Credit Card,Returned,7,3802032,608325.0,3193707.0
+279,1,2023-01-12 14:00:00,Aarav Patel,38,UK,Tokyo,Tablet,2,62954,19324,11,Debit Card,Shipped,8,125908,13850.0,112058.0
+280,5,2023-01-12 15:00:00,Suresh Kumar,53,France,Paris,Bluetooth Speaker,20,62869,5295,22,Credit Card,Delivered,13,1257380,276624.0,980756.0
+281,16,2023-01-12 16:00:00,Emma Brown,29,USA,Tokyo,Laptop,20,22059,2146,21,UPI,Delivered,6,441180,92648.0,348532.0
+282,19,2023-01-12 17:00:00,Suresh Kumar,44,USA,Tokyo,Router,46,45722,16642,21,Net Banking,Returned,2,2103212,441675.0,1661537.0
+283,4,2023-01-12 18:00:00,Sophia Davis,57,Italy,Berlin,Fitness Band,3,18548,14806,29,Debit Card,Returned,7,55644,16137.0,39507.0
+284,3,2023-01-12 19:00:00,Sophia Davis,19,Italy,Dubai,Bluetooth Speaker,12,16078,17324,4,Credit Card,Returned,13,192936,7717.0,185219.0
+285,17,2023-01-12 20:00:00,Aditi Verma,30,China,New York,Fitness Band,40,6419,6456,10,UPI,Delivered,9,256760,25676.0,231084.0
+286,17,2023-01-12 21:00:00,Sophia Davis,49,Italy,Berlin,Smart TV,2,36490,14428,3,Net Banking,Shipped,5,72980,2189.0,70791.0
+287,12,2023-01-12 22:00:00,Haruto Tanaka,48,Singapore,Mumbai,Power Bank,36,77086,10221,26,Debit Card,Delivered,2,2775096,721525.0,2053571.0
+288,14,2023-01-12 23:00:00,Aarav Patel,33,Canada,Hyderabad,Smartphone,14,59760,11657,3,UPI,Returned,4,836640,25099.0,811541.0
+289,6,2023-01-13 00:00:00,Aarav Patel,49,Singapore,Hyderabad,Power Bank,16,31337,2867,2,Credit Card,Returned,3,501392,10028.0,491364.0
+290,3,2023-01-13 01:00:00,Rahul Sharma,49,Germany,Chennai,Bluetooth Speaker,19,2468,7196,25,Cash on Delivery,Shipped,4,46892,11723.0,35169.0
+291,9,2023-01-13 02:00:00,Emily Johnson,51,France,Dubai,Keyboard,34,25309,28362,23,Cash on Delivery,Pending,10,860506,197916.0,662590.0
+292,5,2023-01-13 03:00:00,Sophia Davis,28,China,Kolkata,Earbuds,44,67344,5690,22,Debit Card,Pending,7,2963136,651890.0,2311246.0
+293,17,2023-01-13 04:00:00,Suresh Kumar,27,Australia,Hyderabad,Fitness Band,46,73255,5163,24,UPI,Delivered,10,3369730,808735.0,2560995.0
+294,14,2023-01-13 05:00:00,Sophia Davis,32,Germany,Delhi,Wireless Mouse,6,29718,7562,16,Net Banking,Pending,8,178308,28529.0,149779.0
+295,3,2023-01-13 06:00:00,Yuki Nakamura,34,Canada,Kolkata,Gaming Console,13,38841,4831,6,UPI,Pending,1,504933,30296.0,474637.0
+296,1,2023-01-13 07:00:00,Rahul Sharma,57,USA,Tokyo,Smart TV,36,74548,26380,25,Cash on Delivery,Delivered,13,2683728,670932.0,2012796.0
+297,20,2023-01-13 08:00:00,Haruto Tanaka,35,UAE,Tokyo,Earbuds,22,47660,19918,3,Debit Card,Returned,8,1048520,31456.0,1017064.0
+298,1,2023-01-13 09:00:00,Haruto Tanaka,26,Italy,New York,Bluetooth Speaker,18,51281,12380,22,Credit Card,Pending,5,923058,203073.0,719985.0
+299,3,2023-01-13 10:00:00,Liam Walker,42,Japan,Kolkata,Keyboard,12,1767,29049,12,UPI,Returned,12,21204,2544.0,18660.0
+300,18,2023-01-13 11:00:00,Aarav Patel,57,France,Delhi,Gaming Console,30,4895,16746,11,Cash on Delivery,Delivered,7,146850,16154.0,130696.0
+301,10,2023-01-13 12:00:00,Haruto Tanaka,31,India,New York,Drone,40,59026,26261,0,Net Banking,Returned,11,2361040,0.0,2361040.0
+302,3,2023-01-13 13:00:00,Aarav Patel,42,UAE,Paris,Smartphone,7,43968,3762,20,Debit Card,Returned,11,307776,61555.0,246221.0
+303,8,2023-01-13 14:00:00,Liam Walker,39,Singapore,Berlin,Wireless Mouse,32,41097,13820,18,Credit Card,Delivered,1,1315104,236719.0,1078385.0
+304,14,2023-01-13 15:00:00,Arjun Reddy,47,Italy,Chennai,Fitness Band,48,16332,18991,20,UPI,Returned,2,783936,156787.0,627149.0
+305,18,2023-01-13 16:00:00,Emma Brown,37,China,Kolkata,Bluetooth Speaker,19,15621,7536,19,Net Banking,Pending,1,296799,56392.0,240407.0
+306,15,2023-01-13 17:00:00,Fatima Khan,38,Singapore,Dubai,Router,6,77870,26916,17,Credit Card,Pending,5,467220,79427.0,387793.0
+307,2,2023-01-13 18:00:00,Chen Wei,49,France,Tokyo,Laptop,20,19174,21204,10,Cash on Delivery,Pending,14,383480,38348.0,345132.0
+308,10,2023-01-13 19:00:00,Haruto Tanaka,38,Singapore,Tokyo,Smartwatch,27,41502,22822,19,Cash on Delivery,Pending,14,1120554,212905.0,907649.0
+309,2,2023-01-13 20:00:00,Emily Johnson,52,France,Bangalore,Gaming Console,43,37674,19631,2,Net Banking,Returned,6,1619982,32400.0,1587582.0
+310,17,2023-01-13 21:00:00,Yuki Nakamura,49,Singapore,Berlin,Bluetooth Speaker,37,38260,5177,28,Cash on Delivery,Pending,10,1415620,396374.0,1019246.0
+311,8,2023-01-13 22:00:00,James Smith,47,UAE,Berlin,Keyboard,48,43498,8472,16,Debit Card,Returned,9,2087904,334065.0,1753839.0
+312,1,2023-01-13 23:00:00,Arjun Reddy,56,UK,New York,Earbuds,7,68609,15829,11,Net Banking,Shipped,8,480263,52829.0,427434.0
+313,9,2023-01-14 00:00:00,Haruto Tanaka,29,UAE,Mumbai,Laptop,5,50464,4764,9,Cash on Delivery,Returned,7,252320,22709.0,229611.0
+314,11,2023-01-14 01:00:00,Aarav Patel,58,Australia,Mumbai,Tablet,11,72805,3633,7,UPI,Pending,12,800855,56060.0,744795.0
+315,16,2023-01-14 02:00:00,Emma Brown,35,Germany,New York,Gaming Console,15,65919,12112,14,Cash on Delivery,Shipped,5,988785,138430.0,850355.0
+316,7,2023-01-14 03:00:00,Liam Walker,38,Germany,Dubai,Wireless Mouse,3,55469,18349,4,Debit Card,Delivered,14,166407,6656.0,159751.0
+317,10,2023-01-14 04:00:00,Suresh Kumar,30,Canada,London,Laptop,5,18194,20993,3,Credit Card,Returned,3,90970,2729.0,88241.0
+318,3,2023-01-14 05:00:00,Chen Wei,38,Italy,New York,Keyboard,23,27811,19095,25,Credit Card,Pending,9,639653,159913.0,479740.0
+319,18,2023-01-14 06:00:00,James Smith,25,UAE,Dubai,Earbuds,37,73377,22423,27,Cash on Delivery,Pending,13,2714949,733036.0,1981913.0
+320,13,2023-01-14 07:00:00,Emma Brown,57,UAE,Chennai,Bluetooth Speaker,9,44723,27880,20,Credit Card,Pending,5,402507,80501.0,322006.0
+321,7,2023-01-14 08:00:00,Emma Brown,24,India,Tokyo,Power Bank,15,76235,14658,19,Cash on Delivery,Delivered,3,1143525,217270.0,926255.0
+322,4,2023-01-14 09:00:00,Haruto Tanaka,40,India,Delhi,Smartphone,3,77298,10235,18,Debit Card,Shipped,3,231894,41741.0,190153.0
+323,13,2023-01-14 10:00:00,Arjun Reddy,49,Canada,London,Keyboard,29,60238,2189,20,Credit Card,Shipped,3,1746902,349380.0,1397522.0
+324,20,2023-01-14 11:00:00,Diya Iyer,28,Japan,Kolkata,Wireless Mouse,6,3147,10263,3,UPI,Pending,14,18882,566.0,18316.0
+325,1,2023-01-14 12:00:00,James Smith,39,Germany,London,Router,17,39445,8227,14,Cash on Delivery,Returned,6,670565,93879.0,576686.0
+326,8,2023-01-14 13:00:00,Chen Wei,39,Japan,Delhi,Power Bank,26,54803,8264,16,Credit Card,Pending,1,1424878,227980.0,1196898.0
+327,14,2023-01-14 14:00:00,Aditi Verma,42,Italy,Bangalore,Wireless Mouse,21,62108,21425,11,Debit Card,Pending,11,1304268,143469.0,1160799.0
+328,16,2023-01-14 15:00:00,Fatima Khan,39,France,Berlin,Smartwatch,8,3013,28355,2,Debit Card,Returned,4,24104,482.0,23622.0
+329,14,2023-01-14 16:00:00,Aditi Verma,45,France,Tokyo,Wireless Mouse,21,54502,20425,9,UPI,Pending,13,1144542,103009.0,1041533.0
+330,12,2023-01-14 17:00:00,Diya Iyer,46,USA,Mumbai,Laptop,11,38755,13503,14,Debit Card,Delivered,8,426305,59683.0,366622.0
+331,19,2023-01-14 18:00:00,Aarav Patel,30,Singapore,Dubai,Smartwatch,38,9733,28099,9,Debit Card,Pending,3,369854,33287.0,336567.0
+332,15,2023-01-14 19:00:00,Aarav Patel,35,India,New York,Smartphone,8,10479,1318,23,Credit Card,Delivered,5,83832,19281.0,64551.0
+333,2,2023-01-14 20:00:00,Yuki Nakamura,19,USA,New York,Laptop,42,76361,14939,22,Cash on Delivery,Pending,2,3207162,705576.0,2501586.0
+334,2,2023-01-14 21:00:00,James Smith,46,Australia,Mumbai,Drone,24,22304,15577,17,Net Banking,Shipped,2,535296,91000.0,444296.0
+335,19,2023-01-14 22:00:00,Aditi Verma,38,Canada,London,DSLR Camera,35,36694,5021,0,Debit Card,Returned,11,1284290,0.0,1284290.0
+336,17,2023-01-14 23:00:00,Aarav Patel,32,Canada,Tokyo,Earbuds,14,10490,1624,2,Debit Card,Shipped,13,146860,2937.0,143923.0
+337,20,2023-01-15 00:00:00,Diya Iyer,44,France,Hyderabad,Laptop,14,22252,6160,20,Net Banking,Pending,7,311528,62306.0,249222.0
+338,10,2023-01-15 01:00:00,Haruto Tanaka,48,UAE,Dubai,Keyboard,10,7862,6141,25,Debit Card,Pending,10,78620,19655.0,58965.0
+339,6,2023-01-15 02:00:00,Rahul Sharma,32,Germany,Paris,Router,12,70959,18013,26,Credit Card,Delivered,3,851508,221392.0,630116.0
+340,15,2023-01-15 03:00:00,Liam Walker,40,Japan,Chennai,Earbuds,38,11450,2202,11,Credit Card,Pending,5,435100,47861.0,387239.0
+341,11,2023-01-15 04:00:00,Rahul Sharma,41,India,Delhi,Power Bank,44,57022,18885,0,Net Banking,Pending,3,2508968,0.0,2508968.0
+342,5,2023-01-15 05:00:00,Sophia Davis,30,USA,London,Smart TV,46,62991,23796,2,Debit Card,Pending,6,2897586,57952.0,2839634.0
+343,1,2023-01-15 06:00:00,Chen Wei,39,Japan,Berlin,Gaming Console,34,41927,20762,2,Debit Card,Shipped,13,1425518,28510.0,1397008.0
+344,8,2023-01-15 07:00:00,Aditi Verma,54,UAE,Berlin,Smart TV,41,50853,29448,4,Cash on Delivery,Delivered,10,2084973,83399.0,2001574.0
+345,12,2023-01-15 08:00:00,Yuki Nakamura,50,USA,Kolkata,Bluetooth Speaker,10,32826,24116,18,Debit Card,Shipped,3,328260,59087.0,269173.0
+346,12,2023-01-15 09:00:00,Sophia Davis,20,Singapore,Bangalore,Gaming Console,17,43879,26882,28,Credit Card,Delivered,8,745943,208864.0,537079.0
+347,5,2023-01-15 10:00:00,Aarav Patel,36,Australia,Berlin,Wireless Mouse,17,58265,11639,24,UPI,Shipped,2,990505,237721.0,752784.0
+348,7,2023-01-15 11:00:00,Suresh Kumar,40,Australia,New York,Router,3,73361,23215,0,UPI,Pending,3,220083,0.0,220083.0
+349,4,2023-01-15 12:00:00,Emily Johnson,46,Japan,London,Fitness Band,31,78990,22919,3,UPI,Shipped,8,2448690,73461.0,2375229.0
+350,6,2023-01-15 13:00:00,Suresh Kumar,47,Japan,Bangalore,Gaming Console,1,41736,28285,28,UPI,Shipped,8,41736,11686.0,30050.0
+351,13,2023-01-15 14:00:00,Diya Iyer,56,Japan,Delhi,Keyboard,12,25530,16202,28,Debit Card,Delivered,1,306360,85781.0,220579.0
+352,20,2023-01-15 15:00:00,James Smith,42,USA,New York,Keyboard,39,79052,27228,25,Debit Card,Delivered,8,3083028,770757.0,2312271.0
+353,15,2023-01-15 16:00:00,Emma Brown,54,Singapore,New York,Tablet,4,48058,29717,25,Cash on Delivery,Shipped,10,192232,48058.0,144174.0
+354,3,2023-01-15 17:00:00,Liam Walker,25,UK,Hyderabad,Gaming Console,42,75094,7023,3,Debit Card,Delivered,2,3153948,94618.0,3059330.0
+355,8,2023-01-15 18:00:00,Aditi Verma,59,Japan,Paris,Smartphone,13,75255,12897,16,UPI,Delivered,12,978315,156530.0,821785.0
+356,20,2023-01-15 19:00:00,Chen Wei,33,Germany,London,Smart TV,34,5886,8611,13,Net Banking,Delivered,7,200124,26016.0,174108.0
+357,16,2023-01-15 20:00:00,Yuki Nakamura,25,Italy,Tokyo,Power Bank,42,38387,25620,17,Net Banking,Returned,6,1612254,274083.0,1338171.0
+358,13,2023-01-15 21:00:00,Yuki Nakamura,18,UAE,Mumbai,Drone,21,22575,2901,26,Credit Card,Delivered,2,474075,123260.0,350815.0
+359,18,2023-01-15 22:00:00,Chen Wei,22,Italy,Mumbai,Earbuds,22,40643,29914,0,Credit Card,Returned,5,894146,0.0,894146.0
+360,10,2023-01-15 23:00:00,Diya Iyer,20,India,Chennai,Bluetooth Speaker,4,11100,27440,21,Debit Card,Returned,7,44400,9324.0,35076.0
+361,19,2023-01-16 00:00:00,Arjun Reddy,18,India,Kolkata,Gaming Console,18,61356,9981,15,Net Banking,Delivered,8,1104408,165661.0,938747.0
+362,17,2023-01-16 01:00:00,Aarav Patel,21,UAE,Bangalore,Bluetooth Speaker,5,8856,28841,2,UPI,Shipped,3,44280,886.0,43394.0
+363,19,2023-01-16 02:00:00,Emily Johnson,57,USA,London,Power Bank,19,39169,10567,22,UPI,Delivered,1,744211,163726.0,580485.0
+364,5,2023-01-16 03:00:00,Fatima Khan,52,UAE,Berlin,Bluetooth Speaker,2,29804,13876,20,UPI,Pending,13,59608,11922.0,47686.0
+365,9,2023-01-16 04:00:00,Fatima Khan,49,Italy,Dubai,Wireless Mouse,12,36790,29504,8,Debit Card,Shipped,7,441480,35318.0,406162.0
+366,12,2023-01-16 05:00:00,Fatima Khan,59,Italy,Kolkata,Power Bank,17,31988,14324,22,Debit Card,Returned,13,543796,119635.0,424161.0
+367,1,2023-01-16 06:00:00,Aditi Verma,51,Japan,Hyderabad,Wireless Mouse,10,77448,13944,3,Cash on Delivery,Returned,5,774480,23234.0,751246.0
+368,1,2023-01-16 07:00:00,Fatima Khan,42,France,Berlin,Gaming Console,34,39506,13379,20,UPI,Shipped,5,1343204,268641.0,1074563.0
+369,15,2023-01-16 08:00:00,Haruto Tanaka,27,Canada,New York,Power Bank,6,68306,25858,4,UPI,Shipped,7,409836,16393.0,393443.0
+370,2,2023-01-16 09:00:00,Rahul Sharma,38,UK,Tokyo,Router,8,13305,16612,10,Debit Card,Delivered,1,106440,10644.0,95796.0
+371,16,2023-01-16 10:00:00,Yuki Nakamura,56,Italy,London,Gaming Console,11,10969,1039,20,Debit Card,Returned,8,120659,24132.0,96527.0
+372,8,2023-01-16 11:00:00,Emily Johnson,44,Germany,Paris,Drone,12,13404,11474,25,Cash on Delivery,Pending,12,160848,40212.0,120636.0
+373,13,2023-01-16 12:00:00,Rahul Sharma,44,UAE,Kolkata,Wireless Mouse,9,9989,14346,8,Cash on Delivery,Delivered,14,89901,7192.0,82709.0
+374,1,2023-01-16 13:00:00,Emma Brown,19,Singapore,Kolkata,Router,2,66305,6115,25,Credit Card,Shipped,10,132610,33152.0,99458.0
+375,16,2023-01-16 14:00:00,Emily Johnson,58,France,Tokyo,Tablet,8,36983,27744,2,Net Banking,Returned,5,295864,5917.0,289947.0
+376,7,2023-01-16 15:00:00,Rahul Sharma,30,Italy,Berlin,Tablet,11,40462,29790,5,UPI,Shipped,8,445082,22254.0,422828.0
+377,5,2023-01-16 16:00:00,Emily Johnson,26,UAE,Chennai,Power Bank,36,20360,16516,23,UPI,Shipped,10,732960,168581.0,564379.0
+378,3,2023-01-16 17:00:00,Emma Brown,53,Australia,Bangalore,Keyboard,10,27287,29013,10,Cash on Delivery,Shipped,10,272870,27287.0,245583.0
+379,12,2023-01-16 18:00:00,Sophia Davis,39,France,Berlin,Drone,21,66472,3456,8,Cash on Delivery,Delivered,5,1395912,111673.0,1284239.0
+380,16,2023-01-16 19:00:00,Haruto Tanaka,59,USA,Bangalore,Router,20,62313,8577,28,Credit Card,Pending,12,1246260,348953.0,897307.0
+381,19,2023-01-16 20:00:00,Aditi Verma,43,UK,Kolkata,Tablet,48,35160,4222,14,Net Banking,Pending,7,1687680,236275.0,1451405.0
+382,5,2023-01-16 21:00:00,Aditi Verma,29,China,Delhi,Earbuds,8,7789,12559,22,Credit Card,Returned,10,62312,13709.0,48603.0
+383,14,2023-01-16 22:00:00,Diya Iyer,34,China,Kolkata,Keyboard,36,28181,26909,27,Net Banking,Shipped,3,1014516,273919.0,740597.0
+384,5,2023-01-16 23:00:00,Chen Wei,31,Japan,Kolkata,Router,29,15385,5587,2,UPI,Pending,2,446165,8923.0,437242.0
+385,15,2023-01-17 00:00:00,Aarav Patel,31,Japan,Tokyo,Earbuds,42,66641,10838,0,Credit Card,Shipped,6,2798922,0.0,2798922.0
+386,17,2023-01-17 01:00:00,Yuki Nakamura,51,USA,New York,Drone,12,45247,23344,19,Cash on Delivery,Returned,5,542964,103163.0,439801.0
+387,14,2023-01-17 02:00:00,Fatima Khan,37,Singapore,Tokyo,Drone,14,6544,2670,28,Credit Card,Shipped,9,91616,25652.0,65964.0
+388,20,2023-01-17 03:00:00,Haruto Tanaka,28,Japan,London,Tablet,48,14275,3891,21,Credit Card,Pending,10,685200,143892.0,541308.0
+389,5,2023-01-17 04:00:00,Suresh Kumar,33,Canada,Kolkata,Tablet,21,64248,7442,18,UPI,Shipped,4,1349208,242857.0,1106351.0
+390,12,2023-01-17 05:00:00,Fatima Khan,48,Italy,Bangalore,DSLR Camera,22,35550,18500,13,Cash on Delivery,Pending,11,782100,101673.0,680427.0
+391,16,2023-01-17 06:00:00,Aarav Patel,23,UK,Dubai,DSLR Camera,21,54693,14306,16,Cash on Delivery,Returned,3,1148553,183768.0,964785.0
+392,16,2023-01-17 07:00:00,Yuki Nakamura,36,UAE,Bangalore,Gaming Console,44,20641,15292,21,Debit Card,Shipped,9,908204,190723.0,717481.0
+393,7,2023-01-17 08:00:00,James Smith,54,USA,Paris,Power Bank,30,72749,13309,13,Debit Card,Pending,8,2182470,283721.0,1898749.0
+394,4,2023-01-17 09:00:00,Aarav Patel,21,India,Berlin,Smartwatch,39,16605,15355,16,Debit Card,Returned,6,647595,103615.0,543980.0
+395,1,2023-01-17 10:00:00,Haruto Tanaka,21,UAE,Mumbai,Router,20,51713,9608,24,UPI,Shipped,1,1034260,248222.0,786038.0
+396,5,2023-01-17 11:00:00,Rahul Sharma,37,UAE,Paris,Smartwatch,24,21390,29888,26,Credit Card,Returned,14,513360,133474.0,379886.0
+397,10,2023-01-17 12:00:00,Emily Johnson,27,Australia,Chennai,Tablet,23,76403,6958,13,Cash on Delivery,Pending,10,1757269,228445.0,1528824.0
+398,5,2023-01-17 13:00:00,Chen Wei,41,USA,Hyderabad,Bluetooth Speaker,7,59466,3256,11,Cash on Delivery,Shipped,13,416262,45789.0,370473.0
+399,4,2023-01-17 14:00:00,Chen Wei,52,USA,London,Tablet,9,4981,7353,15,Credit Card,Shipped,12,44829,6724.0,38105.0
+400,2,2023-01-17 15:00:00,Suresh Kumar,43,China,London,Drone,1,10493,8209,0,Cash on Delivery,Shipped,11,10493,0.0,10493.0
+401,20,2023-01-17 16:00:00,Haruto Tanaka,54,Germany,Chennai,DSLR Camera,26,72218,18820,12,Credit Card,Returned,1,1877668,225320.0,1652348.0
+402,10,2023-01-17 17:00:00,Emma Brown,55,Singapore,Dubai,Gaming Console,38,72318,29118,5,UPI,Returned,12,2748084,137404.0,2610680.0
+403,19,2023-01-17 18:00:00,James Smith,38,Germany,Hyderabad,Drone,38,17984,19975,16,UPI,Pending,6,683392,109343.0,574049.0
+404,1,2023-01-17 19:00:00,Emma Brown,57,Canada,New York,Tablet,44,23760,13347,11,UPI,Delivered,13,1045440,114998.0,930442.0
+405,5,2023-01-17 20:00:00,Aditi Verma,56,India,Kolkata,Smart TV,22,2524,17852,22,Credit Card,Shipped,3,55528,12216.0,43312.0
+406,13,2023-01-17 21:00:00,Diya Iyer,38,UAE,Hyderabad,Keyboard,44,50402,7797,18,Credit Card,Shipped,3,2217688,399184.0,1818504.0
+407,4,2023-01-17 22:00:00,Aditi Verma,27,China,Dubai,Fitness Band,10,66614,28440,5,Net Banking,Pending,6,666140,33307.0,632833.0
+408,16,2023-01-17 23:00:00,Aarav Patel,55,India,Delhi,Drone,6,36891,16756,6,Cash on Delivery,Shipped,13,221346,13281.0,208065.0
+409,16,2023-01-18 00:00:00,Fatima Khan,21,UAE,Mumbai,Bluetooth Speaker,17,40832,3703,0,Cash on Delivery,Returned,3,694144,0.0,694144.0
+410,2,2023-01-18 01:00:00,Rahul Sharma,37,Canada,Hyderabad,Smart TV,38,46836,6999,0,Net Banking,Returned,13,1779768,0.0,1779768.0
+411,17,2023-01-18 02:00:00,Suresh Kumar,34,Germany,Hyderabad,Gaming Console,24,74953,5673,28,Net Banking,Shipped,11,1798872,503684.0,1295188.0
+412,20,2023-01-18 03:00:00,Aarav Patel,24,USA,Mumbai,Router,10,14362,17773,4,UPI,Shipped,10,143620,5745.0,137875.0
+413,12,2023-01-18 04:00:00,Liam Walker,21,Japan,Kolkata,Gaming Console,8,67745,25868,5,Net Banking,Returned,6,541960,27098.0,514862.0
+414,18,2023-01-18 05:00:00,James Smith,46,Japan,Hyderabad,Earbuds,21,38921,12150,15,Credit Card,Shipped,5,817341,122601.0,694740.0
+415,3,2023-01-18 06:00:00,Chen Wei,31,Italy,Mumbai,Laptop,6,71434,9673,24,Debit Card,Returned,4,428604,102865.0,325739.0
+416,1,2023-01-18 07:00:00,James Smith,20,France,Mumbai,Smart TV,21,19562,7882,15,Credit Card,Delivered,8,410802,61620.0,349182.0
+417,1,2023-01-18 08:00:00,Aarav Patel,41,Australia,Mumbai,Earbuds,39,65510,20415,13,Net Banking,Delivered,2,2554890,332136.0,2222754.0
+418,19,2023-01-18 09:00:00,Aarav Patel,54,Singapore,Tokyo,DSLR Camera,24,77407,28605,0,Cash on Delivery,Shipped,12,1857768,0.0,1857768.0
+419,11,2023-01-18 10:00:00,Haruto Tanaka,33,Canada,Dubai,Smartphone,33,8610,1301,12,Credit Card,Shipped,14,284130,34096.0,250034.0
+420,5,2023-01-18 11:00:00,Fatima Khan,21,Australia,Tokyo,Bluetooth Speaker,18,16791,8734,19,Cash on Delivery,Shipped,11,302238,57425.0,244813.0
+421,12,2023-01-18 12:00:00,Aditi Verma,41,Italy,Delhi,Keyboard,28,59047,14397,9,Credit Card,Returned,7,1653316,148798.0,1504518.0
+422,3,2023-01-18 13:00:00,Chen Wei,51,Italy,Paris,Smartphone,32,68906,15697,23,Cash on Delivery,Delivered,4,2204992,507148.0,1697844.0
+423,1,2023-01-18 14:00:00,Diya Iyer,47,Singapore,New York,Power Bank,12,20665,20233,9,Credit Card,Delivered,2,247980,22318.0,225662.0
+424,1,2023-01-18 15:00:00,Fatima Khan,35,UAE,Tokyo,Wireless Mouse,48,71246,24889,8,Cash on Delivery,Pending,7,3419808,273585.0,3146223.0
+425,8,2023-01-18 16:00:00,Emily Johnson,36,Australia,Tokyo,Fitness Band,42,66864,10469,12,Debit Card,Pending,13,2808288,336995.0,2471293.0
+426,10,2023-01-18 17:00:00,Haruto Tanaka,48,Germany,Paris,DSLR Camera,27,47451,3701,2,UPI,Shipped,1,1281177,25624.0,1255553.0
+427,11,2023-01-18 18:00:00,Haruto Tanaka,36,Singapore,Dubai,DSLR Camera,10,46890,17233,26,Credit Card,Returned,4,468900,121914.0,346986.0
+428,12,2023-01-18 19:00:00,Suresh Kumar,36,Italy,Paris,Smartphone,46,7794,26643,17,Debit Card,Shipped,9,358524,60949.0,297575.0
+429,13,2023-01-18 20:00:00,Rahul Sharma,39,Germany,New York,Smart TV,42,33888,26205,19,UPI,Delivered,14,1423296,270426.0,1152870.0
+430,12,2023-01-18 21:00:00,Diya Iyer,41,USA,Chennai,Laptop,32,7749,28035,1,Credit Card,Shipped,4,247968,2480.0,245488.0
+431,14,2023-01-18 22:00:00,Yuki Nakamura,29,China,Mumbai,Keyboard,42,47531,28863,16,Debit Card,Shipped,12,1996302,319408.0,1676894.0
+432,2,2023-01-18 23:00:00,Sophia Davis,47,Germany,Berlin,Smart TV,26,21608,10472,27,Debit Card,Delivered,13,561808,151688.0,410120.0
+433,19,2023-01-19 00:00:00,Yuki Nakamura,55,UAE,London,Smartphone,25,70211,1083,18,Debit Card,Delivered,3,1755275,315950.0,1439325.0
+434,18,2023-01-19 01:00:00,Aarav Patel,48,Japan,New York,Keyboard,11,57017,13219,22,Net Banking,Delivered,10,627187,137981.0,489206.0
+435,3,2023-01-19 02:00:00,Arjun Reddy,53,Australia,Delhi,Power Bank,23,58676,3877,12,Cash on Delivery,Delivered,10,1349548,161946.0,1187602.0
+436,17,2023-01-19 03:00:00,Chen Wei,36,UAE,Kolkata,Fitness Band,34,12560,22912,12,UPI,Pending,2,427040,51245.0,375795.0
+437,8,2023-01-19 04:00:00,Arjun Reddy,53,France,Delhi,Fitness Band,40,55401,24578,0,Cash on Delivery,Returned,14,2216040,0.0,2216040.0
+438,10,2023-01-19 05:00:00,Haruto Tanaka,47,UK,Mumbai,Smart TV,23,51468,23080,1,Cash on Delivery,Returned,3,1183764,11838.0,1171926.0
+439,2,2023-01-19 06:00:00,Fatima Khan,50,Italy,New York,Smartwatch,29,33463,23967,0,Cash on Delivery,Delivered,1,970427,0.0,970427.0
+440,19,2023-01-19 07:00:00,Emily Johnson,35,Singapore,Delhi,Smart TV,31,32663,15355,23,Debit Card,Returned,10,1012553,232887.0,779666.0
+441,9,2023-01-19 08:00:00,Suresh Kumar,45,Canada,Delhi,Gaming Console,7,69706,3901,4,Cash on Delivery,Returned,8,487942,19518.0,468424.0
+442,7,2023-01-19 09:00:00,Liam Walker,28,France,Paris,Wireless Mouse,40,59773,14136,23,Net Banking,Returned,1,2390920,549912.0,1841008.0
+443,4,2023-01-19 10:00:00,Arjun Reddy,50,Japan,Chennai,Earbuds,33,34123,20069,2,Credit Card,Returned,3,1126059,22521.0,1103538.0
+444,18,2023-01-19 11:00:00,Suresh Kumar,34,Germany,Chennai,Router,21,10718,27270,28,Debit Card,Delivered,14,225078,63022.0,162056.0
+445,13,2023-01-19 12:00:00,Haruto Tanaka,23,China,New York,Bluetooth Speaker,2,63637,22169,27,UPI,Shipped,3,127274,34364.0,92910.0
+446,11,2023-01-19 13:00:00,Rahul Sharma,21,UAE,Mumbai,Wireless Mouse,18,1028,16238,6,Credit Card,Shipped,13,18504,1110.0,17394.0
+447,4,2023-01-19 14:00:00,Emma Brown,37,USA,Tokyo,Smart TV,47,63370,26238,23,Credit Card,Shipped,2,2978390,685030.0,2293360.0
+448,4,2023-01-19 15:00:00,Yuki Nakamura,44,UK,Bangalore,Laptop,33,48599,7272,21,Credit Card,Pending,14,1603767,336791.0,1266976.0
+449,10,2023-01-19 16:00:00,Emily Johnson,32,India,Hyderabad,Fitness Band,37,18397,25374,12,Cash on Delivery,Returned,5,680689,81683.0,599006.0
+450,5,2023-01-19 17:00:00,Chen Wei,23,France,London,Drone,34,46406,20231,28,Cash on Delivery,Delivered,10,1577804,441785.0,1136019.0
+451,9,2023-01-19 18:00:00,Aditi Verma,31,China,Hyderabad,Wireless Mouse,20,48657,10631,22,Debit Card,Delivered,3,973140,214091.0,759049.0
+452,3,2023-01-19 19:00:00,Aarav Patel,28,India,Dubai,Fitness Band,35,68560,1288,29,Cash on Delivery,Pending,3,2399600,695884.0,1703716.0
+453,17,2023-01-19 20:00:00,Suresh Kumar,56,UK,Berlin,Keyboard,18,14503,21829,27,Cash on Delivery,Delivered,8,261054,70485.0,190569.0
+454,3,2023-01-19 21:00:00,Rahul Sharma,26,Canada,Chennai,Laptop,46,55943,16684,17,Cash on Delivery,Shipped,4,2573378,437474.0,2135904.0
+455,16,2023-01-19 22:00:00,Liam Walker,43,Canada,New York,Wireless Mouse,24,76839,3389,23,Debit Card,Pending,4,1844136,424151.0,1419985.0
+456,4,2023-01-19 23:00:00,Sophia Davis,33,Australia,Hyderabad,Keyboard,8,26345,10069,20,Debit Card,Delivered,3,210760,42152.0,168608.0
+457,18,2023-01-20 00:00:00,Yuki Nakamura,22,UK,Mumbai,Router,30,51390,22157,6,Net Banking,Pending,11,1541700,92502.0,1449198.0
+458,17,2023-01-20 01:00:00,Aditi Verma,27,UK,London,Smart TV,44,60557,10641,0,Net Banking,Pending,1,2664508,0.0,2664508.0
+459,7,2023-01-20 02:00:00,Chen Wei,20,India,Hyderabad,Keyboard,10,66054,20156,4,Net Banking,Delivered,8,660540,26422.0,634118.0
+460,5,2023-01-20 03:00:00,Yuki Nakamura,30,China,London,Tablet,23,2906,25953,16,Net Banking,Shipped,1,66838,10694.0,56144.0
+461,12,2023-01-20 04:00:00,Haruto Tanaka,47,UAE,Kolkata,DSLR Camera,49,41167,22118,27,Credit Card,Delivered,7,2017183,544639.0,1472544.0
+462,17,2023-01-20 05:00:00,Sophia Davis,23,Singapore,Mumbai,Wireless Mouse,11,8961,12434,28,Credit Card,Returned,5,98571,27600.0,70971.0
+463,13,2023-01-20 06:00:00,Yuki Nakamura,34,India,Berlin,Router,2,27140,10269,7,Net Banking,Returned,4,54280,3800.0,50480.0
+464,3,2023-01-20 07:00:00,Diya Iyer,36,USA,Bangalore,Smart TV,26,59701,23786,14,Net Banking,Delivered,4,1552226,217312.0,1334914.0
+465,9,2023-01-20 08:00:00,Liam Walker,59,Canada,Paris,DSLR Camera,36,78567,28215,19,UPI,Shipped,8,2828412,537398.0,2291014.0
+466,17,2023-01-20 09:00:00,Rahul Sharma,52,Canada,Delhi,Smartwatch,33,29561,8112,3,Credit Card,Returned,11,975513,29265.0,946248.0
+467,17,2023-01-20 10:00:00,Aarav Patel,43,Australia,London,Keyboard,47,51568,19376,1,UPI,Returned,11,2423696,24237.0,2399459.0
+468,20,2023-01-20 11:00:00,Arjun Reddy,22,UAE,Berlin,Smartphone,13,74302,16705,4,UPI,Delivered,13,965926,38637.0,927289.0
+469,16,2023-01-20 12:00:00,Sophia Davis,46,USA,Mumbai,Smartwatch,40,30504,27831,0,Cash on Delivery,Delivered,14,1220160,0.0,1220160.0
+470,13,2023-01-20 13:00:00,Chen Wei,54,Canada,London,Fitness Band,25,38146,23629,24,Debit Card,Delivered,6,953650,228876.0,724774.0
+471,19,2023-01-20 14:00:00,Haruto Tanaka,37,India,London,Smart TV,4,41297,14434,4,Credit Card,Pending,14,165188,6608.0,158580.0
+472,17,2023-01-20 15:00:00,Diya Iyer,38,USA,Tokyo,Laptop,42,69607,10595,5,Net Banking,Pending,12,2923494,146175.0,2777319.0
+473,4,2023-01-20 16:00:00,Aditi Verma,27,India,Tokyo,Tablet,19,17939,26458,1,Net Banking,Pending,1,340841,3408.0,337433.0
+474,12,2023-01-20 17:00:00,Fatima Khan,22,Singapore,Paris,Power Bank,18,51715,4740,25,Debit Card,Delivered,14,930870,232718.0,698152.0
+475,9,2023-01-20 18:00:00,James Smith,53,Singapore,Berlin,DSLR Camera,37,45460,19206,25,Credit Card,Shipped,10,1682020,420505.0,1261515.0
+476,19,2023-01-20 19:00:00,Suresh Kumar,23,Canada,Mumbai,Earbuds,30,67576,11248,0,Net Banking,Returned,8,2027280,0.0,2027280.0
+477,12,2023-01-20 20:00:00,Aarav Patel,43,Canada,Paris,DSLR Camera,19,69222,5798,3,Net Banking,Pending,13,1315218,39457.0,1275761.0
+478,9,2023-01-20 21:00:00,Yuki Nakamura,21,China,Tokyo,Gaming Console,23,13666,2361,6,Cash on Delivery,Shipped,14,314318,18859.0,295459.0
+479,7,2023-01-20 22:00:00,Arjun Reddy,56,Singapore,Dubai,Fitness Band,16,63119,14642,21,UPI,Delivered,2,1009904,212080.0,797824.0
+480,14,2023-01-20 23:00:00,Sophia Davis,56,UAE,Bangalore,Drone,1,36321,23504,25,Net Banking,Pending,6,36321,9080.0,27241.0
+481,20,2023-01-21 00:00:00,Yuki Nakamura,52,UAE,Paris,Drone,12,2779,26942,0,Credit Card,Delivered,9,33348,0.0,33348.0
+482,19,2023-01-21 01:00:00,Emma Brown,18,France,New York,Bluetooth Speaker,24,14186,20931,0,Debit Card,Shipped,1,340464,0.0,340464.0
+483,15,2023-01-21 02:00:00,Suresh Kumar,41,France,Paris,Smart TV,34,17459,24465,7,Cash on Delivery,Pending,6,593606,41552.0,552054.0
+484,16,2023-01-21 03:00:00,Fatima Khan,53,Australia,Mumbai,Smartwatch,8,6057,7820,19,Credit Card,Pending,8,48456,9207.0,39249.0
+485,5,2023-01-21 04:00:00,Diya Iyer,23,Singapore,Mumbai,Earbuds,18,61663,11867,15,Cash on Delivery,Pending,10,1109934,166490.0,943444.0
+486,3,2023-01-21 05:00:00,Chen Wei,58,India,Dubai,Laptop,48,19733,17982,20,UPI,Pending,13,947184,189437.0,757747.0
+487,12,2023-01-21 06:00:00,Liam Walker,48,India,Chennai,Router,5,20157,5747,12,Net Banking,Shipped,2,100785,12094.0,88691.0
+488,20,2023-01-21 07:00:00,Diya Iyer,37,Japan,Chennai,Laptop,26,36030,2234,22,Credit Card,Pending,5,936780,206092.0,730688.0
+489,4,2023-01-21 08:00:00,Diya Iyer,41,USA,Tokyo,Laptop,30,20613,5163,23,Debit Card,Returned,6,618390,142230.0,476160.0
+490,16,2023-01-21 09:00:00,James Smith,42,Germany,New York,Power Bank,13,6188,6409,25,UPI,Returned,5,80444,20111.0,60333.0
+491,7,2023-01-21 10:00:00,Rahul Sharma,53,France,Tokyo,Gaming Console,19,30680,20300,22,UPI,Delivered,3,582920,128242.0,454678.0
+492,13,2023-01-21 11:00:00,Diya Iyer,38,Canada,Kolkata,Drone,29,61119,13318,17,Cash on Delivery,Pending,4,1772451,301317.0,1471134.0
+493,10,2023-01-21 12:00:00,Yuki Nakamura,47,Australia,Kolkata,Laptop,3,75400,23186,29,UPI,Returned,7,226200,65598.0,160602.0
+494,7,2023-01-21 13:00:00,Fatima Khan,41,UAE,Delhi,Router,26,56718,24477,19,Credit Card,Returned,4,1474668,280187.0,1194481.0
+495,14,2023-01-21 14:00:00,Fatima Khan,59,Germany,Kolkata,Router,40,37445,17564,9,Cash on Delivery,Returned,9,1497800,134802.0,1362998.0
+496,5,2023-01-21 15:00:00,Liam Walker,47,UK,Chennai,Keyboard,12,6796,8663,11,UPI,Shipped,11,81552,8971.0,72581.0
+497,3,2023-01-21 16:00:00,Emily Johnson,39,Australia,Bangalore,Router,2,48218,18954,0,Debit Card,Pending,12,96436,0.0,96436.0
+498,11,2023-01-21 17:00:00,Liam Walker,45,UK,Kolkata,Drone,11,40131,13858,9,Credit Card,Shipped,14,441441,39730.0,401711.0
+499,11,2023-01-21 18:00:00,Yuki Nakamura,24,Italy,Tokyo,Laptop,44,9123,7168,8,Debit Card,Shipped,13,401412,32113.0,369299.0
+500,18,2023-01-21 19:00:00,Chen Wei,52,Singapore,London,Router,28,9222,13516,2,Debit Card,Returned,13,258216,5164.0,253052.0
+501,15,2023-01-21 20:00:00,Emily Johnson,45,UK,Mumbai,Smart TV,18,25074,8501,27,Cash on Delivery,Returned,10,451332,121860.0,329472.0
+502,12,2023-01-21 21:00:00,Emily Johnson,31,UK,Bangalore,Gaming Console,13,30825,10421,18,Net Banking,Delivered,2,400725,72130.0,328595.0
+503,9,2023-01-21 22:00:00,Arjun Reddy,27,Italy,Bangalore,Wireless Mouse,37,37839,2691,25,Cash on Delivery,Pending,5,1400043,350011.0,1050032.0
+504,10,2023-01-21 23:00:00,Arjun Reddy,33,China,Paris,Tablet,22,69322,9359,8,Credit Card,Pending,8,1525084,122007.0,1403077.0
+505,12,2023-01-22 00:00:00,Aditi Verma,33,China,Tokyo,Tablet,12,57321,26688,9,Credit Card,Returned,14,687852,61907.0,625945.0
+506,17,2023-01-22 01:00:00,Sophia Davis,48,China,Mumbai,Gaming Console,2,26988,24470,18,Cash on Delivery,Returned,5,53976,9716.0,44260.0
+507,6,2023-01-22 02:00:00,Sophia Davis,59,Singapore,Chennai,Bluetooth Speaker,37,36507,9372,15,Net Banking,Pending,10,1350759,202614.0,1148145.0
+508,7,2023-01-22 03:00:00,Haruto Tanaka,42,Germany,Bangalore,Power Bank,7,24806,26048,23,Cash on Delivery,Delivered,12,173642,39938.0,133704.0
+509,14,2023-01-22 04:00:00,Aarav Patel,30,Australia,Delhi,Fitness Band,26,37901,19730,17,Credit Card,Returned,8,985426,167522.0,817904.0
+510,13,2023-01-22 05:00:00,Rahul Sharma,23,Australia,Tokyo,Fitness Band,26,18043,27208,13,Net Banking,Delivered,8,469118,60985.0,408133.0
+511,8,2023-01-22 06:00:00,Sophia Davis,26,Canada,Bangalore,Earbuds,24,76761,19347,28,Credit Card,Shipped,9,1842264,515834.0,1326430.0
+512,10,2023-01-22 07:00:00,Arjun Reddy,53,China,New York,Drone,12,10752,23721,2,Net Banking,Returned,10,129024,2580.0,126444.0
+513,9,2023-01-22 08:00:00,Aditi Verma,37,Singapore,Berlin,Keyboard,16,69993,27605,1,Net Banking,Shipped,6,1119888,11199.0,1108689.0
+514,18,2023-01-22 09:00:00,Diya Iyer,35,Canada,Paris,DSLR Camera,23,43616,27579,0,Cash on Delivery,Returned,12,1003168,0.0,1003168.0
+515,2,2023-01-22 10:00:00,Aditi Verma,38,USA,Mumbai,Smart TV,40,53127,5422,17,Cash on Delivery,Shipped,4,2125080,361264.0,1763816.0
+516,5,2023-01-22 11:00:00,Diya Iyer,21,Canada,Kolkata,Smartphone,9,75777,4892,23,Cash on Delivery,Returned,12,681993,156858.0,525135.0
+517,5,2023-01-22 12:00:00,Chen Wei,50,Germany,Bangalore,Tablet,32,1453,20067,8,Net Banking,Delivered,11,46496,3720.0,42776.0
+518,6,2023-01-22 13:00:00,Chen Wei,44,France,Tokyo,Wireless Mouse,15,76432,29109,12,Net Banking,Delivered,3,1146480,137578.0,1008902.0
+519,19,2023-01-22 14:00:00,Emily Johnson,24,UK,Kolkata,Gaming Console,37,11976,14041,1,Credit Card,Delivered,12,443112,4431.0,438681.0
+520,8,2023-01-22 15:00:00,Haruto Tanaka,23,China,Berlin,Earbuds,13,71404,20051,6,Debit Card,Shipped,14,928252,55695.0,872557.0
+521,16,2023-01-22 16:00:00,Aarav Patel,32,Italy,Delhi,Gaming Console,5,78707,19881,15,Cash on Delivery,Delivered,5,393535,59030.0,334505.0
+522,13,2023-01-22 17:00:00,Liam Walker,35,France,Kolkata,DSLR Camera,11,34688,15515,20,Credit Card,Shipped,6,381568,76314.0,305254.0
+523,1,2023-01-22 18:00:00,Rahul Sharma,49,UAE,New York,Earbuds,10,3017,23405,18,Credit Card,Returned,3,30170,5431.0,24739.0
+524,20,2023-01-22 19:00:00,Yuki Nakamura,28,Canada,Chennai,Tablet,13,8957,3727,24,UPI,Shipped,2,116441,27946.0,88495.0
+525,17,2023-01-22 20:00:00,Emily Johnson,37,Singapore,Bangalore,Laptop,41,5792,23448,14,Cash on Delivery,Returned,7,237472,33246.0,204226.0
+526,7,2023-01-22 21:00:00,Liam Walker,41,UK,Hyderabad,Keyboard,46,56982,27228,21,Credit Card,Pending,11,2621172,550446.0,2070726.0
+527,13,2023-01-22 22:00:00,Sophia Davis,32,Australia,Hyderabad,Gaming Console,15,14237,26804,10,UPI,Pending,5,213555,21356.0,192199.0
+528,4,2023-01-22 23:00:00,Haruto Tanaka,24,India,Kolkata,Keyboard,42,52586,2524,0,Cash on Delivery,Pending,9,2208612,0.0,2208612.0
+529,4,2023-01-23 00:00:00,Emily Johnson,38,UK,Dubai,Keyboard,7,20252,17213,20,Net Banking,Shipped,3,141764,28353.0,113411.0
+530,6,2023-01-23 01:00:00,Suresh Kumar,59,Germany,Mumbai,Keyboard,40,11707,2986,6,UPI,Pending,14,468280,28097.0,440183.0
+531,19,2023-01-23 02:00:00,Sophia Davis,43,UAE,Paris,Wireless Mouse,28,35206,1655,19,Net Banking,Pending,8,985768,187296.0,798472.0
+532,12,2023-01-23 03:00:00,Liam Walker,31,Germany,Hyderabad,Smartphone,32,4543,10582,7,Debit Card,Pending,6,145376,10176.0,135200.0
+533,7,2023-01-23 04:00:00,Rahul Sharma,54,Canada,Dubai,Tablet,35,45135,4977,9,Debit Card,Returned,4,1579725,142175.0,1437550.0
+534,10,2023-01-23 05:00:00,Yuki Nakamura,38,USA,Hyderabad,Keyboard,15,36031,19069,4,Debit Card,Delivered,12,540465,21619.0,518846.0
+535,19,2023-01-23 06:00:00,Liam Walker,35,Germany,Dubai,Wireless Mouse,48,43929,7586,8,Debit Card,Shipped,12,2108592,168687.0,1939905.0
+536,7,2023-01-23 07:00:00,Diya Iyer,22,Germany,Mumbai,Smartwatch,36,66747,2817,24,Credit Card,Pending,9,2402892,576694.0,1826198.0
+537,3,2023-01-23 08:00:00,Chen Wei,20,Singapore,London,Drone,21,58851,4121,24,Debit Card,Returned,5,1235871,296609.0,939262.0
+538,13,2023-01-23 09:00:00,Emily Johnson,40,Canada,Hyderabad,Fitness Band,6,56311,4991,0,Credit Card,Delivered,10,337866,0.0,337866.0
+539,13,2023-01-23 10:00:00,Emily Johnson,43,UK,New York,Smartphone,1,66867,16416,1,Credit Card,Delivered,6,66867,669.0,66198.0
+540,18,2023-01-23 11:00:00,Yuki Nakamura,54,USA,Berlin,Bluetooth Speaker,4,58196,15748,18,Cash on Delivery,Delivered,14,232784,41901.0,190883.0
+541,20,2023-01-23 12:00:00,Fatima Khan,41,France,Bangalore,Power Bank,11,74705,3011,13,Credit Card,Returned,13,821755,106828.0,714927.0
+542,8,2023-01-23 13:00:00,Rahul Sharma,36,India,Dubai,Tablet,44,58894,24726,19,Credit Card,Pending,9,2591336,492354.0,2098982.0
+543,9,2023-01-23 14:00:00,Emma Brown,42,China,Berlin,Laptop,26,15591,25525,9,Debit Card,Delivered,7,405366,36483.0,368883.0
+544,7,2023-01-23 15:00:00,Sophia Davis,38,Australia,Bangalore,Router,37,49893,10046,8,Credit Card,Returned,12,1846041,147683.0,1698358.0
+545,1,2023-01-23 16:00:00,Aditi Verma,29,Germany,Tokyo,Tablet,23,1727,16112,9,Net Banking,Returned,5,39721,3575.0,36146.0
+546,3,2023-01-23 17:00:00,Yuki Nakamura,58,Canada,Tokyo,DSLR Camera,29,22359,8348,28,Debit Card,Shipped,2,648411,181555.0,466856.0
+547,13,2023-01-23 18:00:00,Rahul Sharma,50,China,Paris,Earbuds,21,44822,14774,5,UPI,Returned,4,941262,47063.0,894199.0
+548,17,2023-01-23 19:00:00,Aditi Verma,21,Australia,Berlin,Drone,48,11929,22288,16,Debit Card,Delivered,2,572592,91615.0,480977.0
+549,1,2023-01-23 20:00:00,Rahul Sharma,59,Australia,Mumbai,Fitness Band,45,61091,22277,27,Credit Card,Delivered,3,2749095,742256.0,2006839.0
+550,6,2023-01-23 21:00:00,Rahul Sharma,24,France,Dubai,Gaming Console,45,24519,18177,24,Net Banking,Returned,10,1103355,264805.0,838550.0
+551,6,2023-01-23 22:00:00,Liam Walker,39,France,Delhi,Keyboard,49,18393,2965,5,Debit Card,Delivered,12,901257,45063.0,856194.0
+552,12,2023-01-23 23:00:00,Aarav Patel,50,France,Tokyo,Earbuds,27,35318,16804,3,Net Banking,Returned,3,953586,28608.0,924978.0
+553,13,2023-01-24 00:00:00,Diya Iyer,34,Italy,Mumbai,Earbuds,39,75531,16169,29,UPI,Delivered,4,2945709,854256.0,2091453.0
+554,13,2023-01-24 01:00:00,Rahul Sharma,41,Japan,Berlin,Keyboard,40,48934,11794,19,UPI,Shipped,6,1957360,371898.0,1585462.0
+555,15,2023-01-24 02:00:00,Aarav Patel,51,Japan,Tokyo,Tablet,13,29840,26925,2,Cash on Delivery,Pending,12,387920,7758.0,380162.0
+556,16,2023-01-24 03:00:00,Fatima Khan,45,Australia,Tokyo,Keyboard,23,14265,3675,22,Cash on Delivery,Shipped,3,328095,72181.0,255914.0
+557,11,2023-01-24 04:00:00,Emma Brown,58,France,Delhi,Drone,16,6424,8349,18,Debit Card,Shipped,10,102784,18501.0,84283.0
+558,5,2023-01-24 05:00:00,Emily Johnson,56,Singapore,Hyderabad,Fitness Band,30,21625,12973,17,Cash on Delivery,Pending,14,648750,110288.0,538462.0
+559,4,2023-01-24 06:00:00,James Smith,39,Germany,Kolkata,DSLR Camera,4,30187,28275,25,Net Banking,Delivered,1,120748,30187.0,90561.0
+560,3,2023-01-24 07:00:00,Aditi Verma,34,China,Berlin,Keyboard,40,36929,9925,23,Cash on Delivery,Pending,1,1477160,339747.0,1137413.0
+561,19,2023-01-24 08:00:00,Emily Johnson,51,China,Paris,Gaming Console,16,62892,26513,3,Net Banking,Returned,9,1006272,30188.0,976084.0
+562,20,2023-01-24 09:00:00,James Smith,23,Japan,London,Gaming Console,31,21539,28428,7,Cash on Delivery,Pending,9,667709,46740.0,620969.0
+563,18,2023-01-24 10:00:00,Emma Brown,23,Australia,Tokyo,Earbuds,42,57630,12722,16,Cash on Delivery,Shipped,5,2420460,387274.0,2033186.0
+564,15,2023-01-24 11:00:00,Diya Iyer,51,Canada,Berlin,Bluetooth Speaker,25,10215,8944,4,Cash on Delivery,Pending,9,255375,10215.0,245160.0
+565,9,2023-01-24 12:00:00,Emma Brown,18,UK,Tokyo,Power Bank,44,40385,8710,12,Credit Card,Delivered,11,1776940,213233.0,1563707.0
+566,17,2023-01-24 13:00:00,Aditi Verma,27,UK,New York,DSLR Camera,12,78462,3259,24,Credit Card,Shipped,7,941544,225971.0,715573.0
+567,14,2023-01-24 14:00:00,Chen Wei,38,Japan,London,Bluetooth Speaker,26,26008,16591,0,Cash on Delivery,Returned,9,676208,0.0,676208.0
+568,15,2023-01-24 15:00:00,Aditi Verma,22,Canada,Delhi,Smart TV,37,49928,22139,26,Net Banking,Delivered,12,1847336,480307.0,1367029.0
+569,1,2023-01-24 16:00:00,Emma Brown,19,Italy,Bangalore,Smart TV,48,25976,25298,12,Debit Card,Shipped,7,1246848,149622.0,1097226.0
+570,3,2023-01-24 17:00:00,James Smith,39,Italy,Dubai,Smartphone,33,28626,502,3,UPI,Returned,9,944658,28340.0,916318.0
+571,16,2023-01-24 18:00:00,Yuki Nakamura,19,Japan,Tokyo,Earbuds,28,60789,25014,21,Credit Card,Delivered,2,1702092,357439.0,1344653.0
+572,11,2023-01-24 19:00:00,Rahul Sharma,27,UK,Kolkata,Gaming Console,9,5700,18143,25,Cash on Delivery,Returned,11,51300,12825.0,38475.0
+573,12,2023-01-24 20:00:00,Sophia Davis,51,Canada,Dubai,Tablet,12,64645,8690,23,UPI,Pending,11,775740,178420.0,597320.0
+574,10,2023-01-24 21:00:00,Haruto Tanaka,33,France,London,Gaming Console,5,74396,21207,13,Credit Card,Pending,8,371980,48357.0,323623.0
+575,16,2023-01-24 22:00:00,Aarav Patel,56,Australia,Dubai,Wireless Mouse,28,8526,15748,2,Debit Card,Returned,7,238728,4775.0,233953.0
+576,8,2023-01-24 23:00:00,Suresh Kumar,39,China,Hyderabad,Wireless Mouse,35,40500,6273,4,Net Banking,Pending,6,1417500,56700.0,1360800.0
+577,6,2023-01-25 00:00:00,Haruto Tanaka,29,Singapore,Tokyo,Gaming Console,5,69049,13286,6,Cash on Delivery,Returned,5,345245,20715.0,324530.0
+578,12,2023-01-25 01:00:00,Emily Johnson,41,USA,Dubai,Fitness Band,34,74366,19452,0,Debit Card,Delivered,4,2528444,0.0,2528444.0
+579,8,2023-01-25 02:00:00,Liam Walker,57,Australia,Bangalore,Drone,46,60117,15537,22,Credit Card,Shipped,7,2765382,608384.0,2156998.0
+580,4,2023-01-25 03:00:00,Emily Johnson,55,France,Bangalore,Wireless Mouse,34,57096,2385,28,Cash on Delivery,Returned,3,1941264,543554.0,1397710.0
+581,8,2023-01-25 04:00:00,Liam Walker,27,UAE,Tokyo,Laptop,13,8910,7560,11,UPI,Shipped,8,115830,12741.0,103089.0
+582,18,2023-01-25 05:00:00,James Smith,52,UK,Chennai,Gaming Console,39,72185,16831,10,Net Banking,Shipped,2,2815215,281522.0,2533693.0
+583,5,2023-01-25 06:00:00,Chen Wei,49,France,Bangalore,Router,42,51248,8344,23,Credit Card,Returned,1,2152416,495056.0,1657360.0
+584,9,2023-01-25 07:00:00,Liam Walker,24,UAE,Dubai,Smartphone,45,75656,22995,7,Net Banking,Pending,11,3404520,238316.0,3166204.0
+585,4,2023-01-25 08:00:00,Aditi Verma,38,Japan,Paris,Bluetooth Speaker,48,2951,13950,24,Cash on Delivery,Delivered,2,141648,33996.0,107652.0
+586,17,2023-01-25 09:00:00,Yuki Nakamura,37,Canada,Mumbai,Smart TV,14,66212,9991,5,Debit Card,Shipped,9,926968,46348.0,880620.0
+587,9,2023-01-25 10:00:00,Sophia Davis,43,China,Bangalore,Gaming Console,11,76701,19222,27,Net Banking,Delivered,5,843711,227802.0,615909.0
+588,1,2023-01-25 11:00:00,Sophia Davis,21,Germany,Berlin,Gaming Console,42,76282,9768,21,UPI,Shipped,11,3203844,672807.0,2531037.0
+589,20,2023-01-25 12:00:00,Aditi Verma,39,Japan,London,Wireless Mouse,38,42954,20642,1,Credit Card,Returned,8,1632252,16323.0,1615929.0
+590,13,2023-01-25 13:00:00,Yuki Nakamura,32,Australia,Chennai,Drone,4,9804,28257,18,UPI,Pending,3,39216,7059.0,32157.0
+591,16,2023-01-25 14:00:00,Diya Iyer,57,Japan,Berlin,Keyboard,33,1595,21694,19,Net Banking,Delivered,7,52635,10001.0,42634.0
+592,13,2023-01-25 15:00:00,Fatima Khan,38,Australia,Dubai,Laptop,7,30592,9639,19,Debit Card,Shipped,2,214144,40687.0,173457.0
+593,14,2023-01-25 16:00:00,Diya Iyer,32,Germany,Delhi,DSLR Camera,41,41643,7291,23,Debit Card,Returned,8,1707363,392693.0,1314670.0
+594,3,2023-01-25 17:00:00,Chen Wei,39,India,New York,Tablet,8,63665,7671,13,UPI,Returned,14,509320,66212.0,443108.0
+595,6,2023-01-25 18:00:00,Haruto Tanaka,45,UAE,Delhi,Router,37,21823,28814,0,Cash on Delivery,Shipped,7,807451,0.0,807451.0
+596,18,2023-01-25 19:00:00,Chen Wei,31,China,Hyderabad,DSLR Camera,10,6972,19615,9,Cash on Delivery,Shipped,12,69720,6275.0,63445.0
+597,19,2023-01-25 20:00:00,James Smith,44,Singapore,Berlin,Tablet,43,16882,29083,15,Debit Card,Shipped,5,725926,108889.0,617037.0
+598,5,2023-01-25 21:00:00,Haruto Tanaka,58,Singapore,New York,Power Bank,15,67394,17753,29,UPI,Pending,12,1010910,293164.0,717746.0
+599,15,2023-01-25 22:00:00,Fatima Khan,57,UAE,Hyderabad,Gaming Console,38,72055,22050,3,UPI,Shipped,11,2738090,82143.0,2655947.0
+600,2,2023-01-25 23:00:00,Fatima Khan,45,USA,New York,Laptop,15,24769,593,26,UPI,Shipped,4,371535,96599.0,274936.0
+601,10,2023-01-26 00:00:00,Emily Johnson,43,France,New York,Smartwatch,5,26020,3487,27,Net Banking,Pending,1,130100,35127.0,94973.0
+602,18,2023-01-26 01:00:00,Emma Brown,19,India,Mumbai,Wireless Mouse,29,43748,13347,28,Cash on Delivery,Returned,5,1268692,355234.0,913458.0
+603,13,2023-01-26 02:00:00,Emily Johnson,42,UAE,Kolkata,Earbuds,19,45912,10467,10,Cash on Delivery,Shipped,12,872328,87233.0,785095.0
+604,5,2023-01-26 03:00:00,Emma Brown,20,Singapore,London,Wireless Mouse,10,13879,16718,15,Net Banking,Delivered,9,138790,20818.0,117972.0
+605,1,2023-01-26 04:00:00,Chen Wei,25,Japan,Delhi,Smart TV,12,34798,10952,26,Credit Card,Returned,10,417576,108570.0,309006.0
+606,1,2023-01-26 05:00:00,Suresh Kumar,50,France,Bangalore,Bluetooth Speaker,4,47073,9127,19,Net Banking,Delivered,4,188292,35775.0,152517.0
+607,18,2023-01-26 06:00:00,Chen Wei,59,India,Dubai,Drone,31,76791,5447,0,UPI,Shipped,13,2380521,0.0,2380521.0
+608,15,2023-01-26 07:00:00,Liam Walker,52,Canada,Chennai,Smart TV,18,67983,7151,15,Net Banking,Pending,9,1223694,183554.0,1040140.0
+609,17,2023-01-26 08:00:00,Yuki Nakamura,23,Canada,London,Router,16,44005,23863,18,UPI,Pending,12,704080,126734.0,577346.0
+610,11,2023-01-26 09:00:00,Emma Brown,56,France,Hyderabad,Bluetooth Speaker,40,3850,23678,20,Debit Card,Pending,2,154000,30800.0,123200.0
+611,17,2023-01-26 10:00:00,Diya Iyer,40,UAE,Mumbai,Power Bank,36,29400,29376,21,UPI,Shipped,4,1058400,222264.0,836136.0
+612,13,2023-01-26 11:00:00,Haruto Tanaka,42,Australia,Hyderabad,DSLR Camera,25,12953,23408,8,Cash on Delivery,Shipped,9,323825,25906.0,297919.0
+613,1,2023-01-26 12:00:00,Aditi Verma,36,Australia,Kolkata,Drone,23,24535,3644,8,Net Banking,Delivered,4,564305,45144.0,519161.0
+614,2,2023-01-26 13:00:00,Emily Johnson,22,Japan,Chennai,Drone,12,76536,20471,8,UPI,Pending,5,918432,73475.0,844957.0
+615,9,2023-01-26 14:00:00,Yuki Nakamura,28,India,Mumbai,Smartphone,34,76039,16960,26,Credit Card,Shipped,11,2585326,672185.0,1913141.0
+616,3,2023-01-26 15:00:00,James Smith,29,India,Hyderabad,Gaming Console,36,5055,25891,16,Debit Card,Returned,8,181980,29117.0,152863.0
+617,1,2023-01-26 16:00:00,Yuki Nakamura,27,France,Kolkata,Smartwatch,37,39170,9459,11,Credit Card,Shipped,1,1449290,159422.0,1289868.0
+618,16,2023-01-26 17:00:00,Aarav Patel,25,UK,Dubai,Bluetooth Speaker,3,29251,23437,24,Credit Card,Shipped,1,87753,21061.0,66692.0
+619,6,2023-01-26 18:00:00,Liam Walker,41,Canada,Dubai,Earbuds,9,5532,28761,12,Credit Card,Returned,9,49788,5975.0,43813.0
+620,17,2023-01-26 19:00:00,Aarav Patel,45,India,Hyderabad,Bluetooth Speaker,18,5924,8797,7,Debit Card,Pending,9,106632,7464.0,99168.0
+621,5,2023-01-26 20:00:00,Suresh Kumar,58,France,London,Keyboard,43,49037,28992,15,Debit Card,Returned,4,2108591,316289.0,1792302.0
+622,5,2023-01-26 21:00:00,Emma Brown,53,Germany,Chennai,Smartphone,35,79082,7194,17,Debit Card,Pending,13,2767870,470538.0,2297332.0
+623,6,2023-01-26 22:00:00,Suresh Kumar,54,USA,Tokyo,Keyboard,34,72621,16335,28,Debit Card,Returned,2,2469114,691352.0,1777762.0
+624,3,2023-01-26 23:00:00,James Smith,38,Germany,London,Smart TV,41,78926,19757,26,Credit Card,Delivered,13,3235966,841351.0,2394615.0
+625,5,2023-01-27 00:00:00,Diya Iyer,25,China,Dubai,Laptop,14,79816,3846,0,Cash on Delivery,Pending,9,1117424,0.0,1117424.0
+626,5,2023-01-27 01:00:00,Fatima Khan,26,UAE,Chennai,Smart TV,4,71400,23908,0,Cash on Delivery,Shipped,14,285600,0.0,285600.0
+627,10,2023-01-27 02:00:00,Aarav Patel,32,Japan,Kolkata,Power Bank,29,11702,20032,11,Debit Card,Delivered,4,339358,37329.0,302029.0
+628,10,2023-01-27 03:00:00,Sophia Davis,57,India,Mumbai,Laptop,41,16385,11840,5,Net Banking,Pending,6,671785,33589.0,638196.0
+629,19,2023-01-27 04:00:00,Aarav Patel,35,China,Paris,Smart TV,45,10336,26541,8,UPI,Pending,12,465120,37210.0,427910.0
+630,17,2023-01-27 05:00:00,James Smith,59,Singapore,Berlin,Earbuds,15,66421,27663,22,Net Banking,Pending,1,996315,219189.0,777126.0
+631,14,2023-01-27 06:00:00,Arjun Reddy,37,China,New York,Wireless Mouse,28,32225,744,4,Net Banking,Returned,12,902300,36092.0,866208.0
+632,9,2023-01-27 07:00:00,James Smith,23,France,Hyderabad,Smart TV,42,37021,3125,26,Net Banking,Pending,9,1554882,404269.0,1150613.0
+633,14,2023-01-27 08:00:00,Suresh Kumar,29,India,Paris,Drone,16,4782,4349,15,Cash on Delivery,Shipped,5,76512,11477.0,65035.0
+634,1,2023-01-27 09:00:00,Yuki Nakamura,19,USA,Delhi,Earbuds,12,50111,10097,17,UPI,Pending,3,601332,102226.0,499106.0
+635,19,2023-01-27 10:00:00,Aditi Verma,24,UAE,Chennai,Earbuds,5,43719,26057,16,Net Banking,Shipped,4,218595,34975.0,183620.0
+636,13,2023-01-27 11:00:00,Emily Johnson,33,France,Berlin,Drone,34,50037,8237,17,Debit Card,Shipped,1,1701258,289214.0,1412044.0
+637,13,2023-01-27 12:00:00,Aditi Verma,20,France,Bangalore,Wireless Mouse,42,4513,14524,0,Cash on Delivery,Shipped,14,189546,0.0,189546.0
+638,4,2023-01-27 13:00:00,Suresh Kumar,20,Japan,Kolkata,Fitness Band,1,14335,12500,18,Debit Card,Delivered,9,14335,2580.0,11755.0
+639,1,2023-01-27 14:00:00,Emily Johnson,44,Japan,Tokyo,Laptop,39,45140,8833,21,Debit Card,Shipped,14,1760460,369697.0,1390763.0
+640,17,2023-01-27 15:00:00,Arjun Reddy,57,Canada,New York,DSLR Camera,32,78658,17776,28,Net Banking,Returned,8,2517056,704776.0,1812280.0
+641,8,2023-01-27 16:00:00,Sophia Davis,55,Canada,Bangalore,Tablet,26,35840,22371,7,Debit Card,Pending,4,931840,65229.0,866611.0
+642,2,2023-01-27 17:00:00,Liam Walker,50,Australia,Tokyo,Gaming Console,17,32007,24135,2,UPI,Returned,2,544119,10882.0,533237.0
+643,8,2023-01-27 18:00:00,Haruto Tanaka,45,UK,Delhi,Bluetooth Speaker,48,57947,7810,25,Debit Card,Delivered,14,2781456,695364.0,2086092.0
+644,7,2023-01-27 19:00:00,Suresh Kumar,18,India,Dubai,Tablet,27,27393,2899,24,Net Banking,Pending,9,739611,177507.0,562104.0
+645,2,2023-01-27 20:00:00,Yuki Nakamura,25,India,London,Smartphone,24,58480,5140,25,Debit Card,Shipped,4,1403520,350880.0,1052640.0
+646,3,2023-01-27 21:00:00,Emma Brown,54,Italy,Hyderabad,DSLR Camera,35,10107,19844,4,Cash on Delivery,Pending,9,353745,14150.0,339595.0
+647,18,2023-01-27 22:00:00,Suresh Kumar,49,China,Mumbai,Tablet,46,6993,10891,22,Cash on Delivery,Delivered,10,321678,70769.0,250909.0
+648,12,2023-01-27 23:00:00,Suresh Kumar,54,India,Tokyo,Laptop,42,53066,24209,7,Cash on Delivery,Delivered,3,2228772,156014.0,2072758.0
+649,1,2023-01-28 00:00:00,Aarav Patel,21,India,New York,Smartphone,39,43942,18353,18,Credit Card,Returned,7,1713738,308473.0,1405265.0
+650,12,2023-01-28 01:00:00,Aarav Patel,47,UK,Paris,Smartwatch,26,17138,11392,17,Cash on Delivery,Pending,7,445588,75750.0,369838.0
+651,5,2023-01-28 02:00:00,Emily Johnson,23,Singapore,Chennai,Drone,49,45527,11697,17,Cash on Delivery,Pending,10,2230823,379240.0,1851583.0
+652,17,2023-01-28 03:00:00,Chen Wei,36,Canada,Dubai,DSLR Camera,38,10190,13550,20,Credit Card,Pending,13,387220,77444.0,309776.0
+653,16,2023-01-28 04:00:00,Chen Wei,49,Canada,Chennai,Drone,23,79422,3874,0,Cash on Delivery,Returned,4,1826706,0.0,1826706.0
+654,15,2023-01-28 05:00:00,Rahul Sharma,26,USA,New York,Tablet,22,56698,13411,14,Net Banking,Delivered,2,1247356,174630.0,1072726.0
+655,15,2023-01-28 06:00:00,James Smith,29,India,Chennai,Fitness Band,4,30086,9347,17,Cash on Delivery,Shipped,11,120344,20458.0,99886.0
+656,5,2023-01-28 07:00:00,Yuki Nakamura,28,UK,Tokyo,Smartphone,49,18322,15285,28,Cash on Delivery,Pending,9,897778,251378.0,646400.0
+657,14,2023-01-28 08:00:00,Rahul Sharma,33,UAE,Paris,Smartwatch,9,4435,11460,24,Credit Card,Returned,4,39915,9580.0,30335.0
+658,2,2023-01-28 09:00:00,Diya Iyer,18,Canada,Kolkata,Smart TV,4,54331,14035,6,Net Banking,Returned,8,217324,13039.0,204285.0
+659,11,2023-01-28 10:00:00,Arjun Reddy,38,UK,Chennai,Drone,7,29942,8734,15,Debit Card,Shipped,14,209594,31439.0,178155.0
+660,19,2023-01-28 11:00:00,Chen Wei,47,Germany,London,Smartphone,23,60635,11003,15,UPI,Delivered,2,1394605,209191.0,1185414.0
+661,7,2023-01-28 12:00:00,Emma Brown,30,Singapore,Paris,Keyboard,2,30059,24807,14,Net Banking,Pending,8,60118,8417.0,51701.0
+662,6,2023-01-28 13:00:00,Aarav Patel,51,India,Delhi,Fitness Band,49,58557,5622,5,Debit Card,Pending,11,2869293,143465.0,2725828.0
+663,2,2023-01-28 14:00:00,Sophia Davis,21,USA,Mumbai,Wireless Mouse,24,53389,10352,8,Net Banking,Returned,10,1281336,102507.0,1178829.0
+664,6,2023-01-28 15:00:00,Fatima Khan,45,China,Tokyo,Laptop,40,54014,5887,6,Debit Card,Delivered,5,2160560,129634.0,2030926.0
+665,18,2023-01-28 16:00:00,Arjun Reddy,55,Canada,Berlin,Smart TV,31,33826,29767,13,Debit Card,Pending,7,1048606,136319.0,912287.0
+666,2,2023-01-28 17:00:00,Fatima Khan,48,Germany,Bangalore,Laptop,47,31297,8131,10,Net Banking,Shipped,7,1470959,147096.0,1323863.0
+667,18,2023-01-28 18:00:00,Yuki Nakamura,44,UAE,Paris,Drone,31,44890,7726,20,Credit Card,Delivered,12,1391590,278318.0,1113272.0
+668,15,2023-01-28 19:00:00,Yuki Nakamura,22,UK,Berlin,Tablet,47,22322,5608,15,Net Banking,Delivered,9,1049134,157370.0,891764.0
+669,19,2023-01-28 20:00:00,Diya Iyer,42,Japan,Berlin,Gaming Console,40,36739,19108,24,Net Banking,Returned,3,1469560,352694.0,1116866.0
+670,2,2023-01-28 21:00:00,Fatima Khan,20,France,Berlin,Tablet,48,10719,2610,5,Debit Card,Returned,10,514512,25726.0,488786.0
+671,20,2023-01-28 22:00:00,Yuki Nakamura,50,India,New York,Smart TV,43,9314,1457,21,UPI,Pending,4,400502,84105.0,316397.0
+672,6,2023-01-28 23:00:00,Sophia Davis,21,India,Dubai,Earbuds,34,76164,7646,26,Debit Card,Returned,10,2589576,673290.0,1916286.0
+673,1,2023-01-29 00:00:00,Aditi Verma,42,Germany,Paris,Tablet,24,78028,1060,15,Cash on Delivery,Delivered,4,1872672,280901.0,1591771.0
+674,15,2023-01-29 01:00:00,Rahul Sharma,37,UK,Tokyo,Smart TV,49,37113,26406,19,Net Banking,Pending,13,1818537,345522.0,1473015.0
+675,10,2023-01-29 02:00:00,Suresh Kumar,51,Australia,Kolkata,Smartphone,26,16357,24297,28,Net Banking,Pending,10,425282,119079.0,306203.0
+676,19,2023-01-29 03:00:00,Liam Walker,43,India,Berlin,Power Bank,16,21365,1812,15,Credit Card,Delivered,5,341840,51276.0,290564.0
+677,17,2023-01-29 04:00:00,Fatima Khan,22,Australia,Dubai,Tablet,47,40029,18705,11,Debit Card,Pending,14,1881363,206950.0,1674413.0
+678,5,2023-01-29 05:00:00,Emma Brown,52,UAE,London,Smartphone,13,2737,28078,16,Credit Card,Shipped,6,35581,5693.0,29888.0
+679,4,2023-01-29 06:00:00,Arjun Reddy,45,Japan,New York,Laptop,15,75632,12095,4,Net Banking,Shipped,3,1134480,45379.0,1089101.0
+680,10,2023-01-29 07:00:00,Aditi Verma,46,Germany,Dubai,Keyboard,27,79218,22530,26,Debit Card,Pending,13,2138886,556110.0,1582776.0
+681,17,2023-01-29 08:00:00,Fatima Khan,26,UK,Chennai,DSLR Camera,4,28499,21829,24,Debit Card,Returned,4,113996,27359.0,86637.0
+682,10,2023-01-29 09:00:00,Aditi Verma,55,UK,Tokyo,Gaming Console,16,47157,5874,12,Cash on Delivery,Shipped,3,754512,90541.0,663971.0
+683,17,2023-01-29 10:00:00,Chen Wei,23,Italy,Delhi,Laptop,30,57247,3151,7,Cash on Delivery,Pending,2,1717410,120219.0,1597191.0
+684,20,2023-01-29 11:00:00,Aditi Verma,36,UAE,New York,Laptop,44,42034,10506,23,UPI,Shipped,10,1849496,425384.0,1424112.0
+685,5,2023-01-29 12:00:00,Fatima Khan,28,UAE,Hyderabad,Smart TV,30,1294,10433,4,Cash on Delivery,Returned,12,38820,1553.0,37267.0
+686,2,2023-01-29 13:00:00,Emily Johnson,19,Singapore,London,Drone,36,25596,21585,11,Debit Card,Delivered,9,921456,101360.0,820096.0
+687,6,2023-01-29 14:00:00,James Smith,26,France,Berlin,Drone,3,12434,28884,8,Cash on Delivery,Pending,1,37302,2984.0,34318.0
+688,2,2023-01-29 15:00:00,Emma Brown,38,Canada,Mumbai,Earbuds,22,59382,16672,2,UPI,Pending,2,1306404,26128.0,1280276.0
+689,13,2023-01-29 16:00:00,Suresh Kumar,41,Canada,New York,Bluetooth Speaker,49,39098,3377,2,Net Banking,Pending,8,1915802,38316.0,1877486.0
+690,11,2023-01-29 17:00:00,Suresh Kumar,51,Italy,Kolkata,Power Bank,22,5655,22466,0,Cash on Delivery,Pending,7,124410,0.0,124410.0
+691,11,2023-01-29 18:00:00,Emma Brown,39,China,Tokyo,Earbuds,49,47228,28346,24,Debit Card,Pending,12,2314172,555401.0,1758771.0
+692,16,2023-01-29 19:00:00,Emily Johnson,20,USA,Chennai,Smart TV,12,4771,22274,21,Net Banking,Pending,1,57252,12023.0,45229.0
+693,11,2023-01-29 20:00:00,Aarav Patel,29,Germany,Mumbai,Wireless Mouse,21,75099,4583,17,Debit Card,Returned,5,1577079,268103.0,1308976.0
+694,19,2023-01-29 21:00:00,Yuki Nakamura,45,Japan,Mumbai,Gaming Console,4,57799,1245,23,Net Banking,Delivered,10,231196,53175.0,178021.0
+695,15,2023-01-29 22:00:00,Suresh Kumar,47,UK,London,Router,31,63257,9249,11,Debit Card,Returned,6,1960967,215706.0,1745261.0
+696,16,2023-01-29 23:00:00,Aarav Patel,43,France,Dubai,Power Bank,44,18558,28377,8,Cash on Delivery,Returned,5,816552,65324.0,751228.0
+697,11,2023-01-30 00:00:00,Aditi Verma,38,Australia,Kolkata,Power Bank,31,59436,17825,8,Cash on Delivery,Delivered,4,1842516,147401.0,1695115.0
+698,16,2023-01-30 01:00:00,Sophia Davis,45,Germany,Dubai,Fitness Band,23,33376,20907,17,UPI,Returned,14,767648,130500.0,637148.0
+699,8,2023-01-30 02:00:00,Arjun Reddy,43,China,Chennai,Smart TV,20,78924,19180,17,Net Banking,Shipped,13,1578480,268342.0,1310138.0
+700,4,2023-01-30 03:00:00,Chen Wei,50,Germany,Mumbai,Smartwatch,15,30332,17823,28,UPI,Returned,1,454980,127394.0,327586.0
+701,8,2023-01-30 04:00:00,Rahul Sharma,38,China,Kolkata,Laptop,23,47737,18494,6,Credit Card,Pending,7,1097951,65877.0,1032074.0
+702,4,2023-01-30 05:00:00,Suresh Kumar,52,UK,Kolkata,Keyboard,28,74970,23184,26,Cash on Delivery,Shipped,9,2099160,545782.0,1553378.0
+703,3,2023-01-30 06:00:00,Emma Brown,51,USA,Bangalore,DSLR Camera,16,52952,2225,3,Net Banking,Shipped,6,847232,25417.0,821815.0
+704,3,2023-01-30 07:00:00,Sophia Davis,58,China,Tokyo,Smartwatch,37,21991,26060,12,UPI,Delivered,3,813667,97640.0,716027.0
+705,18,2023-01-30 08:00:00,Fatima Khan,35,UK,Mumbai,Drone,21,28472,26663,16,UPI,Returned,10,597912,95666.0,502246.0
+706,19,2023-01-30 09:00:00,Diya Iyer,28,UK,Mumbai,Smart TV,15,60946,12713,23,Credit Card,Returned,14,914190,210264.0,703926.0
+707,19,2023-01-30 10:00:00,James Smith,40,USA,Kolkata,Router,17,27849,10028,1,UPI,Shipped,4,473433,4734.0,468699.0
+708,5,2023-01-30 11:00:00,Emma Brown,39,Canada,Dubai,Router,37,2541,14662,13,Debit Card,Returned,10,94017,12222.0,81795.0
+709,18,2023-01-30 12:00:00,Yuki Nakamura,34,Germany,Mumbai,Smartwatch,13,3765,28213,2,Cash on Delivery,Returned,5,48945,979.0,47966.0
+710,10,2023-01-30 13:00:00,Diya Iyer,22,Italy,Kolkata,Router,19,44074,9353,4,UPI,Delivered,12,837406,33496.0,803910.0
+711,6,2023-01-30 14:00:00,Diya Iyer,28,India,Mumbai,DSLR Camera,30,30283,7687,13,UPI,Shipped,12,908490,118104.0,790386.0
+712,1,2023-01-30 15:00:00,Aditi Verma,47,India,Kolkata,Smart TV,45,1769,532,2,Credit Card,Pending,1,79605,1592.0,78013.0
+713,5,2023-01-30 16:00:00,James Smith,32,Italy,Bangalore,Drone,18,18806,15393,22,Debit Card,Shipped,5,338508,74472.0,264036.0
+714,9,2023-01-30 17:00:00,Arjun Reddy,44,Australia,Tokyo,Smart TV,14,3972,14908,6,UPI,Delivered,1,55608,3336.0,52272.0
+715,12,2023-01-30 18:00:00,Arjun Reddy,52,UAE,Kolkata,Power Bank,36,19256,22869,29,Cash on Delivery,Delivered,9,693216,201033.0,492183.0
+716,14,2023-01-30 19:00:00,Emily Johnson,50,Australia,Paris,Smartwatch,36,19653,15660,17,Cash on Delivery,Delivered,7,707508,120276.0,587232.0
+717,2,2023-01-30 20:00:00,Aarav Patel,37,UAE,Mumbai,Smartphone,20,40339,3914,12,UPI,Returned,3,806780,96814.0,709966.0
+718,17,2023-01-30 21:00:00,Liam Walker,33,Italy,Chennai,Router,19,26757,18040,28,Debit Card,Shipped,9,508383,142347.0,366036.0
+719,14,2023-01-30 22:00:00,Diya Iyer,51,India,Tokyo,Tablet,45,43399,20010,22,Cash on Delivery,Returned,2,1952955,429650.0,1523305.0
+720,13,2023-01-30 23:00:00,Emily Johnson,19,Japan,Bangalore,Smart TV,44,45013,25136,26,Cash on Delivery,Returned,12,1980572,514949.0,1465623.0
+721,9,2023-01-31 00:00:00,Yuki Nakamura,52,India,Berlin,Smartwatch,7,15706,12620,21,Debit Card,Shipped,7,109942,23088.0,86854.0
+722,15,2023-01-31 01:00:00,Aarav Patel,57,Australia,Kolkata,Bluetooth Speaker,44,39231,2043,9,Debit Card,Delivered,9,1726164,155355.0,1570809.0
+723,15,2023-01-31 02:00:00,Chen Wei,45,France,Chennai,Gaming Console,4,28909,771,24,UPI,Pending,6,115636,27753.0,87883.0
+724,11,2023-01-31 03:00:00,Diya Iyer,56,Italy,Kolkata,Bluetooth Speaker,34,77631,5795,12,Net Banking,Pending,10,2639454,316734.0,2322720.0
+725,16,2023-01-31 04:00:00,Sophia Davis,23,Australia,Dubai,Smartwatch,2,58572,20960,15,Credit Card,Shipped,5,117144,17572.0,99572.0
+726,17,2023-01-31 05:00:00,James Smith,26,Japan,Mumbai,Router,5,64767,15463,8,Net Banking,Shipped,12,323835,25907.0,297928.0
+727,4,2023-01-31 06:00:00,Liam Walker,37,Germany,New York,Laptop,10,27469,12080,1,Net Banking,Delivered,7,274690,2747.0,271943.0
+728,1,2023-01-31 07:00:00,Fatima Khan,18,UAE,London,Router,32,2313,22786,22,Cash on Delivery,Shipped,14,74016,16284.0,57732.0
+729,8,2023-01-31 08:00:00,Aditi Verma,25,India,Delhi,Laptop,42,8847,27828,4,Debit Card,Shipped,6,371574,14863.0,356711.0
+730,17,2023-01-31 09:00:00,James Smith,40,USA,Dubai,Drone,41,51222,19593,28,Cash on Delivery,Delivered,5,2100102,588029.0,1512073.0
+731,3,2023-01-31 10:00:00,Emily Johnson,20,France,Chennai,Drone,13,75702,26230,21,Credit Card,Delivered,14,984126,206666.0,777460.0
+732,20,2023-01-31 11:00:00,Rahul Sharma,21,UK,Dubai,Smartwatch,39,10930,22105,16,UPI,Returned,2,426270,68203.0,358067.0
+733,15,2023-01-31 12:00:00,Haruto Tanaka,42,Japan,Hyderabad,Power Bank,5,4285,13097,22,Credit Card,Shipped,8,21425,4714.0,16711.0
+734,15,2023-01-31 13:00:00,Liam Walker,55,Australia,Kolkata,Drone,10,36863,12545,21,Cash on Delivery,Pending,13,368630,77412.0,291218.0
+735,14,2023-01-31 14:00:00,Liam Walker,32,UAE,Kolkata,Power Bank,10,17704,14103,3,Cash on Delivery,Shipped,7,177040,5311.0,171729.0
+736,14,2023-01-31 15:00:00,Yuki Nakamura,38,USA,Paris,Drone,38,19705,10437,16,Cash on Delivery,Pending,6,748790,119806.0,628984.0
+737,2,2023-01-31 16:00:00,Aditi Verma,52,China,Delhi,Router,27,1555,15330,8,Cash on Delivery,Pending,5,41985,3359.0,38626.0
+738,13,2023-01-31 17:00:00,Suresh Kumar,31,Canada,Delhi,Smart TV,21,22323,28508,19,Net Banking,Pending,5,468783,89069.0,379714.0
+739,14,2023-01-31 18:00:00,Arjun Reddy,53,India,Hyderabad,DSLR Camera,8,71968,25413,1,UPI,Returned,9,575744,5757.0,569987.0
+740,19,2023-01-31 19:00:00,Arjun Reddy,29,Canada,Mumbai,Tablet,1,67922,7222,23,Net Banking,Delivered,1,67922,15622.0,52300.0
+741,7,2023-01-31 20:00:00,Chen Wei,34,Japan,London,Router,28,54915,8701,17,Cash on Delivery,Delivered,9,1537620,261395.0,1276225.0
+742,3,2023-01-31 21:00:00,Rahul Sharma,56,China,New York,Fitness Band,49,11619,4644,20,Debit Card,Returned,6,569331,113866.0,455465.0
+743,15,2023-01-31 22:00:00,Sophia Davis,26,China,Berlin,Smart TV,39,73390,6106,26,Net Banking,Delivered,4,2862210,744175.0,2118035.0
+744,14,2023-01-31 23:00:00,Yuki Nakamura,52,China,New York,Fitness Band,14,60274,7266,21,Cash on Delivery,Returned,10,843836,177206.0,666630.0
+745,11,2023-02-01 00:00:00,Sophia Davis,30,UK,Bangalore,Bluetooth Speaker,21,74173,17614,10,Cash on Delivery,Shipped,14,1557633,155763.0,1401870.0
+746,15,2023-02-01 01:00:00,Fatima Khan,32,Japan,Paris,Wireless Mouse,30,22225,16428,12,UPI,Returned,7,666750,80010.0,586740.0
+747,13,2023-02-01 02:00:00,Aarav Patel,35,Germany,Berlin,Tablet,21,27739,21774,7,Credit Card,Delivered,9,582519,40776.0,541743.0
+748,18,2023-02-01 03:00:00,James Smith,50,Canada,Bangalore,Bluetooth Speaker,49,48708,2148,26,Net Banking,Delivered,5,2386692,620540.0,1766152.0
+749,6,2023-02-01 04:00:00,Chen Wei,23,Germany,Mumbai,Drone,9,54019,21112,0,Net Banking,Shipped,14,486171,0.0,486171.0
+750,3,2023-02-01 05:00:00,Chen Wei,44,USA,Bangalore,Power Bank,17,77154,28730,16,Net Banking,Returned,5,1311618,209859.0,1101759.0
+751,19,2023-02-01 06:00:00,Haruto Tanaka,40,Singapore,Bangalore,Drone,5,8373,2630,11,Cash on Delivery,Shipped,8,41865,4605.0,37260.0
+752,15,2023-02-01 07:00:00,Emma Brown,44,France,Hyderabad,Smartwatch,31,36281,14892,3,UPI,Pending,7,1124711,33741.0,1090970.0
+753,5,2023-02-01 08:00:00,Suresh Kumar,51,France,Hyderabad,DSLR Camera,40,21187,29547,20,Cash on Delivery,Returned,13,847480,169496.0,677984.0
+754,10,2023-02-01 09:00:00,Emily Johnson,55,Germany,Bangalore,Drone,38,68863,11088,12,Cash on Delivery,Shipped,13,2616794,314015.0,2302779.0
+755,7,2023-02-01 10:00:00,Diya Iyer,31,Singapore,Dubai,Keyboard,43,40220,4866,28,Debit Card,Shipped,8,1729460,484249.0,1245211.0
+756,17,2023-02-01 11:00:00,Emma Brown,53,Singapore,Berlin,Bluetooth Speaker,19,8642,2006,8,UPI,Delivered,11,164198,13136.0,151062.0
+757,7,2023-02-01 12:00:00,Aarav Patel,25,India,Tokyo,Power Bank,36,56556,19042,26,Net Banking,Returned,12,2036016,529364.0,1506652.0
+758,12,2023-02-01 13:00:00,Emma Brown,52,USA,Tokyo,Keyboard,33,34760,19800,29,Credit Card,Pending,10,1147080,332653.0,814427.0
+759,17,2023-02-01 14:00:00,Yuki Nakamura,36,Japan,Mumbai,DSLR Camera,13,39192,15722,6,Net Banking,Pending,2,509496,30570.0,478926.0
+760,13,2023-02-01 15:00:00,Diya Iyer,47,Singapore,New York,Smart TV,14,5381,12863,22,Cash on Delivery,Returned,9,75334,16573.0,58761.0
+761,20,2023-02-01 16:00:00,Liam Walker,31,Australia,Paris,Smartwatch,33,20558,20113,23,UPI,Returned,3,678414,156035.0,522379.0
+762,4,2023-02-01 17:00:00,Rahul Sharma,37,Italy,Delhi,Gaming Console,29,31782,12295,4,UPI,Shipped,6,921678,36867.0,884811.0
+763,10,2023-02-01 18:00:00,Arjun Reddy,42,France,Mumbai,Laptop,43,5782,10358,4,UPI,Delivered,6,248626,9945.0,238681.0
+764,3,2023-02-01 19:00:00,Fatima Khan,57,Australia,Bangalore,Earbuds,49,55712,13116,16,Debit Card,Delivered,2,2729888,436782.0,2293106.0
+765,9,2023-02-01 20:00:00,Sophia Davis,41,USA,Hyderabad,DSLR Camera,36,20462,23149,29,Net Banking,Delivered,12,736632,213623.0,523009.0
+766,13,2023-02-01 21:00:00,Haruto Tanaka,31,Singapore,Kolkata,Keyboard,44,61030,4636,8,Debit Card,Returned,13,2685320,214826.0,2470494.0
+767,18,2023-02-01 22:00:00,Yuki Nakamura,43,Canada,Dubai,Gaming Console,10,69519,13978,5,Credit Card,Delivered,7,695190,34760.0,660430.0
+768,15,2023-02-01 23:00:00,Rahul Sharma,55,France,Chennai,Gaming Console,31,57411,11661,24,Cash on Delivery,Shipped,9,1779741,427138.0,1352603.0
+769,4,2023-02-02 00:00:00,Liam Walker,40,India,Hyderabad,DSLR Camera,6,56206,3189,18,Debit Card,Returned,12,337236,60702.0,276534.0
+770,15,2023-02-02 01:00:00,Emily Johnson,39,UAE,Tokyo,Gaming Console,1,47950,24074,15,Debit Card,Returned,10,47950,7192.0,40758.0
+771,2,2023-02-02 02:00:00,Fatima Khan,36,India,Paris,Bluetooth Speaker,7,3523,27402,20,Cash on Delivery,Delivered,11,24661,4932.0,19729.0
+772,15,2023-02-02 03:00:00,Yuki Nakamura,20,Italy,Berlin,Gaming Console,27,61926,3310,1,UPI,Pending,1,1672002,16720.0,1655282.0
+773,8,2023-02-02 04:00:00,Liam Walker,59,China,Hyderabad,Drone,21,10677,27592,9,Cash on Delivery,Pending,8,224217,20180.0,204037.0
+774,8,2023-02-02 05:00:00,Haruto Tanaka,36,UAE,Dubai,Fitness Band,28,76828,12163,15,Net Banking,Shipped,2,2151184,322678.0,1828506.0
+775,17,2023-02-02 06:00:00,Arjun Reddy,26,UK,Berlin,Power Bank,16,16089,6652,4,Cash on Delivery,Delivered,14,257424,10297.0,247127.0
+776,12,2023-02-02 07:00:00,Chen Wei,45,Singapore,Delhi,Tablet,46,5581,512,14,UPI,Delivered,1,256726,35942.0,220784.0
+777,19,2023-02-02 08:00:00,Arjun Reddy,37,USA,Bangalore,Bluetooth Speaker,23,12907,11662,12,Cash on Delivery,Returned,8,296861,35623.0,261238.0
+778,10,2023-02-02 09:00:00,Yuki Nakamura,24,France,Kolkata,Gaming Console,20,6609,22822,12,Debit Card,Returned,2,132180,15862.0,116318.0
+779,9,2023-02-02 10:00:00,Arjun Reddy,31,UK,Tokyo,Router,38,52153,8499,12,Credit Card,Delivered,6,1981814,237818.0,1743996.0
+780,5,2023-02-02 11:00:00,Rahul Sharma,26,USA,Tokyo,Smart TV,25,51539,7719,14,Debit Card,Returned,6,1288475,180386.0,1108089.0
+781,6,2023-02-02 12:00:00,Rahul Sharma,36,Italy,Paris,Router,28,45143,5828,13,Credit Card,Delivered,5,1264004,164321.0,1099683.0
+782,20,2023-02-02 13:00:00,Sophia Davis,31,Germany,London,Laptop,5,23936,4121,7,Cash on Delivery,Shipped,8,119680,8378.0,111302.0
+783,2,2023-02-02 14:00:00,Yuki Nakamura,55,Singapore,New York,Smartwatch,21,51182,20567,10,Net Banking,Returned,3,1074822,107482.0,967340.0
+784,13,2023-02-02 15:00:00,Sophia Davis,53,Japan,Delhi,Keyboard,18,14163,24756,17,Cash on Delivery,Delivered,13,254934,43339.0,211595.0
+785,6,2023-02-02 16:00:00,Yuki Nakamura,57,Japan,Tokyo,Gaming Console,47,60758,12165,23,UPI,Returned,10,2855626,656794.0,2198832.0
+786,5,2023-02-02 17:00:00,Chen Wei,34,Singapore,New York,Smartphone,6,47057,22194,3,Cash on Delivery,Shipped,4,282342,8470.0,273872.0
+787,1,2023-02-02 18:00:00,Chen Wei,47,UAE,Tokyo,Drone,29,13537,11814,25,Credit Card,Returned,7,392573,98143.0,294430.0
+788,6,2023-02-02 19:00:00,Emily Johnson,26,China,Berlin,Laptop,19,23419,28540,9,Debit Card,Delivered,7,444961,40046.0,404915.0
+789,6,2023-02-02 20:00:00,Yuki Nakamura,50,China,Bangalore,Smart TV,33,43578,1152,0,Net Banking,Returned,13,1438074,0.0,1438074.0
+790,16,2023-02-02 21:00:00,Haruto Tanaka,42,UAE,New York,Drone,1,75991,22683,28,Cash on Delivery,Returned,12,75991,21277.0,54714.0
+791,4,2023-02-02 22:00:00,Aarav Patel,31,Japan,Dubai,Power Bank,45,75599,16682,4,Cash on Delivery,Delivered,14,3401955,136078.0,3265877.0
+792,11,2023-02-02 23:00:00,Fatima Khan,28,Canada,London,Gaming Console,3,1834,9312,12,Debit Card,Pending,8,5502,660.0,4842.0
+793,9,2023-02-03 00:00:00,Aditi Verma,52,UAE,Bangalore,Keyboard,42,33214,4290,0,Net Banking,Returned,2,1394988,0.0,1394988.0
+794,3,2023-02-03 01:00:00,Diya Iyer,58,France,Dubai,Power Bank,21,3413,16159,22,Cash on Delivery,Returned,11,71673,15768.0,55905.0
+795,19,2023-02-03 02:00:00,Aditi Verma,31,Japan,Kolkata,Gaming Console,35,10505,2145,7,Cash on Delivery,Shipped,12,367675,25737.0,341938.0
+796,8,2023-02-03 03:00:00,Liam Walker,47,Canada,Delhi,Earbuds,41,3105,10935,2,Credit Card,Pending,2,127305,2546.0,124759.0
+797,5,2023-02-03 04:00:00,Chen Wei,58,Italy,Delhi,Tablet,40,69104,21396,2,Credit Card,Shipped,4,2764160,55283.0,2708877.0
+798,4,2023-02-03 05:00:00,Arjun Reddy,21,UK,Chennai,Power Bank,3,59408,21643,6,UPI,Delivered,13,178224,10693.0,167531.0
+799,6,2023-02-03 06:00:00,Fatima Khan,21,Canada,Chennai,Tablet,25,38679,28567,3,Debit Card,Delivered,10,966975,29009.0,937966.0
+800,2,2023-02-03 07:00:00,Emma Brown,45,UK,New York,Laptop,45,66131,22758,2,Net Banking,Shipped,13,2975895,59518.0,2916377.0
+801,20,2023-02-03 08:00:00,Aarav Patel,25,USA,Berlin,Wireless Mouse,38,65280,28787,14,Cash on Delivery,Returned,9,2480640,347290.0,2133350.0
+802,11,2023-02-03 09:00:00,Rahul Sharma,19,Australia,Delhi,Earbuds,45,16762,4188,7,Cash on Delivery,Pending,10,754290,52800.0,701490.0
+803,4,2023-02-03 10:00:00,James Smith,58,USA,Paris,Smartwatch,20,59703,8189,2,UPI,Shipped,12,1194060,23881.0,1170179.0
+804,15,2023-02-03 11:00:00,Suresh Kumar,39,Japan,New York,Bluetooth Speaker,44,64079,1879,28,Cash on Delivery,Shipped,9,2819476,789453.0,2030023.0
+805,6,2023-02-03 12:00:00,Emily Johnson,58,UK,Chennai,Tablet,45,22577,4743,29,Debit Card,Delivered,13,1015965,294630.0,721335.0
+806,17,2023-02-03 13:00:00,Arjun Reddy,33,Japan,Kolkata,Earbuds,34,2214,10737,6,UPI,Returned,13,75276,4517.0,70759.0
+807,6,2023-02-03 14:00:00,Arjun Reddy,46,UAE,Tokyo,Wireless Mouse,21,49114,28124,17,Debit Card,Pending,4,1031394,175337.0,856057.0
+808,19,2023-02-03 15:00:00,Haruto Tanaka,47,Singapore,Dubai,Keyboard,48,64230,26464,10,UPI,Shipped,9,3083040,308304.0,2774736.0
+809,2,2023-02-03 16:00:00,Arjun Reddy,29,France,Berlin,Tablet,23,33980,23391,10,Cash on Delivery,Pending,14,781540,78154.0,703386.0
+810,15,2023-02-03 17:00:00,Rahul Sharma,52,India,Hyderabad,Fitness Band,6,68194,16830,16,UPI,Pending,3,409164,65466.0,343698.0
+811,11,2023-02-03 18:00:00,Rahul Sharma,28,Japan,New York,Router,13,78806,24703,27,Credit Card,Shipped,12,1024478,276609.0,747869.0
+812,8,2023-02-03 19:00:00,Suresh Kumar,38,France,Kolkata,Fitness Band,49,38792,25477,5,Net Banking,Pending,5,1900808,95040.0,1805768.0
+813,19,2023-02-03 20:00:00,Diya Iyer,38,UAE,Dubai,DSLR Camera,23,46807,19537,7,Cash on Delivery,Delivered,10,1076561,75359.0,1001202.0
+814,13,2023-02-03 21:00:00,Yuki Nakamura,22,Canada,Delhi,Smart TV,9,23301,6111,0,Net Banking,Returned,9,209709,0.0,209709.0
+815,12,2023-02-03 22:00:00,Emma Brown,37,UAE,Tokyo,Smartwatch,17,6141,23011,28,Cash on Delivery,Returned,6,104397,29231.0,75166.0
+816,5,2023-02-03 23:00:00,Fatima Khan,54,Italy,Dubai,Router,2,14777,13016,9,Net Banking,Returned,3,29554,2660.0,26894.0
+817,6,2023-02-04 00:00:00,Arjun Reddy,20,USA,London,Smart TV,19,39346,14386,27,Credit Card,Delivered,10,747574,201845.0,545729.0
+818,4,2023-02-04 01:00:00,Aditi Verma,50,Canada,Chennai,Keyboard,19,55703,20807,24,Net Banking,Delivered,9,1058357,254006.0,804351.0
+819,19,2023-02-04 02:00:00,Sophia Davis,26,India,Dubai,Gaming Console,7,48819,25343,18,UPI,Delivered,6,341733,61512.0,280221.0
+820,20,2023-02-04 03:00:00,Haruto Tanaka,26,UK,Hyderabad,Tablet,42,29469,14216,2,Net Banking,Returned,4,1237698,24754.0,1212944.0
+821,1,2023-02-04 04:00:00,Haruto Tanaka,21,Singapore,Kolkata,Gaming Console,42,4845,6412,3,Cash on Delivery,Pending,14,203490,6105.0,197385.0
+822,20,2023-02-04 05:00:00,Diya Iyer,52,France,Tokyo,Fitness Band,20,24290,22014,10,Debit Card,Delivered,4,485800,48580.0,437220.0
+823,17,2023-02-04 06:00:00,Aditi Verma,34,Singapore,Paris,Smartphone,9,31699,22323,14,Net Banking,Shipped,8,285291,39941.0,245350.0
+824,12,2023-02-04 07:00:00,Liam Walker,51,Australia,Bangalore,Tablet,17,45252,24764,0,Net Banking,Delivered,7,769284,0.0,769284.0
+825,15,2023-02-04 08:00:00,Aditi Verma,41,UAE,Dubai,Earbuds,27,4293,29297,8,Net Banking,Shipped,1,115911,9273.0,106638.0
+826,1,2023-02-04 09:00:00,Aarav Patel,49,Japan,Paris,Smartwatch,47,58089,6949,10,Cash on Delivery,Returned,6,2730183,273018.0,2457165.0
+827,14,2023-02-04 10:00:00,Liam Walker,18,UK,Paris,Gaming Console,2,17608,2225,18,Net Banking,Shipped,8,35216,6339.0,28877.0
+828,6,2023-02-04 11:00:00,James Smith,25,Australia,Mumbai,Fitness Band,36,67273,16370,12,Cash on Delivery,Delivered,3,2421828,290619.0,2131209.0
+829,5,2023-02-04 12:00:00,Chen Wei,40,UAE,Hyderabad,Tablet,19,17619,9804,25,Cash on Delivery,Delivered,14,334761,83690.0,251071.0
+830,11,2023-02-04 13:00:00,Sophia Davis,57,Germany,Hyderabad,Smartphone,17,79006,8022,15,Debit Card,Pending,9,1343102,201465.0,1141637.0
+831,4,2023-02-04 14:00:00,Chen Wei,29,Japan,Mumbai,Smart TV,5,15779,27751,3,UPI,Returned,10,78895,2367.0,76528.0
+832,13,2023-02-04 15:00:00,Haruto Tanaka,29,Canada,London,Router,39,52040,14163,0,Cash on Delivery,Shipped,2,2029560,0.0,2029560.0
+833,11,2023-02-04 16:00:00,Aditi Verma,32,USA,Bangalore,Earbuds,18,57325,5284,19,Credit Card,Returned,14,1031850,196052.0,835798.0
+834,3,2023-02-04 17:00:00,James Smith,58,France,Chennai,DSLR Camera,7,22630,9972,12,Net Banking,Delivered,6,158410,19009.0,139401.0
+835,1,2023-02-04 18:00:00,Yuki Nakamura,36,Italy,Kolkata,Tablet,17,13178,18116,0,Credit Card,Pending,12,224026,0.0,224026.0
+836,6,2023-02-04 19:00:00,Emily Johnson,43,India,Tokyo,DSLR Camera,39,20935,29452,4,Net Banking,Delivered,1,816465,32659.0,783806.0
+837,18,2023-02-04 20:00:00,Fatima Khan,46,India,Kolkata,Laptop,36,48258,29614,4,Debit Card,Delivered,12,1737288,69492.0,1667796.0
+838,10,2023-02-04 21:00:00,James Smith,39,Canada,Bangalore,Keyboard,40,23784,10555,13,Cash on Delivery,Delivered,11,951360,123677.0,827683.0
+839,5,2023-02-04 22:00:00,Diya Iyer,57,China,Kolkata,Smartwatch,45,64722,13176,26,UPI,Shipped,2,2912490,757247.0,2155243.0
+840,10,2023-02-04 23:00:00,Aarav Patel,38,India,Mumbai,Tablet,4,24027,25692,22,Cash on Delivery,Delivered,13,96108,21144.0,74964.0
+841,12,2023-02-05 00:00:00,Fatima Khan,55,France,Hyderabad,Power Bank,38,58853,25222,13,Net Banking,Returned,5,2236414,290734.0,1945680.0
+842,2,2023-02-05 01:00:00,Aditi Verma,37,Canada,Kolkata,Smartphone,25,68359,7946,7,UPI,Returned,1,1708975,119628.0,1589347.0
+843,13,2023-02-05 02:00:00,Emma Brown,46,UK,New York,Router,5,73388,21500,3,Cash on Delivery,Pending,8,366940,11008.0,355932.0
+844,8,2023-02-05 03:00:00,Yuki Nakamura,21,India,Paris,Drone,30,79608,5225,6,UPI,Returned,1,2388240,143294.0,2244946.0
+845,2,2023-02-05 04:00:00,James Smith,24,Singapore,Paris,Drone,12,77669,20561,19,Net Banking,Delivered,13,932028,177085.0,754943.0
+846,20,2023-02-05 05:00:00,Sophia Davis,45,Canada,Dubai,Gaming Console,4,16111,15269,18,Debit Card,Delivered,9,64444,11600.0,52844.0
+847,1,2023-02-05 06:00:00,Aditi Verma,45,France,Bangalore,Wireless Mouse,24,33312,23171,14,Debit Card,Returned,10,799488,111928.0,687560.0
+848,5,2023-02-05 07:00:00,Arjun Reddy,21,Singapore,London,Power Bank,29,25161,25364,21,Cash on Delivery,Pending,11,729669,153230.0,576439.0
+849,9,2023-02-05 08:00:00,Rahul Sharma,39,Japan,Berlin,Laptop,9,68313,1909,3,Credit Card,Pending,3,614817,18445.0,596372.0
+850,17,2023-02-05 09:00:00,James Smith,29,Japan,Berlin,Smartwatch,4,51374,8705,29,Net Banking,Returned,12,205496,59594.0,145902.0
+851,9,2023-02-05 10:00:00,Sophia Davis,20,India,New York,Smart TV,24,25014,16865,18,Cash on Delivery,Shipped,2,600336,108060.0,492276.0
+852,11,2023-02-05 11:00:00,Aarav Patel,39,Singapore,Mumbai,Earbuds,14,47389,756,8,Cash on Delivery,Shipped,1,663446,53076.0,610370.0
+853,15,2023-02-05 12:00:00,Emily Johnson,19,USA,Delhi,DSLR Camera,5,19161,18605,20,Debit Card,Shipped,9,95805,19161.0,76644.0
+854,6,2023-02-05 13:00:00,Arjun Reddy,41,UAE,Mumbai,Laptop,18,8490,16204,12,UPI,Shipped,4,152820,18338.0,134482.0
+855,3,2023-02-05 14:00:00,Chen Wei,51,Japan,Paris,Gaming Console,42,25502,18307,13,Net Banking,Returned,12,1071084,139241.0,931843.0
+856,17,2023-02-05 15:00:00,Emily Johnson,44,USA,London,Earbuds,19,36757,21837,22,UPI,Pending,1,698383,153644.0,544739.0
+857,5,2023-02-05 16:00:00,Chen Wei,58,UK,London,Drone,12,42111,3490,27,Net Banking,Delivered,1,505332,136440.0,368892.0
+858,12,2023-02-05 17:00:00,Aditi Verma,18,Canada,New York,Fitness Band,18,59645,1695,13,Credit Card,Delivered,7,1073610,139569.0,934041.0
+859,18,2023-02-05 18:00:00,Rahul Sharma,25,UAE,Dubai,Smart TV,17,60055,21443,21,Debit Card,Returned,2,1020935,214396.0,806539.0
+860,14,2023-02-05 19:00:00,James Smith,40,Australia,Bangalore,Gaming Console,30,9998,21249,9,Credit Card,Delivered,7,299940,26995.0,272945.0
+861,11,2023-02-05 20:00:00,James Smith,55,France,Chennai,Smartphone,24,29906,1744,15,Cash on Delivery,Shipped,12,717744,107662.0,610082.0
+862,9,2023-02-05 21:00:00,Emma Brown,23,Italy,Hyderabad,Fitness Band,11,71192,11915,4,Debit Card,Pending,7,783112,31324.0,751788.0
+863,2,2023-02-05 22:00:00,Haruto Tanaka,39,Canada,New York,DSLR Camera,35,51477,7266,22,Cash on Delivery,Returned,10,1801695,396373.0,1405322.0
+864,12,2023-02-05 23:00:00,Emma Brown,42,UAE,London,Wireless Mouse,23,37901,22186,26,Credit Card,Pending,14,871723,226648.0,645075.0
+865,3,2023-02-06 00:00:00,Diya Iyer,35,France,Berlin,Power Bank,17,53021,12162,5,Net Banking,Returned,9,901357,45068.0,856289.0
+866,3,2023-02-06 01:00:00,Aditi Verma,34,UAE,Delhi,Router,1,30092,16710,25,Cash on Delivery,Returned,13,30092,7523.0,22569.0
+867,1,2023-02-06 02:00:00,Aditi Verma,29,Singapore,Tokyo,Tablet,15,2242,29243,1,UPI,Returned,7,33630,336.0,33294.0
+868,8,2023-02-06 03:00:00,Rahul Sharma,23,UK,London,Fitness Band,32,2831,29045,12,Net Banking,Returned,13,90592,10871.0,79721.0
+869,8,2023-02-06 04:00:00,Emma Brown,43,Germany,Dubai,Laptop,9,51721,18190,28,Net Banking,Pending,14,465489,130337.0,335152.0
+870,11,2023-02-06 05:00:00,Sophia Davis,44,Italy,Dubai,Keyboard,15,29511,10813,12,Credit Card,Delivered,1,442665,53120.0,389545.0
+871,9,2023-02-06 06:00:00,Chen Wei,25,India,London,Tablet,28,73782,2902,18,Credit Card,Returned,12,2065896,371861.0,1694035.0
+872,5,2023-02-06 07:00:00,Sophia Davis,36,UAE,Dubai,Wireless Mouse,24,19302,17380,17,Debit Card,Shipped,13,463248,78752.0,384496.0
+873,14,2023-02-06 08:00:00,Rahul Sharma,59,France,New York,Earbuds,35,56568,20283,27,Debit Card,Returned,8,1979880,534568.0,1445312.0
+874,3,2023-02-06 09:00:00,Yuki Nakamura,18,France,London,Drone,22,4232,13775,18,UPI,Pending,8,93104,16759.0,76345.0
+875,5,2023-02-06 10:00:00,Haruto Tanaka,46,Singapore,London,Fitness Band,27,52507,28682,0,Net Banking,Returned,4,1417689,0.0,1417689.0
+876,5,2023-02-06 11:00:00,Sophia Davis,52,USA,Bangalore,Tablet,19,77508,15415,7,UPI,Shipped,13,1472652,103086.0,1369566.0
+877,19,2023-02-06 12:00:00,Liam Walker,57,Canada,Hyderabad,Power Bank,45,11683,1409,21,UPI,Pending,8,525735,110404.0,415331.0
+878,14,2023-02-06 13:00:00,Diya Iyer,31,Germany,Delhi,Bluetooth Speaker,12,24664,16306,15,Credit Card,Returned,4,295968,44395.0,251573.0
+879,4,2023-02-06 14:00:00,Fatima Khan,52,China,Dubai,Earbuds,20,34172,872,28,UPI,Shipped,8,683440,191363.0,492077.0
+880,13,2023-02-06 15:00:00,Rahul Sharma,37,India,Bangalore,DSLR Camera,1,65340,29533,1,UPI,Pending,5,65340,653.0,64687.0
+881,10,2023-02-06 16:00:00,Rahul Sharma,30,Australia,Paris,Gaming Console,21,12017,23120,7,Cash on Delivery,Returned,4,252357,17665.0,234692.0
+882,18,2023-02-06 17:00:00,Suresh Kumar,55,China,Paris,Fitness Band,49,37613,1844,5,Debit Card,Shipped,6,1843037,92152.0,1750885.0
+883,8,2023-02-06 18:00:00,Chen Wei,25,Canada,Chennai,Wireless Mouse,45,77920,9015,15,Debit Card,Pending,2,3506400,525960.0,2980440.0
+884,8,2023-02-06 19:00:00,Diya Iyer,37,India,Chennai,DSLR Camera,1,31348,2931,22,Net Banking,Returned,12,31348,6897.0,24451.0
+885,7,2023-02-06 20:00:00,Arjun Reddy,50,France,Kolkata,Tablet,10,17448,21554,10,Debit Card,Pending,2,174480,17448.0,157032.0
+886,8,2023-02-06 21:00:00,Arjun Reddy,43,Australia,New York,Smartwatch,47,10491,29907,16,Net Banking,Shipped,2,493077,78892.0,414185.0
+887,14,2023-02-06 22:00:00,Liam Walker,56,UAE,New York,Earbuds,32,79648,19668,22,Cash on Delivery,Returned,9,2548736,560722.0,1988014.0
+888,19,2023-02-06 23:00:00,Emma Brown,38,USA,Mumbai,Wireless Mouse,39,59759,11085,18,Debit Card,Returned,14,2330601,419508.0,1911093.0
+889,6,2023-02-07 00:00:00,Diya Iyer,59,Germany,Delhi,Gaming Console,22,45553,28996,10,Cash on Delivery,Returned,10,1002166,100217.0,901949.0
+890,1,2023-02-07 01:00:00,Yuki Nakamura,58,UAE,Berlin,Smart TV,18,1968,15962,27,Debit Card,Shipped,3,35424,9564.0,25860.0
+891,15,2023-02-07 02:00:00,Aditi Verma,26,USA,London,Drone,48,1368,26291,7,Debit Card,Delivered,10,65664,4596.0,61068.0
+892,1,2023-02-07 03:00:00,Aditi Verma,41,UK,Dubai,Smartphone,46,74960,2195,21,Cash on Delivery,Returned,4,3448160,724114.0,2724046.0
+893,17,2023-02-07 04:00:00,Emily Johnson,54,Singapore,Delhi,Drone,32,36010,2407,3,UPI,Shipped,10,1152320,34570.0,1117750.0
+894,1,2023-02-07 05:00:00,Chen Wei,58,India,Kolkata,Router,27,55154,21698,10,UPI,Pending,12,1489158,148916.0,1340242.0
+895,15,2023-02-07 06:00:00,Liam Walker,34,UAE,Paris,DSLR Camera,28,36851,17664,7,UPI,Pending,8,1031828,72228.0,959600.0
+896,2,2023-02-07 07:00:00,Rahul Sharma,41,USA,Paris,DSLR Camera,18,26496,1519,8,UPI,Shipped,4,476928,38154.0,438774.0
+897,14,2023-02-07 08:00:00,Liam Walker,38,China,Mumbai,Earbuds,39,31936,11957,25,Debit Card,Delivered,11,1245504,311376.0,934128.0
+898,8,2023-02-07 09:00:00,Liam Walker,56,Singapore,Bangalore,Smartwatch,49,79858,1903,1,Credit Card,Shipped,10,3913042,39130.0,3873912.0
+899,8,2023-02-07 10:00:00,Aarav Patel,58,USA,Delhi,Tablet,29,68005,18310,15,Cash on Delivery,Pending,10,1972145,295822.0,1676323.0
+900,19,2023-02-07 11:00:00,Liam Walker,56,Japan,Bangalore,Wireless Mouse,18,38493,9355,5,Credit Card,Pending,13,692874,34644.0,658230.0
+901,7,2023-02-07 12:00:00,Arjun Reddy,30,UK,Chennai,Tablet,44,70795,6368,20,Credit Card,Returned,7,3114980,622996.0,2491984.0
+902,19,2023-02-07 13:00:00,Aarav Patel,28,Canada,Paris,Earbuds,8,37390,11339,20,Net Banking,Delivered,5,299120,59824.0,239296.0
+903,6,2023-02-07 14:00:00,Chen Wei,36,UAE,Dubai,Drone,31,11292,510,25,UPI,Shipped,9,350052,87513.0,262539.0
+904,6,2023-02-07 15:00:00,Liam Walker,28,Germany,Kolkata,DSLR Camera,34,29365,6830,26,Debit Card,Pending,4,998410,259587.0,738823.0
+905,3,2023-02-07 16:00:00,Haruto Tanaka,30,UK,London,Gaming Console,7,18207,15561,18,UPI,Pending,3,127449,22941.0,104508.0
+906,7,2023-02-07 17:00:00,Fatima Khan,18,Singapore,Berlin,Wireless Mouse,36,23912,9730,27,UPI,Pending,13,860832,232425.0,628407.0
+907,19,2023-02-07 18:00:00,Aditi Verma,57,Japan,Paris,Smartphone,18,57572,19709,7,Credit Card,Shipped,2,1036296,72541.0,963755.0
+908,8,2023-02-07 19:00:00,Aarav Patel,36,India,Dubai,Wireless Mouse,38,20276,7964,13,Net Banking,Shipped,1,770488,100163.0,670325.0
+909,10,2023-02-07 20:00:00,Emily Johnson,29,China,Berlin,Earbuds,9,6534,15246,23,UPI,Delivered,11,58806,13525.0,45281.0
+910,20,2023-02-07 21:00:00,Diya Iyer,25,Germany,Berlin,Gaming Console,9,36670,3503,15,Cash on Delivery,Returned,6,330030,49504.0,280526.0
+911,15,2023-02-07 22:00:00,Fatima Khan,25,UAE,Hyderabad,Keyboard,46,63147,29756,11,Cash on Delivery,Returned,10,2904762,319524.0,2585238.0
+912,15,2023-02-07 23:00:00,Emily Johnson,29,Germany,New York,Gaming Console,8,37486,26151,4,UPI,Returned,2,299888,11996.0,287892.0
+913,1,2023-02-08 00:00:00,Suresh Kumar,50,UK,Kolkata,Smart TV,35,66557,7695,23,Credit Card,Pending,8,2329495,535784.0,1793711.0
+914,20,2023-02-08 01:00:00,Emily Johnson,43,Singapore,Delhi,Wireless Mouse,18,35268,23604,25,Credit Card,Returned,6,634824,158706.0,476118.0
+915,7,2023-02-08 02:00:00,Aditi Verma,56,India,Dubai,Wireless Mouse,5,27336,19972,23,Debit Card,Pending,12,136680,31436.0,105244.0
+916,4,2023-02-08 03:00:00,Aditi Verma,45,France,Paris,Power Bank,14,4641,14162,18,Net Banking,Delivered,12,64974,11695.0,53279.0
+917,6,2023-02-08 04:00:00,Aarav Patel,22,Japan,Paris,Bluetooth Speaker,28,33959,14239,17,Credit Card,Pending,5,950852,161645.0,789207.0
+918,1,2023-02-08 05:00:00,Liam Walker,25,UAE,Paris,Smartphone,30,14306,16088,8,Debit Card,Delivered,13,429180,34334.0,394846.0
+919,5,2023-02-08 06:00:00,James Smith,42,France,Tokyo,Laptop,4,47182,2289,1,Cash on Delivery,Delivered,2,188728,1887.0,186841.0
+920,1,2023-02-08 07:00:00,Suresh Kumar,44,China,New York,Router,39,75123,19920,24,Cash on Delivery,Returned,7,2929797,703151.0,2226646.0
+921,4,2023-02-08 08:00:00,Aarav Patel,40,India,New York,Smartwatch,20,57326,24261,19,Cash on Delivery,Returned,2,1146520,217839.0,928681.0
+922,2,2023-02-08 09:00:00,Haruto Tanaka,47,Italy,Tokyo,Bluetooth Speaker,25,22498,8098,11,UPI,Pending,13,562450,61870.0,500580.0
+923,10,2023-02-08 10:00:00,Rahul Sharma,40,Italy,Berlin,Smart TV,28,71198,5338,28,Net Banking,Shipped,14,1993544,558192.0,1435352.0
+924,5,2023-02-08 11:00:00,Sophia Davis,37,India,Berlin,Wireless Mouse,12,28197,6372,1,Debit Card,Returned,5,338364,3384.0,334980.0
+925,10,2023-02-08 12:00:00,Diya Iyer,35,Japan,Paris,Router,2,21719,20537,9,Net Banking,Returned,2,43438,3909.0,39529.0
+926,1,2023-02-08 13:00:00,Emily Johnson,35,Australia,Mumbai,Smartphone,43,26032,11867,0,UPI,Shipped,11,1119376,0.0,1119376.0
+927,6,2023-02-08 14:00:00,James Smith,19,France,Mumbai,Tablet,14,60624,4799,3,Debit Card,Shipped,10,848736,25462.0,823274.0
+928,13,2023-02-08 15:00:00,Liam Walker,21,USA,Tokyo,Bluetooth Speaker,22,79177,26152,24,Debit Card,Returned,11,1741894,418055.0,1323839.0
+929,15,2023-02-08 16:00:00,Arjun Reddy,47,Germany,Hyderabad,Tablet,31,42964,17857,11,Credit Card,Shipped,11,1331884,146507.0,1185377.0
+930,4,2023-02-08 17:00:00,Chen Wei,50,UAE,Chennai,Smartwatch,23,31028,7583,8,Net Banking,Pending,2,713644,57092.0,656552.0
+931,13,2023-02-08 18:00:00,Rahul Sharma,53,Australia,Tokyo,Router,48,55646,5994,3,Net Banking,Delivered,7,2671008,80130.0,2590878.0
+932,20,2023-02-08 19:00:00,Yuki Nakamura,35,USA,Chennai,Fitness Band,20,9536,26941,8,Credit Card,Delivered,9,190720,15258.0,175462.0
+933,15,2023-02-08 20:00:00,Emma Brown,54,Singapore,Dubai,Tablet,38,57747,11817,27,Cash on Delivery,Returned,5,2194386,592484.0,1601902.0
+934,8,2023-02-08 21:00:00,James Smith,36,UAE,Hyderabad,Smartwatch,4,46712,26375,5,UPI,Returned,7,186848,9342.0,177506.0
+935,5,2023-02-08 22:00:00,Chen Wei,45,UAE,Berlin,Fitness Band,15,7273,20290,0,Net Banking,Pending,4,109095,0.0,109095.0
+936,15,2023-02-08 23:00:00,Arjun Reddy,57,Italy,Kolkata,Router,24,72820,22034,9,Credit Card,Shipped,2,1747680,157291.0,1590389.0
+937,4,2023-02-09 00:00:00,Suresh Kumar,37,Japan,Berlin,Drone,25,75353,26234,28,Debit Card,Returned,3,1883825,527471.0,1356354.0
+938,12,2023-02-09 01:00:00,Yuki Nakamura,50,Singapore,Chennai,Drone,1,51830,3629,13,Credit Card,Delivered,2,51830,6738.0,45092.0
+939,13,2023-02-09 02:00:00,Aarav Patel,29,Germany,New York,Router,7,18127,604,21,Cash on Delivery,Pending,5,126889,26647.0,100242.0
+940,2,2023-02-09 03:00:00,Liam Walker,32,Canada,Dubai,Router,31,12539,7933,24,UPI,Pending,6,388709,93290.0,295419.0
+941,19,2023-02-09 04:00:00,Rahul Sharma,58,USA,New York,Smartphone,12,47761,8189,28,Cash on Delivery,Shipped,7,573132,160477.0,412655.0
+942,19,2023-02-09 05:00:00,Rahul Sharma,56,Italy,Hyderabad,Keyboard,42,47219,4067,17,Debit Card,Returned,3,1983198,337144.0,1646054.0
+943,4,2023-02-09 06:00:00,Rahul Sharma,19,UAE,Berlin,DSLR Camera,5,15692,21232,5,Debit Card,Returned,4,78460,3923.0,74537.0
+944,4,2023-02-09 07:00:00,Suresh Kumar,46,Australia,Chennai,Smartwatch,44,14334,21274,17,Debit Card,Pending,8,630696,107218.0,523478.0
+945,11,2023-02-09 08:00:00,Yuki Nakamura,58,Italy,Bangalore,Gaming Console,42,29615,23695,19,Debit Card,Delivered,4,1243830,236328.0,1007502.0
+946,5,2023-02-09 09:00:00,Emily Johnson,27,USA,Hyderabad,Laptop,38,8903,18065,15,Credit Card,Returned,7,338314,50747.0,287567.0
+947,20,2023-02-09 10:00:00,Emma Brown,19,USA,Hyderabad,Laptop,12,29527,5144,14,Debit Card,Delivered,12,354324,49605.0,304719.0
+948,11,2023-02-09 11:00:00,Haruto Tanaka,28,Japan,Bangalore,Earbuds,39,16629,15466,15,Debit Card,Pending,6,648531,97280.0,551251.0
+949,10,2023-02-09 12:00:00,Suresh Kumar,30,UAE,Dubai,Fitness Band,18,59008,11830,7,Credit Card,Returned,7,1062144,74350.0,987794.0
+950,8,2023-02-09 13:00:00,Sophia Davis,27,Singapore,Chennai,Laptop,2,27708,22757,12,Debit Card,Delivered,1,55416,6650.0,48766.0
+951,6,2023-02-09 14:00:00,Diya Iyer,31,France,Chennai,Router,10,11860,4894,22,Cash on Delivery,Pending,3,118600,26092.0,92508.0
+952,6,2023-02-09 15:00:00,Diya Iyer,35,Canada,Paris,Router,15,18438,4034,10,Cash on Delivery,Delivered,6,276570,27657.0,248913.0
+953,8,2023-02-09 16:00:00,Emma Brown,26,Japan,New York,Earbuds,30,68300,22728,27,Net Banking,Returned,3,2049000,553230.0,1495770.0
+954,15,2023-02-09 17:00:00,Aditi Verma,56,China,Hyderabad,Wireless Mouse,44,72545,22823,28,Cash on Delivery,Shipped,14,3191980,893754.0,2298226.0
+955,14,2023-02-09 18:00:00,Diya Iyer,45,UAE,Hyderabad,Router,17,21842,12888,24,UPI,Delivered,14,371314,89115.0,282199.0
+956,11,2023-02-09 19:00:00,Liam Walker,20,Japan,London,Laptop,4,61213,11819,6,UPI,Shipped,7,244852,14691.0,230161.0
+957,12,2023-02-09 20:00:00,Suresh Kumar,37,Germany,Kolkata,Smartwatch,7,43372,6975,16,UPI,Returned,9,303604,48577.0,255027.0
+958,13,2023-02-09 21:00:00,Arjun Reddy,23,Canada,Hyderabad,Gaming Console,41,69906,18658,17,Credit Card,Shipped,3,2866146,487245.0,2378901.0
+959,8,2023-02-09 22:00:00,Emma Brown,44,Italy,Delhi,DSLR Camera,31,39744,15228,21,Cash on Delivery,Pending,14,1232064,258733.0,973331.0
+960,18,2023-02-09 23:00:00,Sophia Davis,19,India,Kolkata,Router,39,58442,12506,22,UPI,Shipped,1,2279238,501432.0,1777806.0
+961,1,2023-02-10 00:00:00,Aditi Verma,46,China,Delhi,Tablet,34,4650,25167,18,Net Banking,Delivered,10,158100,28458.0,129642.0
+962,15,2023-02-10 01:00:00,Emily Johnson,55,UK,Chennai,Fitness Band,6,46117,16650,24,Credit Card,Delivered,13,276702,66408.0,210294.0
+963,8,2023-02-10 02:00:00,Yuki Nakamura,20,Japan,Kolkata,Router,38,53772,946,12,Net Banking,Shipped,6,2043336,245200.0,1798136.0
+964,11,2023-02-10 03:00:00,Arjun Reddy,33,USA,Hyderabad,Drone,45,4190,608,14,Cash on Delivery,Pending,12,188550,26397.0,162153.0
+965,12,2023-02-10 04:00:00,Aarav Patel,47,France,Bangalore,Smart TV,34,49113,29488,22,Debit Card,Returned,1,1669842,367365.0,1302477.0
+966,12,2023-02-10 05:00:00,Emma Brown,57,India,New York,Laptop,44,9789,3739,29,Net Banking,Shipped,1,430716,124908.0,305808.0
+967,4,2023-02-10 06:00:00,Liam Walker,19,Japan,Delhi,DSLR Camera,15,33125,6431,21,Debit Card,Delivered,14,496875,104344.0,392531.0
+968,16,2023-02-10 07:00:00,Yuki Nakamura,34,Japan,Paris,DSLR Camera,14,18459,4553,28,Credit Card,Delivered,8,258426,72359.0,186067.0
+969,4,2023-02-10 08:00:00,Arjun Reddy,58,Australia,Kolkata,Drone,6,36418,14246,21,Net Banking,Shipped,9,218508,45887.0,172621.0
+970,5,2023-02-10 09:00:00,Aditi Verma,29,Australia,Hyderabad,Fitness Band,37,48085,21421,0,Net Banking,Shipped,2,1779145,0.0,1779145.0
+971,5,2023-02-10 10:00:00,Arjun Reddy,52,India,Kolkata,Smartwatch,32,19768,23245,28,Credit Card,Shipped,9,632576,177121.0,455455.0
+972,8,2023-02-10 11:00:00,Chen Wei,18,Singapore,Hyderabad,Smartphone,3,50961,1745,15,Credit Card,Returned,5,152883,22932.0,129951.0
+973,10,2023-02-10 12:00:00,Yuki Nakamura,32,Italy,Hyderabad,Drone,3,28885,19604,4,UPI,Delivered,13,86655,3466.0,83189.0
+974,17,2023-02-10 13:00:00,Fatima Khan,43,Australia,Hyderabad,Smartphone,22,62082,14339,25,Cash on Delivery,Delivered,8,1365804,341451.0,1024353.0
+975,9,2023-02-10 14:00:00,Chen Wei,54,USA,London,Laptop,22,7895,25353,2,Net Banking,Delivered,7,173690,3474.0,170216.0
+976,19,2023-02-10 15:00:00,Haruto Tanaka,38,China,New York,Fitness Band,10,51311,28132,22,Net Banking,Returned,7,513110,112884.0,400226.0
+977,14,2023-02-10 16:00:00,James Smith,48,UK,Bangalore,Router,3,68067,13356,9,Credit Card,Pending,4,204201,18378.0,185823.0
+978,8,2023-02-10 17:00:00,Emily Johnson,42,Canada,Bangalore,Keyboard,12,72017,24625,18,Credit Card,Delivered,2,864204,155557.0,708647.0
+979,9,2023-02-10 18:00:00,Diya Iyer,40,UK,Kolkata,Fitness Band,29,24932,5605,4,Cash on Delivery,Delivered,5,723028,28921.0,694107.0
+980,11,2023-02-10 19:00:00,Aditi Verma,41,UK,Kolkata,Smart TV,48,22360,3422,6,Credit Card,Pending,14,1073280,64397.0,1008883.0
+981,1,2023-02-10 20:00:00,Yuki Nakamura,55,Canada,Hyderabad,Drone,17,55847,3013,13,Debit Card,Returned,11,949399,123422.0,825977.0
+982,14,2023-02-10 21:00:00,Haruto Tanaka,45,Australia,London,Laptop,7,39931,25914,2,Debit Card,Pending,11,279517,5590.0,273927.0
+983,5,2023-02-10 22:00:00,Haruto Tanaka,38,India,Hyderabad,Laptop,13,56823,3301,12,Debit Card,Pending,3,738699,88644.0,650055.0
+984,14,2023-02-10 23:00:00,Aarav Patel,35,Canada,London,Earbuds,2,39032,14395,12,Debit Card,Pending,14,78064,9368.0,68696.0
+985,4,2023-02-11 00:00:00,Arjun Reddy,53,Italy,Hyderabad,Gaming Console,4,19807,7481,9,Cash on Delivery,Pending,9,79228,7131.0,72097.0
+986,1,2023-02-11 01:00:00,James Smith,52,Italy,Delhi,Drone,10,12767,8721,1,Net Banking,Returned,6,127670,1277.0,126393.0
+987,19,2023-02-11 02:00:00,Haruto Tanaka,26,UAE,Delhi,Gaming Console,39,9071,23386,5,Debit Card,Returned,1,353769,17688.0,336081.0
+988,8,2023-02-11 03:00:00,James Smith,55,Germany,Chennai,Router,24,54413,6538,7,Credit Card,Pending,3,1305912,91414.0,1214498.0
+989,15,2023-02-11 04:00:00,Chen Wei,47,Singapore,Hyderabad,Drone,17,27149,23113,3,Debit Card,Shipped,12,461533,13846.0,447687.0
+990,15,2023-02-11 05:00:00,Arjun Reddy,51,China,New York,Smart TV,6,16540,26333,24,Cash on Delivery,Shipped,4,99240,23818.0,75422.0
+991,9,2023-02-11 06:00:00,Yuki Nakamura,49,France,Paris,Earbuds,19,71248,15582,11,Credit Card,Shipped,9,1353712,148908.0,1204804.0
+992,9,2023-02-11 07:00:00,Chen Wei,20,Australia,Chennai,Fitness Band,5,20787,15148,27,Debit Card,Shipped,11,103935,28062.0,75873.0
+993,10,2023-02-11 08:00:00,Liam Walker,20,Singapore,Kolkata,DSLR Camera,32,21982,864,14,Net Banking,Delivered,6,703424,98479.0,604945.0
+994,20,2023-02-11 09:00:00,Fatima Khan,45,Canada,Dubai,Wireless Mouse,10,23606,2300,7,Credit Card,Returned,4,236060,16524.0,219536.0
+995,9,2023-02-11 10:00:00,Haruto Tanaka,32,Germany,Hyderabad,Earbuds,9,11150,14610,6,Credit Card,Returned,1,100350,6021.0,94329.0
+996,3,2023-02-11 11:00:00,Suresh Kumar,58,France,Berlin,Laptop,27,47936,6458,13,Net Banking,Pending,8,1294272,168255.0,1126017.0
+997,20,2023-02-11 12:00:00,Chen Wei,40,China,Delhi,Smartphone,13,9593,9596,22,Credit Card,Delivered,14,124709,27436.0,97273.0
+998,11,2023-02-11 13:00:00,Fatima Khan,57,China,Dubai,Bluetooth Speaker,19,18358,7936,18,Debit Card,Pending,11,348802,62784.0,286018.0
+999,6,2023-02-11 14:00:00,Arjun Reddy,28,Australia,London,Fitness Band,21,38381,21677,13,Credit Card,Pending,2,806001,104780.0,701221.0
+1000,2,2023-02-11 15:00:00,Aarav Patel,49,Canada,Dubai,Smart TV,24,29074,27254,21,Debit Card,Returned,11,697776,146533.0,551243.0
+1001,7,2023-02-11 16:00:00,Emily Johnson,53,Singapore,New York,DSLR Camera,38,21595,27926,12,Net Banking,Delivered,11,820610,98473.0,722137.0
+1002,18,2023-02-11 17:00:00,Suresh Kumar,50,India,Hyderabad,Fitness Band,4,45194,25044,28,UPI,Shipped,8,180776,50617.0,130159.0
+1003,2,2023-02-11 18:00:00,Aditi Verma,41,Singapore,Bangalore,Drone,24,50377,27912,20,Net Banking,Returned,6,1209048,241810.0,967238.0
+1004,17,2023-02-11 19:00:00,Diya Iyer,56,Singapore,Dubai,Smartwatch,35,27853,13138,0,Debit Card,Delivered,8,974855,0.0,974855.0
+1005,11,2023-02-11 20:00:00,Aarav Patel,51,China,Bangalore,Bluetooth Speaker,3,74719,679,26,Cash on Delivery,Delivered,6,224157,58281.0,165876.0
+1006,12,2023-02-11 21:00:00,Fatima Khan,45,India,London,Drone,4,21661,4373,18,Net Banking,Returned,5,86644,15596.0,71048.0
+1007,19,2023-02-11 22:00:00,Arjun Reddy,54,India,Chennai,Bluetooth Speaker,37,51493,20844,28,Cash on Delivery,Returned,5,1905241,533467.0,1371774.0
+1008,7,2023-02-11 23:00:00,Fatima Khan,24,Australia,Bangalore,Earbuds,40,37495,18070,27,Cash on Delivery,Pending,14,1499800,404946.0,1094854.0
+1009,20,2023-02-12 00:00:00,Diya Iyer,21,France,Chennai,Tablet,48,14703,29035,0,Debit Card,Pending,14,705744,0.0,705744.0
+1010,6,2023-02-12 01:00:00,Haruto Tanaka,54,Japan,Delhi,Bluetooth Speaker,35,54080,15955,3,Debit Card,Pending,10,1892800,56784.0,1836016.0
+1011,1,2023-02-12 02:00:00,Aarav Patel,18,UK,Paris,Laptop,31,31815,17657,9,UPI,Shipped,10,986265,88764.0,897501.0
+1012,17,2023-02-12 03:00:00,Chen Wei,18,UK,Hyderabad,Power Bank,44,30565,13297,2,Credit Card,Returned,11,1344860,26897.0,1317963.0
+1013,11,2023-02-12 04:00:00,Yuki Nakamura,37,China,Dubai,Smartphone,25,64321,4960,26,Net Banking,Delivered,8,1608025,418086.0,1189939.0
+1014,18,2023-02-12 05:00:00,Suresh Kumar,36,Japan,Delhi,Wireless Mouse,40,59453,15816,19,Debit Card,Returned,7,2378120,451843.0,1926277.0
+1015,17,2023-02-12 06:00:00,Sophia Davis,46,France,Delhi,Smartphone,13,34161,852,8,Net Banking,Delivered,8,444093,35527.0,408566.0
+1016,7,2023-02-12 07:00:00,Emma Brown,27,Japan,Berlin,Power Bank,4,56991,23827,2,Cash on Delivery,Shipped,12,227964,4559.0,223405.0
+1017,17,2023-02-12 08:00:00,Fatima Khan,35,Australia,Tokyo,Gaming Console,46,10716,22086,27,Credit Card,Returned,8,492936,133093.0,359843.0
+1018,20,2023-02-12 09:00:00,Diya Iyer,45,Singapore,Mumbai,Laptop,14,34349,5844,5,UPI,Delivered,7,480886,24044.0,456842.0
+1019,9,2023-02-12 10:00:00,Aditi Verma,52,China,New York,Smartwatch,13,48098,5007,5,Net Banking,Delivered,2,625274,31264.0,594010.0
+1020,17,2023-02-12 11:00:00,Aditi Verma,48,India,Chennai,Bluetooth Speaker,27,1132,5330,22,Credit Card,Pending,11,30564,6724.0,23840.0
+1021,20,2023-02-12 12:00:00,Rahul Sharma,44,Italy,Paris,Gaming Console,6,52990,11720,24,UPI,Shipped,9,317940,76306.0,241634.0
+1022,8,2023-02-12 13:00:00,Aarav Patel,28,China,Tokyo,Laptop,17,69921,617,11,Net Banking,Returned,13,1188657,130752.0,1057905.0
+1023,17,2023-02-12 14:00:00,Fatima Khan,55,UK,Mumbai,Fitness Band,36,37538,17365,22,Credit Card,Pending,7,1351368,297301.0,1054067.0
+1024,7,2023-02-12 15:00:00,Emma Brown,22,France,Paris,Earbuds,40,8213,4787,29,Debit Card,Shipped,12,328520,95271.0,233249.0
+1025,1,2023-02-12 16:00:00,Liam Walker,25,Japan,New York,Smartphone,49,45223,27713,0,Net Banking,Pending,11,2215927,0.0,2215927.0
+1026,13,2023-02-12 17:00:00,Diya Iyer,51,France,Chennai,Gaming Console,35,69371,23686,15,Credit Card,Returned,6,2427985,364198.0,2063787.0
+1027,19,2023-02-12 18:00:00,Haruto Tanaka,29,Australia,Hyderabad,Smart TV,17,69274,25182,23,UPI,Delivered,9,1177658,270861.0,906797.0
+1028,19,2023-02-12 19:00:00,James Smith,55,China,New York,Bluetooth Speaker,41,5134,4977,4,Credit Card,Returned,13,210494,8420.0,202074.0
+1029,17,2023-02-12 20:00:00,Chen Wei,18,Canada,Dubai,Bluetooth Speaker,2,40601,29954,8,Debit Card,Shipped,1,81202,6496.0,74706.0
+1030,13,2023-02-12 21:00:00,Yuki Nakamura,48,China,Delhi,Smartwatch,13,74889,7033,9,Net Banking,Returned,11,973557,87620.0,885937.0
+1031,16,2023-02-12 22:00:00,Emma Brown,21,India,Berlin,Tablet,2,16690,17127,12,Net Banking,Shipped,2,33380,4006.0,29374.0
+1032,8,2023-02-12 23:00:00,James Smith,22,China,Mumbai,Smart TV,28,2909,27708,14,Net Banking,Pending,13,81452,11403.0,70049.0
+1033,19,2023-02-13 00:00:00,Aarav Patel,47,Germany,Mumbai,Bluetooth Speaker,43,13062,23896,11,Debit Card,Shipped,1,561666,61783.0,499883.0
+1034,18,2023-02-13 01:00:00,Chen Wei,41,Australia,Paris,DSLR Camera,26,76386,13255,4,UPI,Delivered,10,1986036,79441.0,1906595.0
+1035,1,2023-02-13 02:00:00,James Smith,20,USA,Berlin,Smart TV,22,35731,1365,4,Net Banking,Delivered,12,786082,31443.0,754639.0
+1036,14,2023-02-13 03:00:00,Chen Wei,28,Australia,Mumbai,Bluetooth Speaker,47,6153,11673,27,UPI,Delivered,3,289191,78082.0,211109.0
+1037,19,2023-02-13 04:00:00,Sophia Davis,21,Japan,Berlin,Power Bank,43,11481,26637,27,Credit Card,Pending,11,493683,133294.0,360389.0
+1038,15,2023-02-13 05:00:00,Rahul Sharma,43,Italy,Chennai,Smart TV,3,67425,5829,29,UPI,Shipped,5,202275,58660.0,143615.0
+1039,18,2023-02-13 06:00:00,Emma Brown,44,USA,Dubai,Laptop,35,64600,1103,17,UPI,Pending,1,2261000,384370.0,1876630.0
+1040,2,2023-02-13 07:00:00,Aarav Patel,44,Japan,New York,Smart TV,12,72997,6256,11,Net Banking,Returned,4,875964,96356.0,779608.0
+1041,17,2023-02-13 08:00:00,Emma Brown,59,Japan,Delhi,Wireless Mouse,24,29205,11754,26,Cash on Delivery,Returned,14,700920,182239.0,518681.0
+1042,18,2023-02-13 09:00:00,Sophia Davis,23,India,Dubai,Smartwatch,5,45149,4518,2,Cash on Delivery,Returned,13,225745,4515.0,221230.0
+1043,6,2023-02-13 10:00:00,Fatima Khan,32,India,Tokyo,Earbuds,20,50112,5692,25,Debit Card,Returned,8,1002240,250560.0,751680.0
+1044,19,2023-02-13 11:00:00,Fatima Khan,47,UAE,Hyderabad,Earbuds,39,11940,2515,24,Debit Card,Delivered,6,465660,111758.0,353902.0
+1045,4,2023-02-13 12:00:00,Fatima Khan,59,Singapore,Berlin,Earbuds,39,60010,10350,6,Cash on Delivery,Shipped,13,2340390,140423.0,2199967.0
+1046,1,2023-02-13 13:00:00,Emily Johnson,54,UK,Bangalore,Laptop,13,77794,3880,16,Credit Card,Delivered,1,1011322,161812.0,849510.0
+1047,8,2023-02-13 14:00:00,James Smith,54,Singapore,Dubai,Gaming Console,41,25485,28843,18,Net Banking,Shipped,12,1044885,188079.0,856806.0
+1048,7,2023-02-13 15:00:00,Emily Johnson,59,Singapore,Paris,Drone,45,2067,4270,27,Net Banking,Shipped,1,93015,25114.0,67901.0
+1049,3,2023-02-13 16:00:00,Rahul Sharma,54,Italy,Tokyo,Earbuds,12,21607,6329,17,Credit Card,Pending,3,259284,44078.0,215206.0
+1050,10,2023-02-13 17:00:00,Yuki Nakamura,52,UK,Delhi,Wireless Mouse,13,62597,2113,0,Credit Card,Returned,14,813761,0.0,813761.0
+1051,10,2023-02-13 18:00:00,Sophia Davis,40,Canada,Paris,Fitness Band,10,75554,13647,24,Cash on Delivery,Shipped,10,755540,181330.0,574210.0
+1052,19,2023-02-13 19:00:00,Aarav Patel,23,USA,Paris,Smartphone,33,49521,16045,23,Debit Card,Returned,8,1634193,375864.0,1258329.0
+1053,14,2023-02-13 20:00:00,Emma Brown,21,France,Bangalore,Laptop,40,16187,18763,4,Credit Card,Returned,11,647480,25899.0,621581.0
+1054,2,2023-02-13 21:00:00,Chen Wei,35,Singapore,Berlin,Gaming Console,16,4985,5872,26,Debit Card,Returned,11,79760,20738.0,59022.0
+1055,1,2023-02-13 22:00:00,Haruto Tanaka,26,Italy,Bangalore,Smartphone,45,44052,20992,27,UPI,Delivered,14,1982340,535232.0,1447108.0
+1056,18,2023-02-13 23:00:00,Aarav Patel,46,UAE,Dubai,Router,35,20563,11038,1,Net Banking,Returned,8,719705,7197.0,712508.0
+1057,7,2023-02-14 00:00:00,James Smith,30,China,Paris,Smartphone,3,48322,26175,0,Cash on Delivery,Shipped,13,144966,0.0,144966.0
+1058,8,2023-02-14 01:00:00,Emily Johnson,34,China,Mumbai,Smartphone,5,62245,26150,6,Net Banking,Delivered,3,311225,18674.0,292551.0
+1059,1,2023-02-14 02:00:00,Emily Johnson,49,Japan,Kolkata,DSLR Camera,26,52514,25862,28,Cash on Delivery,Returned,7,1365364,382302.0,983062.0
+1060,3,2023-02-14 03:00:00,Arjun Reddy,39,UK,Delhi,Smartwatch,11,19608,648,10,UPI,Pending,12,215688,21569.0,194119.0
+1061,8,2023-02-14 04:00:00,Emily Johnson,21,Japan,Mumbai,Smartwatch,7,68262,2254,10,Net Banking,Returned,3,477834,47783.0,430051.0
+1062,15,2023-02-14 05:00:00,Yuki Nakamura,22,Italy,Delhi,Drone,10,72327,27245,17,UPI,Returned,4,723270,122956.0,600314.0
+1063,5,2023-02-14 06:00:00,Liam Walker,54,Germany,Berlin,Laptop,42,58225,7878,16,Cash on Delivery,Delivered,9,2445450,391272.0,2054178.0
+1064,3,2023-02-14 07:00:00,Emma Brown,58,Germany,Kolkata,Wireless Mouse,34,74994,14091,1,Credit Card,Shipped,13,2549796,25498.0,2524298.0
+1065,19,2023-02-14 08:00:00,Liam Walker,30,UAE,Hyderabad,Wireless Mouse,3,18221,23565,6,Net Banking,Returned,4,54663,3280.0,51383.0
+1066,1,2023-02-14 09:00:00,Chen Wei,51,France,Kolkata,Wireless Mouse,8,49506,20640,6,UPI,Delivered,3,396048,23763.0,372285.0
+1067,15,2023-02-14 10:00:00,Emma Brown,39,India,Berlin,Smartphone,31,21968,9871,9,Net Banking,Delivered,5,681008,61291.0,619717.0
+1068,8,2023-02-14 11:00:00,Sophia Davis,40,India,London,Keyboard,11,28937,28385,21,Net Banking,Shipped,7,318307,66844.0,251463.0
+1069,2,2023-02-14 12:00:00,Emma Brown,20,UK,Dubai,Power Bank,45,63435,27499,20,Net Banking,Delivered,5,2854575,570915.0,2283660.0
+1070,3,2023-02-14 13:00:00,Liam Walker,59,UK,Berlin,Smart TV,7,50508,29253,2,Debit Card,Shipped,4,353556,7071.0,346485.0
+1071,14,2023-02-14 14:00:00,Aarav Patel,51,Singapore,Dubai,Gaming Console,45,42831,13279,29,UPI,Pending,8,1927395,558945.0,1368450.0
+1072,14,2023-02-14 15:00:00,Emma Brown,49,Germany,Tokyo,Smartwatch,2,43933,26000,11,UPI,Returned,4,87866,9665.0,78201.0
+1073,11,2023-02-14 16:00:00,Sophia Davis,38,Singapore,Mumbai,Keyboard,6,48307,22276,2,Net Banking,Delivered,2,289842,5797.0,284045.0
+1074,16,2023-02-14 17:00:00,Sophia Davis,38,India,Tokyo,Earbuds,41,49340,10295,10,Credit Card,Pending,10,2022940,202294.0,1820646.0
+1075,4,2023-02-14 18:00:00,Rahul Sharma,28,USA,London,Fitness Band,32,44601,19936,28,Net Banking,Delivered,13,1427232,399625.0,1027607.0
+1076,20,2023-02-14 19:00:00,Emma Brown,56,USA,Kolkata,Laptop,20,76956,6192,11,Debit Card,Delivered,14,1539120,169303.0,1369817.0
+1077,5,2023-02-14 20:00:00,Haruto Tanaka,21,UK,Dubai,Gaming Console,34,73178,4718,24,Cash on Delivery,Pending,6,2488052,597132.0,1890920.0
+1078,14,2023-02-14 21:00:00,Arjun Reddy,18,Japan,Chennai,Laptop,16,29754,5303,3,Debit Card,Delivered,2,476064,14282.0,461782.0
+1079,16,2023-02-14 22:00:00,Fatima Khan,45,India,Kolkata,Power Bank,25,44310,19261,24,Credit Card,Delivered,3,1107750,265860.0,841890.0
+1080,18,2023-02-14 23:00:00,Aditi Verma,41,USA,Kolkata,DSLR Camera,12,70893,12172,15,Net Banking,Pending,1,850716,127607.0,723109.0
+1081,7,2023-02-15 00:00:00,Sophia Davis,52,India,London,DSLR Camera,7,49367,21970,19,UPI,Delivered,5,345569,65658.0,279911.0
+1082,10,2023-02-15 01:00:00,Suresh Kumar,30,Australia,Hyderabad,Smartphone,39,14201,3682,17,Net Banking,Shipped,9,553839,94153.0,459686.0
+1083,7,2023-02-15 02:00:00,Fatima Khan,51,China,Delhi,Drone,17,3739,11509,3,Credit Card,Delivered,2,63563,1907.0,61656.0
+1084,1,2023-02-15 03:00:00,Yuki Nakamura,28,Germany,Paris,DSLR Camera,45,14231,14828,21,UPI,Returned,12,640395,134483.0,505912.0
+1085,19,2023-02-15 04:00:00,James Smith,53,Singapore,Paris,Laptop,11,43495,20044,5,Debit Card,Delivered,7,478445,23922.0,454523.0
+1086,16,2023-02-15 05:00:00,Emma Brown,34,India,London,Earbuds,6,22168,23460,20,Cash on Delivery,Returned,5,133008,26602.0,106406.0
+1087,19,2023-02-15 06:00:00,Liam Walker,52,China,Delhi,Drone,23,33624,29881,14,Cash on Delivery,Returned,2,773352,108269.0,665083.0
+1088,4,2023-02-15 07:00:00,Aditi Verma,35,Australia,Dubai,Smartphone,27,11635,29965,0,Net Banking,Delivered,8,314145,0.0,314145.0
+1089,18,2023-02-15 08:00:00,Suresh Kumar,57,Singapore,London,Bluetooth Speaker,46,10964,25787,2,Debit Card,Pending,11,504344,10087.0,494257.0
+1090,2,2023-02-15 09:00:00,Fatima Khan,39,India,Delhi,Wireless Mouse,6,28785,3086,4,Credit Card,Shipped,13,172710,6908.0,165802.0
+1091,1,2023-02-15 10:00:00,Emma Brown,41,UK,Berlin,Gaming Console,38,77928,3148,21,Cash on Delivery,Shipped,13,2961264,621865.0,2339399.0
+1092,15,2023-02-15 11:00:00,Rahul Sharma,36,China,Tokyo,Drone,2,13336,7813,29,Debit Card,Delivered,6,26672,7735.0,18937.0
+1093,5,2023-02-15 12:00:00,James Smith,54,Singapore,London,Power Bank,22,78475,18601,16,Net Banking,Pending,4,1726450,276232.0,1450218.0
+1094,20,2023-02-15 13:00:00,Aditi Verma,56,India,Berlin,Smartphone,20,28412,13044,29,UPI,Pending,13,568240,164790.0,403450.0
+1095,11,2023-02-15 14:00:00,Arjun Reddy,38,China,Dubai,Router,25,76379,22192,13,Net Banking,Shipped,4,1909475,248232.0,1661243.0
+1096,10,2023-02-15 15:00:00,Chen Wei,25,Australia,London,Laptop,15,46591,7907,8,Net Banking,Pending,2,698865,55909.0,642956.0
+1097,2,2023-02-15 16:00:00,Rahul Sharma,45,India,Dubai,Gaming Console,49,62750,17754,29,Debit Card,Delivered,3,3074750,891678.0,2183072.0
+1098,3,2023-02-15 17:00:00,Suresh Kumar,22,India,London,Earbuds,29,36454,15734,2,Cash on Delivery,Delivered,7,1057166,21143.0,1036023.0
+1099,12,2023-02-15 18:00:00,Yuki Nakamura,34,India,Delhi,Tablet,8,63672,20458,25,Debit Card,Pending,3,509376,127344.0,382032.0
+1100,20,2023-02-15 19:00:00,Aditi Verma,54,UAE,Hyderabad,Fitness Band,37,28228,22711,12,UPI,Delivered,13,1044436,125332.0,919104.0
+1101,5,2023-02-15 20:00:00,Rahul Sharma,53,France,New York,Power Bank,49,15429,29980,2,Debit Card,Returned,5,756021,15120.0,740901.0
+1102,5,2023-02-15 21:00:00,James Smith,36,UAE,Berlin,Laptop,33,68808,15512,10,Credit Card,Shipped,10,2270664,227066.0,2043598.0
+1103,6,2023-02-15 22:00:00,Arjun Reddy,44,UK,Delhi,Power Bank,22,54015,24870,1,Net Banking,Delivered,6,1188330,11883.0,1176447.0
+1104,9,2023-02-15 23:00:00,Rahul Sharma,51,Australia,Mumbai,Smartwatch,47,69936,25346,23,Cash on Delivery,Pending,6,3286992,756008.0,2530984.0
+1105,2,2023-02-16 00:00:00,Emily Johnson,28,UAE,Bangalore,Tablet,5,58378,10235,14,UPI,Shipped,14,291890,40865.0,251025.0
+1106,12,2023-02-16 01:00:00,Arjun Reddy,29,Singapore,Berlin,Gaming Console,39,38310,25625,12,Net Banking,Delivered,4,1494090,179291.0,1314799.0
+1107,3,2023-02-16 02:00:00,Chen Wei,38,Italy,Hyderabad,DSLR Camera,18,69827,13925,18,Debit Card,Shipped,6,1256886,226239.0,1030647.0
+1108,20,2023-02-16 03:00:00,Suresh Kumar,28,France,Tokyo,Laptop,38,36256,16198,21,Credit Card,Pending,3,1377728,289323.0,1088405.0
+1109,12,2023-02-16 04:00:00,Yuki Nakamura,56,Japan,Kolkata,Power Bank,37,77428,29739,15,Debit Card,Returned,7,2864836,429725.0,2435111.0
+1110,17,2023-02-16 05:00:00,James Smith,45,Italy,Paris,Gaming Console,30,39889,29090,17,Net Banking,Returned,7,1196670,203434.0,993236.0
+1111,10,2023-02-16 06:00:00,Haruto Tanaka,22,France,Delhi,DSLR Camera,31,52428,15821,6,UPI,Delivered,4,1625268,97516.0,1527752.0
+1112,14,2023-02-16 07:00:00,Emma Brown,34,Germany,London,Earbuds,10,38207,13146,12,Cash on Delivery,Returned,2,382070,45848.0,336222.0
+1113,17,2023-02-16 08:00:00,Liam Walker,37,Germany,Delhi,Earbuds,15,51255,22653,3,Net Banking,Delivered,11,768825,23065.0,745760.0
+1114,18,2023-02-16 09:00:00,Diya Iyer,58,India,Berlin,Power Bank,42,6409,22617,8,UPI,Shipped,7,269178,21534.0,247644.0
+1115,19,2023-02-16 10:00:00,Aarav Patel,29,France,Chennai,Smartphone,48,43438,26788,29,Net Banking,Delivered,3,2085024,604657.0,1480367.0
+1116,17,2023-02-16 11:00:00,Aarav Patel,23,Japan,Berlin,Smartwatch,44,8869,20124,9,Credit Card,Delivered,1,390236,35121.0,355115.0
+1117,14,2023-02-16 12:00:00,Liam Walker,34,France,Hyderabad,Fitness Band,18,57862,26438,8,Debit Card,Delivered,2,1041516,83321.0,958195.0
+1118,9,2023-02-16 13:00:00,Diya Iyer,36,UK,New York,Smartphone,23,26958,5393,6,Cash on Delivery,Returned,10,620034,37202.0,582832.0
+1119,8,2023-02-16 14:00:00,Liam Walker,43,Italy,Tokyo,Smartwatch,33,77302,9976,14,UPI,Delivered,9,2550966,357135.0,2193831.0
+1120,2,2023-02-16 15:00:00,Aditi Verma,49,UK,Chennai,Laptop,16,20768,17770,27,Cash on Delivery,Pending,12,332288,89718.0,242570.0
+1121,13,2023-02-16 16:00:00,Suresh Kumar,23,Japan,Dubai,Wireless Mouse,38,27145,22738,7,Cash on Delivery,Delivered,8,1031510,72206.0,959304.0
+1122,7,2023-02-16 17:00:00,James Smith,53,France,Chennai,Drone,35,76622,22202,18,Cash on Delivery,Shipped,14,2681770,482719.0,2199051.0
+1123,9,2023-02-16 18:00:00,Arjun Reddy,55,China,Delhi,Bluetooth Speaker,34,27442,19142,10,UPI,Pending,6,933028,93303.0,839725.0
+1124,11,2023-02-16 19:00:00,Aditi Verma,28,UK,Tokyo,Power Bank,28,26596,4882,4,UPI,Shipped,14,744688,29788.0,714900.0
+1125,14,2023-02-16 20:00:00,Suresh Kumar,50,UK,Delhi,Fitness Band,2,76791,2285,1,Cash on Delivery,Shipped,6,153582,1536.0,152046.0
+1126,4,2023-02-16 21:00:00,Emma Brown,41,USA,Dubai,Smart TV,30,43406,13530,9,Debit Card,Shipped,14,1302180,117196.0,1184984.0
+1127,13,2023-02-16 22:00:00,Emily Johnson,40,France,Berlin,Wireless Mouse,13,41524,12235,15,Net Banking,Pending,1,539812,80972.0,458840.0
+1128,2,2023-02-16 23:00:00,Aarav Patel,32,UK,Kolkata,Router,41,24332,24611,22,Cash on Delivery,Pending,2,997612,219475.0,778137.0
+1129,5,2023-02-17 00:00:00,James Smith,44,UAE,Tokyo,Keyboard,16,16764,17179,12,Credit Card,Returned,4,268224,32187.0,236037.0
+1130,11,2023-02-17 01:00:00,Liam Walker,28,Australia,Kolkata,Power Bank,5,28563,10745,7,Cash on Delivery,Pending,3,142815,9997.0,132818.0
+1131,6,2023-02-17 02:00:00,Rahul Sharma,34,France,Hyderabad,Tablet,28,37370,3097,8,UPI,Delivered,14,1046360,83709.0,962651.0
+1132,18,2023-02-17 03:00:00,Haruto Tanaka,31,Germany,Hyderabad,DSLR Camera,39,6062,17564,10,Net Banking,Shipped,1,236418,23642.0,212776.0
+1133,10,2023-02-17 04:00:00,James Smith,44,USA,Kolkata,Tablet,45,45645,21774,10,Credit Card,Returned,8,2054025,205402.0,1848623.0
+1134,4,2023-02-17 05:00:00,Sophia Davis,35,UK,Hyderabad,Earbuds,20,8244,21182,22,Net Banking,Pending,7,164880,36274.0,128606.0
+1135,9,2023-02-17 06:00:00,Yuki Nakamura,45,USA,Tokyo,Smartwatch,24,7372,824,25,Net Banking,Shipped,4,176928,44232.0,132696.0
+1136,6,2023-02-17 07:00:00,Diya Iyer,21,Germany,London,DSLR Camera,27,65471,15660,15,Credit Card,Pending,12,1767717,265158.0,1502559.0
+1137,2,2023-02-17 08:00:00,Suresh Kumar,24,Japan,Mumbai,Wireless Mouse,30,17956,24836,9,Cash on Delivery,Returned,12,538680,48481.0,490199.0
+1138,17,2023-02-17 09:00:00,Fatima Khan,52,Japan,Hyderabad,Earbuds,45,41473,27367,28,Cash on Delivery,Pending,9,1866285,522560.0,1343725.0
+1139,5,2023-02-17 10:00:00,Emma Brown,26,Italy,Hyderabad,DSLR Camera,27,14894,13114,23,Cash on Delivery,Pending,11,402138,92492.0,309646.0
+1140,6,2023-02-17 11:00:00,Emily Johnson,25,France,Delhi,Smartphone,26,70586,1486,11,Debit Card,Shipped,14,1835236,201876.0,1633360.0
+1141,12,2023-02-17 12:00:00,Emma Brown,34,Germany,Kolkata,Earbuds,7,17709,20002,24,Cash on Delivery,Delivered,4,123963,29751.0,94212.0
+1142,10,2023-02-17 13:00:00,James Smith,34,Canada,Bangalore,Smartphone,42,16210,1260,5,Credit Card,Pending,1,680820,34041.0,646779.0
+1143,6,2023-02-17 14:00:00,Aarav Patel,50,Italy,New York,Smartphone,47,50510,24642,27,Debit Card,Returned,10,2373970,640972.0,1732998.0
+1144,8,2023-02-17 15:00:00,Diya Iyer,49,Canada,Paris,DSLR Camera,38,39674,12385,11,Cash on Delivery,Pending,1,1507612,165837.0,1341775.0
+1145,2,2023-02-17 16:00:00,Fatima Khan,25,France,Paris,Router,5,18733,9728,9,Debit Card,Pending,1,93665,8430.0,85235.0
+1146,12,2023-02-17 17:00:00,Sophia Davis,36,India,Chennai,Gaming Console,23,21080,17790,17,Credit Card,Delivered,1,484840,82423.0,402417.0
+1147,13,2023-02-17 18:00:00,Arjun Reddy,55,USA,Hyderabad,Tablet,28,54412,5999,17,Cash on Delivery,Shipped,4,1523536,259001.0,1264535.0
+1148,7,2023-02-17 19:00:00,Rahul Sharma,20,USA,Chennai,Earbuds,34,59971,864,3,UPI,Returned,1,2039014,61170.0,1977844.0
+1149,10,2023-02-17 20:00:00,Fatima Khan,22,Japan,Tokyo,Router,15,40709,24653,8,Credit Card,Shipped,2,610635,48851.0,561784.0
+1150,13,2023-02-17 21:00:00,Suresh Kumar,30,Canada,Bangalore,Smart TV,32,60846,20297,6,Net Banking,Shipped,4,1947072,116824.0,1830248.0
+1151,17,2023-02-17 22:00:00,Liam Walker,48,UAE,New York,Gaming Console,26,66480,8527,17,Net Banking,Shipped,7,1728480,293842.0,1434638.0
+1152,14,2023-02-17 23:00:00,Sophia Davis,33,Singapore,Kolkata,Keyboard,48,53960,14032,7,Credit Card,Pending,2,2590080,181306.0,2408774.0
+1153,2,2023-02-18 00:00:00,Rahul Sharma,49,UK,Berlin,Tablet,31,42152,14908,10,Net Banking,Delivered,8,1306712,130671.0,1176041.0
+1154,11,2023-02-18 01:00:00,Haruto Tanaka,39,UK,Mumbai,Fitness Band,19,28250,16605,6,Credit Card,Pending,13,536750,32205.0,504545.0
+1155,1,2023-02-18 02:00:00,Emily Johnson,46,UK,New York,Fitness Band,9,49137,8439,8,UPI,Returned,7,442233,35379.0,406854.0
+1156,19,2023-02-18 03:00:00,Liam Walker,39,Japan,New York,Drone,29,47412,14436,7,Credit Card,Delivered,9,1374948,96246.0,1278702.0
+1157,4,2023-02-18 04:00:00,James Smith,20,Germany,Berlin,Earbuds,39,44876,9761,2,Cash on Delivery,Shipped,14,1750164,35003.0,1715161.0
+1158,19,2023-02-18 05:00:00,Fatima Khan,27,UAE,Mumbai,Wireless Mouse,4,74664,16363,16,Cash on Delivery,Delivered,6,298656,47785.0,250871.0
+1159,11,2023-02-18 06:00:00,Aarav Patel,59,China,London,Smartwatch,3,51227,13061,1,Debit Card,Returned,4,153681,1537.0,152144.0
+1160,8,2023-02-18 07:00:00,Rahul Sharma,38,Canada,Kolkata,Fitness Band,29,33450,10947,14,Net Banking,Pending,6,970050,135807.0,834243.0
+1161,11,2023-02-18 08:00:00,Yuki Nakamura,33,UAE,Berlin,Drone,11,74704,14672,13,Net Banking,Pending,4,821744,106827.0,714917.0
+1162,4,2023-02-18 09:00:00,Aditi Verma,29,Italy,Delhi,Tablet,33,7861,12378,28,Credit Card,Shipped,7,259413,72636.0,186777.0
+1163,17,2023-02-18 10:00:00,Yuki Nakamura,19,Canada,Chennai,Smart TV,38,62914,12911,17,Net Banking,Pending,9,2390732,406424.0,1984308.0
+1164,7,2023-02-18 11:00:00,Arjun Reddy,58,UAE,Paris,Power Bank,11,64888,19965,15,Cash on Delivery,Pending,3,713768,107065.0,606703.0
+1165,8,2023-02-18 12:00:00,Yuki Nakamura,41,Singapore,Hyderabad,Laptop,27,62293,5948,19,UPI,Returned,3,1681911,319563.0,1362348.0
+1166,3,2023-02-18 13:00:00,Haruto Tanaka,52,UAE,New York,Smartphone,33,69515,20142,21,Credit Card,Delivered,2,2293995,481739.0,1812256.0
+1167,2,2023-02-18 14:00:00,Arjun Reddy,47,UAE,Tokyo,Router,21,24524,2607,3,Net Banking,Pending,1,515004,15450.0,499554.0
+1168,15,2023-02-18 15:00:00,Sophia Davis,47,UAE,Paris,Fitness Band,39,8065,8428,24,Cash on Delivery,Returned,14,314535,75488.0,239047.0
+1169,5,2023-02-18 16:00:00,Emily Johnson,52,USA,Paris,Laptop,31,38684,15734,19,Debit Card,Returned,1,1199204,227849.0,971355.0
+1170,1,2023-02-18 17:00:00,Sophia Davis,36,India,Mumbai,Gaming Console,38,34365,19817,5,Net Banking,Shipped,13,1305870,65294.0,1240576.0
+1171,4,2023-02-18 18:00:00,Aditi Verma,25,France,Chennai,Power Bank,46,59876,16810,5,UPI,Returned,3,2754296,137715.0,2616581.0
+1172,15,2023-02-18 19:00:00,Suresh Kumar,43,Italy,Bangalore,Smartphone,2,24704,19713,25,UPI,Shipped,14,49408,12352.0,37056.0
+1173,20,2023-02-18 20:00:00,Emily Johnson,57,Italy,Mumbai,Earbuds,27,58857,25517,10,Net Banking,Pending,7,1589139,158914.0,1430225.0
+1174,19,2023-02-18 21:00:00,Yuki Nakamura,24,USA,Berlin,Fitness Band,36,6622,14028,25,Net Banking,Shipped,11,238392,59598.0,178794.0
+1175,3,2023-02-18 22:00:00,Aarav Patel,47,Germany,Bangalore,Gaming Console,11,67201,21890,16,Cash on Delivery,Returned,9,739211,118274.0,620937.0
+1176,20,2023-02-18 23:00:00,Emma Brown,24,France,Kolkata,Smart TV,47,33694,13813,23,Net Banking,Delivered,14,1583618,364232.0,1219386.0
+1177,11,2023-02-19 00:00:00,Suresh Kumar,20,Canada,New York,Router,18,23995,2059,27,Debit Card,Delivered,2,431910,116616.0,315294.0
+1178,17,2023-02-19 01:00:00,Emily Johnson,18,Germany,Tokyo,Fitness Band,1,9419,18625,2,Cash on Delivery,Pending,7,9419,188.0,9231.0
+1179,13,2023-02-19 02:00:00,Emily Johnson,53,France,Paris,DSLR Camera,35,48952,15667,12,Credit Card,Pending,1,1713320,205598.0,1507722.0
+1180,11,2023-02-19 03:00:00,Aditi Verma,42,Singapore,Hyderabad,Earbuds,35,34837,15843,21,Debit Card,Delivered,2,1219295,256052.0,963243.0
+1181,2,2023-02-19 04:00:00,James Smith,54,Singapore,Bangalore,Tablet,31,71799,6330,2,Cash on Delivery,Shipped,6,2225769,44515.0,2181254.0
+1182,9,2023-02-19 05:00:00,Yuki Nakamura,18,Australia,Chennai,DSLR Camera,28,49877,8023,15,Cash on Delivery,Pending,11,1396556,209483.0,1187073.0
+1183,2,2023-02-19 06:00:00,Aditi Verma,32,China,London,Gaming Console,39,46687,17509,14,UPI,Returned,5,1820793,254911.0,1565882.0
+1184,9,2023-02-19 07:00:00,Emily Johnson,54,Singapore,Kolkata,Tablet,1,38276,28939,10,Cash on Delivery,Pending,8,38276,3828.0,34448.0
+1185,9,2023-02-19 08:00:00,Rahul Sharma,30,Canada,London,Smart TV,25,35523,18574,17,Debit Card,Shipped,12,888075,150973.0,737102.0
+1186,8,2023-02-19 09:00:00,Suresh Kumar,57,India,Kolkata,Keyboard,43,67055,16024,14,Net Banking,Pending,11,2883365,403671.0,2479694.0
+1187,17,2023-02-19 10:00:00,Aditi Verma,25,UK,Delhi,Laptop,38,55615,13785,4,Debit Card,Returned,2,2113370,84535.0,2028835.0
+1188,1,2023-02-19 11:00:00,James Smith,22,Australia,Chennai,Tablet,20,11514,11473,15,Credit Card,Returned,1,230280,34542.0,195738.0
+1189,11,2023-02-19 12:00:00,Diya Iyer,26,UK,Berlin,Laptop,3,48456,25166,29,Cash on Delivery,Returned,7,145368,42157.0,103211.0
+1190,8,2023-02-19 13:00:00,Fatima Khan,18,Italy,Paris,Drone,2,8233,23194,15,Cash on Delivery,Shipped,6,16466,2470.0,13996.0
+1191,10,2023-02-19 14:00:00,Sophia Davis,53,UAE,London,Smartphone,18,2102,3506,16,Cash on Delivery,Shipped,8,37836,6054.0,31782.0
+1192,7,2023-02-19 15:00:00,Emily Johnson,52,China,Tokyo,Smartwatch,44,67133,4802,8,Cash on Delivery,Returned,11,2953852,236308.0,2717544.0
+1193,3,2023-02-19 16:00:00,Yuki Nakamura,19,Italy,New York,Bluetooth Speaker,10,47715,17972,26,UPI,Returned,13,477150,124059.0,353091.0
+1194,3,2023-02-19 17:00:00,Emma Brown,57,France,Mumbai,Drone,5,7256,22891,22,UPI,Shipped,14,36280,7982.0,28298.0
+1195,18,2023-02-19 18:00:00,Fatima Khan,40,Italy,Hyderabad,Earbuds,9,65800,5111,2,Net Banking,Shipped,8,592200,11844.0,580356.0
+1196,5,2023-02-19 19:00:00,Arjun Reddy,26,Japan,Berlin,Bluetooth Speaker,2,42548,9872,19,Cash on Delivery,Shipped,2,85096,16168.0,68928.0
+1197,12,2023-02-19 20:00:00,Aarav Patel,51,Singapore,New York,Smartphone,34,73090,24812,12,Credit Card,Delivered,14,2485060,298207.0,2186853.0
+1198,12,2023-02-19 21:00:00,Aarav Patel,31,India,Paris,Tablet,38,79200,14580,21,Net Banking,Shipped,8,3009600,632016.0,2377584.0
+1199,19,2023-02-19 22:00:00,Chen Wei,21,China,New York,Smartphone,31,43367,15582,2,Cash on Delivery,Returned,6,1344377,26888.0,1317489.0
+1200,6,2023-02-19 23:00:00,Chen Wei,47,UK,Kolkata,Wireless Mouse,10,71382,15141,27,UPI,Delivered,9,713820,192731.0,521089.0
